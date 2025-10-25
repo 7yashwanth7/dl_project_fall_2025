@@ -1,1 +1,1 @@
-# dl_project_fall_2025
+# DL Project (Fall 2025)
