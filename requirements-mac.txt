@@ -1,0 +1,7 @@
+transformers>=4.42.0
+datasets
+peft
+accelerate
+pillow
+sentencepiece
+timm>=0.9.16
