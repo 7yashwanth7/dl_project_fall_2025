@@ -1,0 +1,140 @@
+"""
+Orchestrates the evaluation pipeline
+Check the comments for requirements for a VLM wrapper and Dataloader
+"""
+
+
+import torch
+from torch.utils.data import DataLoader
+from tqdm import tqdm
+import numpy as np
+import json
+
+from src.evaluation.metrics import MedicalEvaluator
+from src.models.loss import UnifiedVLMLoss
+
+
+
+def evaluate_model(model, test_loader, device, concept_names):
+    """
+    Runs the full evaluation loop on the test set for both concept detection and captioning.
+
+    CRITICAL REQUIREMENT: The 'model' object passed here must be an Augmented VLM
+    (a wrapper around the Qwen/LLaVA model) that has two key features:
+    1. A `.predict_concepts(images)` method that outputs the concept logits [B, N_Concepts].
+    2. A standard `.generate(pixel_values, ...)` method for captioning.
+
+    The DataLoader MUST yield batches containing 'pixel_values', 'concept_labels',
+    'caption_text', and optionally 'raw_images'.
+    """
+    model.eval()
+    evaluator = MedicalEvaluator(device=device)
+
+    # Storage for aggregation
+    all_concept_preds = []
+    all_concept_labels = []
+    all_captions_pred = []
+    all_captions_ref = []
+    all_images = []  # Used for MedCLIP score
+
+    print(f"Starting evaluation on {len(test_loader.dataset)} images...")
+
+    with torch.no_grad():
+        for batch in tqdm(test_loader, desc="Evaluating"):
+            # Unpack batch (keys must match custom DataLoader/Collator)
+            images = batch['pixel_values'].to(device)
+
+            # concept_labels should be a tensor/numpy array of shape [B, N_Concepts]
+            concept_labels = batch['concept_labels'].cpu().numpy()
+
+            # ground_truth_captions must be a list of strings
+            ground_truth_captions = batch['caption_text']
+
+            # 1. Forward Pass for Concepts
+            # This relies on the custom model wrapper
+            try:
+                concept_logits = model.predict_concepts(images)
+            except AttributeError:
+                print("\nCRITICAL ERROR: 'model' object must have a 'predict_concepts' method.")
+                # Fallback to avoid crash, but this is a major implementation hole
+                return None
+
+            # Convert logits to binary predictions using a 0.5 threshold
+            concept_preds = (torch.sigmoid(concept_logits) > 0.5).cpu().numpy()
+
+            # 2. Generation Pass for Captions
+            # Standard generate() call for Hugging Face VLMs
+            generated_ids = model.generate(
+                pixel_values=images,
+                max_new_tokens=100,
+                do_sample=False,  # Deterministic for eval
+                num_beams=3
+            )
+            # The tokenizer needs to be attached to the model (e.g., model.tokenizer)
+            generated_captions = model.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+
+            # Store results
+            all_concept_preds.append(concept_preds)
+            all_concept_labels.append(concept_labels)
+            all_captions_pred.extend(generated_captions)
+            all_captions_ref.extend(ground_truth_captions)
+
+            # For MedCLIP, we need raw PIL images (must be yielded by the DataLoader)
+            if 'raw_images' in batch:
+                all_images.extend(batch['raw_images'])
+
+    # Aggregate and Calculate Metrics
+    all_concept_preds = np.vstack(all_concept_preds)
+    all_concept_labels = np.vstack(all_concept_labels)
+
+    print("\nComputing Concept Metrics...")
+    concept_metrics = evaluator.compute_concept_metrics(
+        all_concept_labels,
+        all_concept_preds,
+        concept_names=concept_names
+    )
+
+    print("Computing Caption Metrics (ROUGE, BERTScore, MedCLIP)...")
+    caption_metrics = evaluator.compute_caption_metrics(
+        all_captions_ref,
+        all_captions_pred,
+        images=all_images if all_images else None
+    )
+
+    # Final Report and Output
+    results = {**concept_metrics, **caption_metrics}
+
+    print("\n" + "=" * 30)
+    print("FINAL EVALUATION REPORT")
+    print("=" * 30)
+    print(f"Concept F1 (Micro): {results['concept_f1_micro']:.4f}")
+    print(f"Concept F1 (Macro): {results['concept_f1_macro']:.4f}")
+    print(f"Concept Precision:  {results['concept_precision_micro']:.4f}")
+    print(f"Concept Recall:     {results['concept_recall_micro']:.4f}")
+    print("-" * 20)
+    print(f"ROUGE-1:    {results['rouge1']:.4f}")
+    print(f"ROUGE-L:    {results['rougeL']:.4f}")
+    print(f"BERTScore:  {results['bert_score']:.4f}")
+    print(f"MedCLIP:    {results['medclip_score']:.4f}")
+    print("-" * 20)
+
+    if "top_5_concepts" in results:
+        print("\nTop 5 Best Detected Concepts (by F1):")
+        for name, score in results['top_5_concepts']:
+            print(f"  {name}: {score:.4f}")
+
+        print("\nWorst 5 Detected Concepts (by F1):")
+        for name, score in results['worst_5_concepts']:
+            print(f"  {name}: {score:.4f}")
+
+    # Save to file
+    with open("evaluation_results.json", "w") as f:
+        # Convert numpy types to python floats for JSON serialization
+        clean_results = {k: float(v) if isinstance(v, (np.float32, np.float64)) else v for k, v in results.items()}
+        json.dump(clean_results, f, indent=4)
+
+    return results
+
+
+if __name__ == "__main__":
+    print("Evaluation script is ready. Ensure your Augmented VLM is ready for testing.")
