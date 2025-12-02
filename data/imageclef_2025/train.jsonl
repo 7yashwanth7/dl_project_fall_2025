@@ -1,0 +1,6 @@
+{"instruction": "Translate to French", "input": "Hello, how are you?", "output": "Bonjour, comment ça va ?"}
+{"instruction": "Summarize", "input": "Deep learning has transformed ML...", "output": "Deep learning improved ML via representation learning."}
+{"instruction": "Answer the question", "input": "What is overfitting in ML?", "output": "When a model memorizes training data and fails to generalize."}
+{"instruction": "Translate to Tamil", "input": "Hello, how are you?", "output": "Bonjour, comment ça va ?"}
+{"instruction": "Translate to Tamil", "input": "Deep learning has transformed ML...", "output": "Deep learning improved ML via representation learning."}
+{"instruction": "Translate to Tamil", "input": "What is overfitting in ML?", "output": "When a model memorizes training data and fails to generalize."}
