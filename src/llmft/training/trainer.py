@@ -4,3 +4,6 @@ def check_print():
 
 def check_auto_reload():
   print("checking autoreload")
+
+def check_commits():
+  print("Check commits")
