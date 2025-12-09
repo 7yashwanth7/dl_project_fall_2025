@@ -21,19 +21,16 @@ def build_messages(sample: Dict[str, Any], system_message: str, user_prompt: str
             "role": "user",
             "content": [
                 {"type": "text", "text": user_prompt},
-                {"type": "image", "image": sample["image"]},
+                {"type": "image"},
             ],
         },
     ]
 
 
-def prepare_batch(
-    samples: Sequence[Dict[str, Any]],
-    processor,
-    system_message: str,
-    user_prompt: str,
-) -> Dict[str, Any]:
+def prepare_batch(samples, processor, system_message, user_prompt):
+
     """Build model inputs for a batch of samples."""
+
     messages = [build_messages(s, system_message, user_prompt) for s in samples]
     chat_texts = [
         processor.apply_chat_template(msg, add_generation_prompt=True, tokenize=False)
@@ -46,14 +43,15 @@ def prepare_batch(
         return_tensors="pt",
         padding=True,
     )
+
     return inputs
 
 
 def decode_generations(
     generated_ids: torch.Tensor,
     prompt_input_ids: torch.Tensor,
-    tokenizer,
-) -> List[str]:
+    tokenizer):
+    
     """Decode only the generated tokens (strip the prompt)."""
     prompt_len = prompt_input_ids.shape[1]
     gen_only = generated_ids[:, prompt_len:]
@@ -112,7 +110,7 @@ def save_jsonl(records: Iterable[Dict[str, Any]], path: Path) -> None:
             f.write(json.dumps(rec) + "\n")
 
 
-def score_multiple_and_save(
+def score_batch_dataset(
     datasets: Dict[str, Any],
     model,
     processor,
@@ -136,7 +134,6 @@ def score_multiple_and_save(
             max_samples=max_samples,
             gen_kwargs=gen_kwargs,
         )
-        out_path = output_dir / f\"{name.replace('/', '_')}_scores.jsonl\"
-        save_jsonl(results, out_path)
-        paths[name] = out_path
-    return paths
+        # save_jsonl(results, output_dir)
+        # paths[name] = output_dir
+    return results
