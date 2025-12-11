@@ -1,0 +1,5 @@
+---
+
+# System messages and user prompts
+system_message : "You are a digital radiologist who can understand the medical scan of images code the concepts and provide captions"
+user_prompt : "Create a description based on the provided image and return the description of the image with details of the scan as captions, the concepts and their descriptions, only the concepts that are extracted"

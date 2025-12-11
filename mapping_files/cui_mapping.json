@@ -1,0 +1,7738 @@
+[
+  {
+    "CUI": "C0016522",
+    "Canonical name": "Foramen Ovale, Patent"
+  },
+  {
+    "CUI": "C0457846",
+    "Canonical name": "Cervical segment of spinal cord"
+  },
+  {
+    "CUI": "C0578537",
+    "Canonical name": "Cavitation of lung"
+  },
+  {
+    "CUI": "C0179751",
+    "Canonical name": "Epidural catheter"
+  },
+  {
+    "CUI": "C3489393",
+    "Canonical name": "Hiatal Hernia"
+  },
+  {
+    "CUI": "C0730166",
+    "Canonical name": "Bone structure of fifth metacarpal"
+  },
+  {
+    "CUI": "C1261077",
+    "Canonical name": "Structure of left lower lobe of lung"
+  },
+  {
+    "CUI": "C0152443",
+    "Canonical name": "Urethral diverticulum"
+  },
+  {
+    "CUI": "C0227301",
+    "Canonical name": "Descending part of duodenum"
+  },
+  {
+    "CUI": "C0031354",
+    "Canonical name": "Pharyngeal structure"
+  },
+  {
+    "CUI": "C4039172",
+    "Canonical name": "Posterior point of nasal spine"
+  },
+  {
+    "CUI": "C0227387",
+    "Canonical name": "Left colic flexure"
+  },
+  {
+    "CUI": "C0227385",
+    "Canonical name": "Hepatic flexure of colon"
+  },
+  {
+    "CUI": "C0228126",
+    "Canonical name": "Leptomeninges"
+  },
+  {
+    "CUI": "C0230436",
+    "Canonical name": "Popliteal fossa structure"
+  },
+  {
+    "CUI": "C0037922",
+    "Canonical name": "Spinal Canal"
+  },
+  {
+    "CUI": "C1260954",
+    "Canonical name": "Morphologically altered structure"
+  },
+  {
+    "CUI": "C0450184",
+    "Canonical name": "Jejunal loop"
+  },
+  {
+    "CUI": "C0729936",
+    "Canonical name": "Cardiac chamber structure"
+  },
+  {
+    "CUI": "C0032718",
+    "Canonical name": "Portal vein structure"
+  },
+  {
+    "CUI": "C0149543",
+    "Canonical name": "Base of skull structure"
+  },
+  {
+    "CUI": "C0027540",
+    "Canonical name": "Necrosis"
+  },
+  {
+    "CUI": "C0582254",
+    "Canonical name": "Entire intrahepatic part of main portal vein"
+  },
+  {
+    "CUI": "C0227375",
+    "Canonical name": "Ascending colon"
+  },
+  {
+    "CUI": "C0006441",
+    "Canonical name": "Synovial bursa"
+  },
+  {
+    "CUI": "C0041967",
+    "Canonical name": "Urethra"
+  },
+  {
+    "CUI": "C0729538",
+    "Canonical name": "Saphenous vein graft"
+  },
+  {
+    "CUI": "C0007144",
+    "Canonical name": "Cardia of stomach"
+  },
+  {
+    "CUI": "C0341539",
+    "Canonical name": "Parastomal hernia"
+  },
+  {
+    "CUI": "C0085221",
+    "Canonical name": "Structure of psoas muscle"
+  },
+  {
+    "CUI": "C0007473",
+    "Canonical name": "Structure of cavernous sinus"
+  },
+  {
+    "CUI": "C0227997",
+    "Canonical name": "Structure of right testis"
+  },
+  {
+    "CUI": "C0015426",
+    "Canonical name": "Eyelid structure"
+  },
+  {
+    "CUI": "C0013303",
+    "Canonical name": "Duodenum"
+  },
+  {
+    "CUI": "C0162859",
+    "Canonical name": "Common carotid artery"
+  },
+  {
+    "CUI": "C0333161",
+    "Canonical name": "Pseudocyst"
+  },
+  {
+    "CUI": "C1261084",
+    "Canonical name": "Common iliac artery structure"
+  },
+  {
+    "CUI": "C0225708",
+    "Canonical name": "Structure of base of right lung"
+  },
+  {
+    "CUI": "C2973725",
+    "Canonical name": "Pulmonary arterial hypertension"
+  },
+  {
+    "CUI": "C0224378",
+    "Canonical name": "Structure of transversus abdominis muscle"
+  },
+  {
+    "CUI": "C0007966",
+    "Canonical name": "Cheek structure"
+  },
+  {
+    "CUI": "C1321756",
+    "Canonical name": "Achalasia"
+  },
+  {
+    "CUI": "C0028784",
+    "Canonical name": "Occipital bone structure"
+  },
+  {
+    "CUI": "C0007531",
+    "Canonical name": "Cecum"
+  },
+  {
+    "CUI": "C0227457",
+    "Canonical name": "Structure of left parotid gland"
+  },
+  {
+    "CUI": "C0042232",
+    "Canonical name": "Vagina"
+  },
+  {
+    "CUI": "C0264972",
+    "Canonical name": "Aneurysm of hepatic artery"
+  },
+  {
+    "CUI": "C0341318",
+    "Canonical name": "Enterocutaneous Fistula"
+  },
+  {
+    "CUI": "C0003855",
+    "Canonical name": "Arteriovenous fistula"
+  },
+  {
+    "CUI": "C0262431",
+    "Canonical name": "Compression fracture of vertebral column"
+  },
+  {
+    "CUI": "C0040761",
+    "Canonical name": "Transposition of Great Vessels"
+  },
+  {
+    "CUI": "C0226707",
+    "Canonical name": "Structure of middle hepatic vein"
+  },
+  {
+    "CUI": "C0184149",
+    "Canonical name": "Nephrostomy tube"
+  },
+  {
+    "CUI": "C1261316",
+    "Canonical name": "Right coronary artery structure"
+  },
+  {
+    "CUI": "C0013687",
+    "Canonical name": "effusion"
+  },
+  {
+    "CUI": "C0010384",
+    "Canonical name": "Prostheses, Dental, Fixed, Crown, Total, Temporary"
+  },
+  {
+    "CUI": "C0442872",
+    "Canonical name": "Multiple cysts"
+  },
+  {
+    "CUI": "C0225599",
+    "Canonical name": "Tracheal bronchus"
+  },
+  {
+    "CUI": "C0001863",
+    "Canonical name": "Air bubble"
+  },
+  {
+    "CUI": "C0228515",
+    "Canonical name": "Cerebellar peduncle"
+  },
+  {
+    "CUI": "C0004455",
+    "Canonical name": "Structure of axillary artery"
+  },
+  {
+    "CUI": "C0230140",
+    "Canonical name": "Structure of right thoracic cavity"
+  },
+  {
+    "CUI": "C0026764",
+    "Canonical name": "Multiple Myeloma"
+  },
+  {
+    "CUI": "C0042591",
+    "Canonical name": "Vessel Positions"
+  },
+  {
+    "CUI": "C1275667",
+    "Canonical name": "Common femoral vein"
+  },
+  {
+    "CUI": "C0227011",
+    "Canonical name": "Neck of tooth"
+  },
+  {
+    "CUI": "C5231045",
+    "Canonical name": "Structure of prostatic artery"
+  },
+  {
+    "CUI": "C1305393",
+    "Canonical name": "Entire posterior fossa of cranial cavity"
+  },
+  {
+    "CUI": "C0007276",
+    "Canonical name": "Internal carotid artery structure"
+  },
+  {
+    "CUI": "C0011906",
+    "Canonical name": "Differential Diagnosis"
+  },
+  {
+    "CUI": "C0224234",
+    "Canonical name": "Structure of deltoid muscle"
+  },
+  {
+    "CUI": "C0206635",
+    "Canonical name": "Myelolipoma"
+  },
+  {
+    "CUI": "C0227472",
+    "Canonical name": "Structure of submaxillary duct"
+  },
+  {
+    "CUI": "C0225261",
+    "Canonical name": "Iliac fascia structure"
+  },
+  {
+    "CUI": "C1288329",
+    "Canonical name": "Structure of lower uterine segment"
+  },
+  {
+    "CUI": "C0003090",
+    "Canonical name": "Ankylosis"
+  },
+  {
+    "CUI": "C0038001",
+    "Canonical name": "Structure of splenic vein"
+  },
+  {
+    "CUI": "C0546483",
+    "Canonical name": "Lung cyst"
+  },
+  {
+    "CUI": "C0013075",
+    "Canonical name": "Structure of rectouterine pouch"
+  },
+  {
+    "CUI": "C0020164",
+    "Canonical name": "Bone structure of humerus"
+  },
+  {
+    "CUI": "C0587240",
+    "Canonical name": "Erosion of bone"
+  },
+  {
+    "CUI": "C0227230",
+    "Canonical name": "Body of stomach"
+  },
+  {
+    "CUI": "C0224445",
+    "Canonical name": "Structure of vastus medialis muscle"
+  },
+  {
+    "CUI": "C0152254",
+    "Canonical name": "Fatty degeneration"
+  },
+  {
+    "CUI": "C0223741",
+    "Canonical name": "Trapezoid bone structure"
+  },
+  {
+    "CUI": "C0224419",
+    "Canonical name": "Structure of psoas major muscle"
+  },
+  {
+    "CUI": "C0227028",
+    "Canonical name": "Maxillary teeth"
+  },
+  {
+    "CUI": "C0227560",
+    "Canonical name": "Structure of left hepatic duct"
+  },
+  {
+    "CUI": "C0025202",
+    "Canonical name": "melanoma"
+  },
+  {
+    "CUI": "C1456806",
+    "Canonical name": "Entire pulmonary vein"
+  },
+  {
+    "CUI": "C0222647",
+    "Canonical name": "Structure of long bone"
+  },
+  {
+    "CUI": "C0226087",
+    "Canonical name": "Left common carotid artery structure"
+  },
+  {
+    "CUI": "C0581269",
+    "Canonical name": "Thoracic spine structure"
+  },
+  {
+    "CUI": "C0223947",
+    "Canonical name": "Navicular Bone of Foot"
+  },
+  {
+    "CUI": "C0223078",
+    "Canonical name": "Transverse Processes"
+  },
+  {
+    "CUI": "C0020663",
+    "Canonical name": "Hypothalamic structure"
+  },
+  {
+    "CUI": "C0227716",
+    "Canonical name": "Neck of urinary bladder"
+  },
+  {
+    "CUI": "C0333186",
+    "Canonical name": "Restenosis"
+  },
+  {
+    "CUI": "C0332448",
+    "Canonical name": "Infiltration"
+  },
+  {
+    "CUI": "C0240708",
+    "Canonical name": "Calcification of pericardium"
+  },
+  {
+    "CUI": "C1541124",
+    "Canonical name": "Pyloric obstruction"
+  },
+  {
+    "CUI": "C0446414",
+    "Canonical name": "C4 level"
+  },
+  {
+    "CUI": "C0332265",
+    "Canonical name": "Demonstrable"
+  },
+  {
+    "CUI": "C0225706",
+    "Canonical name": "Right lung"
+  },
+  {
+    "CUI": "C0030421",
+    "Canonical name": "Paraganglioma"
+  },
+  {
+    "CUI": "C0011373",
+    "Canonical name": "Implantable dental prosthesis, device"
+  },
+  {
+    "CUI": "C0439688",
+    "Canonical name": "Atelectatic"
+  },
+  {
+    "CUI": "C0034015",
+    "Canonical name": "Symphysis pubis structure"
+  },
+  {
+    "CUI": "C0021102",
+    "Canonical name": "Implants"
+  },
+  {
+    "CUI": "C0014871",
+    "Canonical name": "Esophagogastric Junction"
+  },
+  {
+    "CUI": "C0226261",
+    "Canonical name": "Structure of right subclavian artery"
+  },
+  {
+    "CUI": "C1265788",
+    "Canonical name": "Daughter cyst"
+  },
+  {
+    "CUI": "C0225811",
+    "Canonical name": "Structure of apex of heart"
+  },
+  {
+    "CUI": "C0038359",
+    "Canonical name": "Stomach Volvulus"
+  },
+  {
+    "CUI": "C1261078",
+    "Canonical name": "Structure of right cusp of aortic valve"
+  },
+  {
+    "CUI": "C0035065",
+    "Canonical name": "Structure of renal artery"
+  },
+  {
+    "CUI": "C0032268",
+    "Canonical name": "Pneumocephalus"
+  },
+  {
+    "CUI": "C0224145",
+    "Canonical name": "Structure of lateral pterygoid muscle"
+  },
+  {
+    "CUI": "C0230011",
+    "Canonical name": "Structure of infratemporal fossa"
+  },
+  {
+    "CUI": "C0027342",
+    "Canonical name": "Nail plate"
+  },
+  {
+    "CUI": "C0029423",
+    "Canonical name": "Cartilaginous exostosis"
+  },
+  {
+    "CUI": "C0018787",
+    "Canonical name": "Heart"
+  },
+  {
+    "CUI": "C0030305",
+    "Canonical name": "Pancreatitis"
+  },
+  {
+    "CUI": "C0037009",
+    "Canonical name": "Joint structure of shoulder region"
+  },
+  {
+    "CUI": "C0226802",
+    "Canonical name": "Structure of cephalic vein"
+  },
+  {
+    "CUI": "C0475319",
+    "Canonical name": "Pelvic hematoma"
+  },
+  {
+    "CUI": "C0226761",
+    "Canonical name": "Structure of external iliac vein"
+  },
+  {
+    "CUI": "C0227900",
+    "Canonical name": "Right fallopian tube"
+  },
+  {
+    "CUI": "C0013770",
+    "Canonical name": "Elbow joint structure"
+  },
+  {
+    "CUI": "C0026845",
+    "Canonical name": "Muscle Tissue"
+  },
+  {
+    "CUI": "C4281586",
+    "Canonical name": "Entire external oblique"
+  },
+  {
+    "CUI": "C0232804",
+    "Canonical name": "Renal function"
+  },
+  {
+    "CUI": "C0183514",
+    "Canonical name": "Esophageal stent"
+  },
+  {
+    "CUI": "C1956257",
+    "Canonical name": "Pulmonary Stenosis"
+  },
+  {
+    "CUI": "C0222748",
+    "Canonical name": "Structure of ramus of mandible"
+  },
+  {
+    "CUI": "C1510667",
+    "Canonical name": "Forefoot"
+  },
+  {
+    "CUI": "C0039520",
+    "Canonical name": "Tenosynovitis"
+  },
+  {
+    "CUI": "C0700198",
+    "Canonical name": "Pulmonary aspiration"
+  },
+  {
+    "CUI": "C0229089",
+    "Canonical name": "Right eye"
+  },
+  {
+    "CUI": "C0235592",
+    "Canonical name": "Cervical lymphadenopathy"
+  },
+  {
+    "CUI": "C0588200",
+    "Canonical name": "Bone structure of distal tibia"
+  },
+  {
+    "CUI": "C0022821",
+    "Canonical name": "Kyphosis deformity of spine"
+  },
+  {
+    "CUI": "C0151693",
+    "Canonical name": "Adrenal hemorrhage"
+  },
+  {
+    "CUI": "C0036202",
+    "Canonical name": "Sarcoidosis"
+  },
+  {
+    "CUI": "C0205054",
+    "Canonical name": "Hepatic"
+  },
+  {
+    "CUI": "C0022745",
+    "Canonical name": "Knee joint"
+  },
+  {
+    "CUI": "C0206633",
+    "Canonical name": "Angiomyolipoma"
+  },
+  {
+    "CUI": "C0030288",
+    "Canonical name": "Pancreatic duct"
+  },
+  {
+    "CUI": "C0038257",
+    "Canonical name": "Stent, device"
+  },
+  {
+    "CUI": "C0015455",
+    "Canonical name": "Bone structure of face"
+  },
+  {
+    "CUI": "C0225991",
+    "Canonical name": "Structure of great blood vessel (organ)"
+  },
+  {
+    "CUI": "C0027809",
+    "Canonical name": "Neurilemmoma"
+  },
+  {
+    "CUI": "C0032046",
+    "Canonical name": "Placenta Previa"
+  },
+  {
+    "CUI": "C0265903",
+    "Canonical name": "Single coronary artery"
+  },
+  {
+    "CUI": "C1269845",
+    "Canonical name": "Structure of hemidiaphragm"
+  },
+  {
+    "CUI": "C0230447",
+    "Canonical name": "Structure of right ankle"
+  },
+  {
+    "CUI": "C0183518",
+    "Canonical name": "Ureteric stent"
+  },
+  {
+    "CUI": "C0017639",
+    "Canonical name": "Gliosis"
+  },
+  {
+    "CUI": "C0018798",
+    "Canonical name": "Congenital Heart Defects"
+  },
+  {
+    "CUI": "C0588210",
+    "Canonical name": "Bone structure of shaft of humerus"
+  },
+  {
+    "CUI": "C0226812",
+    "Canonical name": "Structure of brachial vein"
+  },
+  {
+    "CUI": "C0266393",
+    "Canonical name": "Congenital duplication of uterus"
+  },
+  {
+    "CUI": "C0729594",
+    "Canonical name": "Axillary lymph node group"
+  },
+  {
+    "CUI": "C0230054",
+    "Canonical name": "Structure of suprasellar region"
+  },
+  {
+    "CUI": "C0345002",
+    "Canonical name": "Quadricuspid Aortic Valve"
+  },
+  {
+    "CUI": "C4511687",
+    "Canonical name": "Pancreatic Intraductal Papillary Mucinous Neoplasm"
+  },
+  {
+    "CUI": "C0446412",
+    "Canonical name": "Level of the second cervical vertebra"
+  },
+  {
+    "CUI": "C0447274",
+    "Canonical name": "Entire maxillary right lateral incisor tooth"
+  },
+  {
+    "CUI": "C0489886",
+    "Canonical name": "Structure of left subclavian vein"
+  },
+  {
+    "CUI": "C0027720",
+    "Canonical name": "Nephrosis"
+  },
+  {
+    "CUI": "C0230388",
+    "Canonical name": "Index finger"
+  },
+  {
+    "CUI": "C0227629",
+    "Canonical name": "Renal pyramid structure"
+  },
+  {
+    "CUI": "C0600139",
+    "Canonical name": "Prostate carcinoma"
+  },
+  {
+    "CUI": "C0078960",
+    "Canonical name": "Anterior Cruciate Ligament"
+  },
+  {
+    "CUI": "C0010051",
+    "Canonical name": "Coronary Aneurysm"
+  },
+  {
+    "CUI": "C0206327",
+    "Canonical name": "Structure of ligamentum flavum"
+  },
+  {
+    "CUI": "C0522476",
+    "Canonical name": "Patient affected"
+  },
+  {
+    "CUI": "C0024121",
+    "Canonical name": "Lung Neoplasms"
+  },
+  {
+    "CUI": "C0040113",
+    "Canonical name": "Thymus Gland"
+  },
+  {
+    "CUI": "C0042961",
+    "Canonical name": "Intestinal Volvulus"
+  },
+  {
+    "CUI": "C1275670",
+    "Canonical name": "Collateral branch of vessel"
+  },
+  {
+    "CUI": "C0582802",
+    "Canonical name": "Digit structure"
+  },
+  {
+    "CUI": "C0226333",
+    "Canonical name": "Structure of left renal artery"
+  },
+  {
+    "CUI": "C0333160",
+    "Canonical name": "Air cyst"
+  },
+  {
+    "CUI": "C0154844",
+    "Canonical name": "Separation of retinal layers"
+  },
+  {
+    "CUI": "C0004456",
+    "Canonical name": "Structure of axillary vein"
+  },
+  {
+    "CUI": "C0225434",
+    "Canonical name": "Inferior nasal concha"
+  },
+  {
+    "CUI": "C0224498",
+    "Canonical name": "Meniscus structure of joint"
+  },
+  {
+    "CUI": "C0230131",
+    "Canonical name": "Posterior chest wall"
+  },
+  {
+    "CUI": "C1512955",
+    "Canonical name": "Intralesional Route of Drug Administration"
+  },
+  {
+    "CUI": "C0227813",
+    "Canonical name": "Body of uterus"
+  },
+  {
+    "CUI": "C0240059",
+    "Canonical name": "Ventricular hemorrhage"
+  },
+  {
+    "CUI": "C0008707",
+    "Canonical name": "Chronic osteomyelitis"
+  },
+  {
+    "CUI": "C0003165",
+    "Canonical name": "Anthracosis"
+  },
+  {
+    "CUI": "C0745442",
+    "Canonical name": "Intravenous Catheters"
+  },
+  {
+    "CUI": "C0226332",
+    "Canonical name": "Structure of right renal artery"
+  },
+  {
+    "CUI": "C0225731",
+    "Canonical name": "Structure of apex of left lung"
+  },
+  {
+    "CUI": "C0032743",
+    "Canonical name": "Positron-Emission Tomography"
+  },
+  {
+    "CUI": "C0042384",
+    "Canonical name": "Vasculitis"
+  },
+  {
+    "CUI": "C0228482",
+    "Canonical name": "Cerebellar vermis structure"
+  },
+  {
+    "CUI": "C0015826",
+    "Canonical name": "Fenestration (morphologic abnormality)"
+  },
+  {
+    "CUI": "C1265877",
+    "Canonical name": "Pathologic mineralization"
+  },
+  {
+    "CUI": "C1235681",
+    "Canonical name": "Distal tendon of biceps brachii"
+  },
+  {
+    "CUI": "C0439682",
+    "Canonical name": "Follicular"
+  },
+  {
+    "CUI": "C3472245",
+    "Canonical name": "Single Photon Emission Computed Tomography Computed Tomography"
+  },
+  {
+    "CUI": "C0226611",
+    "Canonical name": "Structure of superior ophthalmic vein"
+  },
+  {
+    "CUI": "C0040126",
+    "Canonical name": "Thyroid cartilage structure"
+  },
+  {
+    "CUI": "C0231953",
+    "Canonical name": "Lung Volumes"
+  },
+  {
+    "CUI": "C0013990",
+    "Canonical name": "Pathological accumulation of air in tissues"
+  },
+  {
+    "CUI": "C0333099",
+    "Canonical name": "Fusiform Aneurysm"
+  },
+  {
+    "CUI": "C0238199",
+    "Canonical name": "Volvulus of small intestine"
+  },
+  {
+    "CUI": "C0010323",
+    "Canonical name": "Cricoid cartilage structure"
+  },
+  {
+    "CUI": "C0546018",
+    "Canonical name": "Right basal ganglia"
+  },
+  {
+    "CUI": "C0242255",
+    "Canonical name": "Tympanic cavity"
+  },
+  {
+    "CUI": "C0002390",
+    "Canonical name": "Extrinsic allergic alveolitis"
+  },
+  {
+    "CUI": "C0005847",
+    "Canonical name": "Blood Vessel"
+  },
+  {
+    "CUI": "C0224849",
+    "Canonical name": "Structure of extensor tendon"
+  },
+  {
+    "CUI": "C2711599",
+    "Canonical name": "Structure of mandibular incisor tooth"
+  },
+  {
+    "CUI": "C0227817",
+    "Canonical name": "fundus uteri"
+  },
+  {
+    "CUI": "C1562459",
+    "Canonical name": "Neck and chest"
+  },
+  {
+    "CUI": "C0444611",
+    "Canonical name": "Fluid behavior"
+  },
+  {
+    "CUI": "C0222716",
+    "Canonical name": "Structure of wormian bone"
+  },
+  {
+    "CUI": "C0023269",
+    "Canonical name": "leiomyosarcoma"
+  },
+  {
+    "CUI": "C0677897",
+    "Canonical name": "Intrathecal Route of Drug Administration"
+  },
+  {
+    "CUI": "C0223645",
+    "Canonical name": "Structure of anterior inferior iliac spine"
+  },
+  {
+    "CUI": "C0475358",
+    "Canonical name": "Tumor tissue sample"
+  },
+  {
+    "CUI": "C0226864",
+    "Canonical name": "Structure of transverse sinus"
+  },
+  {
+    "CUI": "C0227873",
+    "Canonical name": "Structure of right ovary"
+  },
+  {
+    "CUI": "C0023370",
+    "Canonical name": "Leriche Syndrome"
+  },
+  {
+    "CUI": "C0524466",
+    "Canonical name": "Intracranial"
+  },
+  {
+    "CUI": "C0014009",
+    "Canonical name": "Empyema"
+  },
+  {
+    "CUI": "C0228181",
+    "Canonical name": "Structure of centrum semiovale"
+  },
+  {
+    "CUI": "C0333203",
+    "Canonical name": "Occlusive thrombus"
+  },
+  {
+    "CUI": "C1265763",
+    "Canonical name": "Cystic dilatation"
+  },
+  {
+    "CUI": "C0029464",
+    "Canonical name": "Osteosclerosis"
+  },
+  {
+    "CUI": "C0206366",
+    "Canonical name": "Ossification of Posterior Longitudinal Ligament"
+  },
+  {
+    "CUI": "C0222331",
+    "Canonical name": "Subcutaneous Fat"
+  },
+  {
+    "CUI": "C0225610",
+    "Canonical name": "Right superior lobar bronchus"
+  },
+  {
+    "CUI": "C4551650",
+    "Canonical name": "Esophageal Stricture"
+  },
+  {
+    "CUI": "C0014068",
+    "Canonical name": "Encephalomalacia"
+  },
+  {
+    "CUI": "C0020312",
+    "Canonical name": "Hydrothorax"
+  },
+  {
+    "CUI": "C0014540",
+    "Canonical name": "Epiglottis structure"
+  },
+  {
+    "CUI": "C0225630",
+    "Canonical name": "Left main bronchus structure"
+  },
+  {
+    "CUI": "C0018944",
+    "Canonical name": "Hematoma"
+  },
+  {
+    "CUI": "C0447620",
+    "Canonical name": "Structure of uterine wall"
+  },
+  {
+    "CUI": "C0007134",
+    "Canonical name": "Renal Cell Carcinoma"
+  },
+  {
+    "CUI": "C0004454",
+    "Canonical name": "Axilla"
+  },
+  {
+    "CUI": "C0040399",
+    "Canonical name": "Tomography, Emission-Computed, Single-Photon"
+  },
+  {
+    "CUI": "C0029445",
+    "Canonical name": "Bone necrosis"
+  },
+  {
+    "CUI": "C0555898",
+    "Canonical name": "Sacroiliac"
+  },
+  {
+    "CUI": "C0226088",
+    "Canonical name": "Structure of carotid bifurcation"
+  },
+  {
+    "CUI": "C0336699",
+    "Canonical name": "Bullet, device"
+  },
+  {
+    "CUI": "C0007806",
+    "Canonical name": "Cerebrospinal Fluid"
+  },
+  {
+    "CUI": "C3888056",
+    "Canonical name": "Valve (physical object)"
+  },
+  {
+    "CUI": "C0227224",
+    "Canonical name": "Stomach wall structure"
+  },
+  {
+    "CUI": "C1285115",
+    "Canonical name": "Left hip joint structure"
+  },
+  {
+    "CUI": "C1265885",
+    "Canonical name": "Diffuse calcium deposition"
+  },
+  {
+    "CUI": "C0584882",
+    "Canonical name": "Infraspinatous muscle structure"
+  },
+  {
+    "CUI": "C0224469",
+    "Canonical name": "Peroneus longus muscle structure"
+  },
+  {
+    "CUI": "C0023884",
+    "Canonical name": "Liver"
+  },
+  {
+    "CUI": "C0019077",
+    "Canonical name": "Hemopneumothorax"
+  },
+  {
+    "CUI": "C0225928",
+    "Canonical name": "Structure of leaflet of tricuspid valve"
+  },
+  {
+    "CUI": "C0226069",
+    "Canonical name": "Left pulmonary artery"
+  },
+  {
+    "CUI": "C1142578",
+    "Canonical name": "Bilateral pneumonia"
+  },
+  {
+    "CUI": "C2317432",
+    "Canonical name": "Effusion (substance)"
+  },
+  {
+    "CUI": "C0878544",
+    "Canonical name": "Cardiomyopathies"
+  },
+  {
+    "CUI": "C1268089",
+    "Canonical name": "Entire viscus"
+  },
+  {
+    "CUI": "C0227486",
+    "Canonical name": "Left lobe of liver"
+  },
+  {
+    "CUI": "C0034069",
+    "Canonical name": "Pulmonary Fibrosis"
+  },
+  {
+    "CUI": "C0521169",
+    "Canonical name": "Compression fracture"
+  },
+  {
+    "CUI": "C0225408",
+    "Canonical name": "Structure of dorsum of nose"
+  },
+  {
+    "CUI": "C0006281",
+    "Canonical name": "Congenital bronchogenic cyst"
+  },
+  {
+    "CUI": "C0036760",
+    "Canonical name": "Serous Membrane"
+  },
+  {
+    "CUI": "C0227302",
+    "Canonical name": "Structure of inferior portion of duodenum"
+  },
+  {
+    "CUI": "C0040583",
+    "Canonical name": "Tracheal Stenosis"
+  },
+  {
+    "CUI": "C0011168",
+    "Canonical name": "Deglutition Disorders"
+  },
+  {
+    "CUI": "C0206066",
+    "Canonical name": "Rectus Abdominis"
+  },
+  {
+    "CUI": "C0227902",
+    "Canonical name": "Left fallopian tube"
+  },
+  {
+    "CUI": "C0401119",
+    "Canonical name": "Lumbar hernia"
+  },
+  {
+    "CUI": "C0229792",
+    "Canonical name": "Lymph node of mesentery"
+  },
+  {
+    "CUI": "C0748427",
+    "Canonical name": "Right atrial enlargement"
+  },
+  {
+    "CUI": "C0278403",
+    "Canonical name": "Subcutaneous Tissue"
+  },
+  {
+    "CUI": "C0036700",
+    "Canonical name": "Septum Pellucidum"
+  },
+  {
+    "CUI": "C0227841",
+    "Canonical name": "Cervical canal structure"
+  },
+  {
+    "CUI": "C0267771",
+    "Canonical name": "Retroperitoneal mass"
+  },
+  {
+    "CUI": "C0226323",
+    "Canonical name": "Structure of ileocolic artery"
+  },
+  {
+    "CUI": "C0230128",
+    "Canonical name": "Left thorax structure"
+  },
+  {
+    "CUI": "C0932074",
+    "Canonical name": "Midfoot region of foot"
+  },
+  {
+    "CUI": "C0259779",
+    "Canonical name": "Fibrous Dysplasia"
+  },
+  {
+    "CUI": "C0018188",
+    "Canonical name": "Granuloma"
+  },
+  {
+    "CUI": "C0521443",
+    "Canonical name": "Structure of lateral abdominal wall"
+  },
+  {
+    "CUI": "C1145640",
+    "Canonical name": "Central venous catheter, device"
+  },
+  {
+    "CUI": "C0458624",
+    "Canonical name": "Entire tunica albuginea of testis"
+  },
+  {
+    "CUI": "C0243069",
+    "Canonical name": "Hypoplasia"
+  },
+  {
+    "CUI": "C0751440",
+    "Canonical name": "Pituitary Stalk"
+  },
+  {
+    "CUI": "C0032019",
+    "Canonical name": "Pituitary Neoplasms"
+  },
+  {
+    "CUI": "C0012624",
+    "Canonical name": "Discitis"
+  },
+  {
+    "CUI": "C0037949",
+    "Canonical name": "Vertebral column"
+  },
+  {
+    "CUI": "C0040996",
+    "Canonical name": "Trigeminal nerve structure"
+  },
+  {
+    "CUI": "C1140618",
+    "Canonical name": "Upper Extremity"
+  },
+  {
+    "CUI": "C0740277",
+    "Canonical name": "Bile duct carcinoma"
+  },
+  {
+    "CUI": "C0038291",
+    "Canonical name": "Sternoclavicular joint structure"
+  },
+  {
+    "CUI": "C0180307",
+    "Canonical name": "Defibrillators"
+  },
+  {
+    "CUI": "C0018792",
+    "Canonical name": "Heart Atrium"
+  },
+  {
+    "CUI": "C0230147",
+    "Canonical name": "Superior mediastinum"
+  },
+  {
+    "CUI": "C0446472",
+    "Canonical name": "Surface region of side of chest"
+  },
+  {
+    "CUI": "C0934462",
+    "Canonical name": "Submandibular space structure"
+  },
+  {
+    "CUI": "C0524470",
+    "Canonical name": "Right hip region structure"
+  },
+  {
+    "CUI": "C5235043",
+    "Canonical name": "Structure of left orbital region"
+  },
+  {
+    "CUI": "C0553580",
+    "Canonical name": "Ewings sarcoma"
+  },
+  {
+    "CUI": "C0223651",
+    "Canonical name": "Iliac crest structure"
+  },
+  {
+    "CUI": "C0036205",
+    "Canonical name": "Sarcoidosis, Pulmonary"
+  },
+  {
+    "CUI": "C0039493",
+    "Canonical name": "Temporomandibular Joint"
+  },
+  {
+    "CUI": "C1690005",
+    "Canonical name": "MRI venography"
+  },
+  {
+    "CUI": "C0034606",
+    "Canonical name": "Radionuclide Imaging"
+  },
+  {
+    "CUI": "C0227221",
+    "Canonical name": "Lesser curvature of stomach"
+  },
+  {
+    "CUI": "C0020449",
+    "Canonical name": "Hyperdistention"
+  },
+  {
+    "CUI": "C0034088",
+    "Canonical name": "Pulmonary Valve Insufficiency"
+  },
+  {
+    "CUI": "C0013455",
+    "Canonical name": "middle ear"
+  },
+  {
+    "CUI": "C2945625",
+    "Canonical name": "Feeding tube"
+  },
+  {
+    "CUI": "C0010346",
+    "Canonical name": "Crohn Disease"
+  },
+  {
+    "CUI": "C0019145",
+    "Canonical name": "Hepatic artery"
+  },
+  {
+    "CUI": "C0038356",
+    "Canonical name": "Stomach Neoplasms"
+  },
+  {
+    "CUI": "C0016734",
+    "Canonical name": "Frontal Sinus"
+  },
+  {
+    "CUI": "C0008484",
+    "Canonical name": "Structure of chordae tendineae cordis"
+  },
+  {
+    "CUI": "C0442044",
+    "Canonical name": "Ulnar (qualifier value)"
+  },
+  {
+    "CUI": "C0448190",
+    "Canonical name": "Entire proximal femur"
+  },
+  {
+    "CUI": "C0446432",
+    "Canonical name": "L1 level"
+  },
+  {
+    "CUI": "C0003615",
+    "Canonical name": "Appendicitis"
+  },
+  {
+    "CUI": "C0340654",
+    "Canonical name": "Arterial hemorrhage"
+  },
+  {
+    "CUI": "C0948162",
+    "Canonical name": "Edema of bone marrow"
+  },
+  {
+    "CUI": "C2336763",
+    "Canonical name": "Cephalometric orbitale point"
+  },
+  {
+    "CUI": "C0039597",
+    "Canonical name": "Testis"
+  },
+  {
+    "CUI": "C0078981",
+    "Canonical name": "Arachnoid Cysts"
+  },
+  {
+    "CUI": "C0227546",
+    "Canonical name": "Structure of neck of gallbladder"
+  },
+  {
+    "CUI": "C0446985",
+    "Canonical name": "Entire right sinus of Valsalva"
+  },
+  {
+    "CUI": "C0027740",
+    "Canonical name": "Nerve"
+  },
+  {
+    "CUI": "C0151701",
+    "Canonical name": "Pulmonary hemorrhage"
+  },
+  {
+    "CUI": "C0230028",
+    "Canonical name": "Oral region"
+  },
+  {
+    "CUI": "C0040408",
+    "Canonical name": "Tongue"
+  },
+  {
+    "CUI": "C0242202",
+    "Canonical name": "Cerebrum"
+  },
+  {
+    "CUI": "C0242694",
+    "Canonical name": "Soleus muscle structure"
+  },
+  {
+    "CUI": "C0010668",
+    "Canonical name": "Cystic Adenomatoid Malformation of Lung, Congenital"
+  },
+  {
+    "CUI": "C1522653",
+    "Canonical name": "Endotracheal Route of Drug Administration"
+  },
+  {
+    "CUI": "C0225778",
+    "Canonical name": "Pleural fluid"
+  },
+  {
+    "CUI": "C0149521",
+    "Canonical name": "Pancreatitis, Chronic"
+  },
+  {
+    "CUI": "C0006095",
+    "Canonical name": "Structure of brachiocephalic vein"
+  },
+  {
+    "CUI": "C0024949",
+    "Canonical name": "Structure of maxillary artery"
+  },
+  {
+    "CUI": "C2960678",
+    "Canonical name": "Periodontal Route of Administration"
+  },
+  {
+    "CUI": "C0155747",
+    "Canonical name": "Aneurysm of splenic artery"
+  },
+  {
+    "CUI": "C0014124",
+    "Canonical name": "Endocardium"
+  },
+  {
+    "CUI": "C0031093",
+    "Canonical name": "Periodontal Ligament"
+  },
+  {
+    "CUI": "C0242696",
+    "Canonical name": "Diaphyses"
+  },
+  {
+    "CUI": "C1261317",
+    "Canonical name": "Transplanted kidney"
+  },
+  {
+    "CUI": "C0025526",
+    "Canonical name": "Metacarpal bone"
+  },
+  {
+    "CUI": "C0749225",
+    "Canonical name": "Systolic dysfunction"
+  },
+  {
+    "CUI": "C0019552",
+    "Canonical name": "Hip structure"
+  },
+  {
+    "CUI": "C0230005",
+    "Canonical name": "Occipital region"
+  },
+  {
+    "CUI": "C2346418",
+    "Canonical name": "Porion"
+  },
+  {
+    "CUI": "C0042487",
+    "Canonical name": "Venous Thrombosis"
+  },
+  {
+    "CUI": "C0229289",
+    "Canonical name": "Lacrimal sac"
+  },
+  {
+    "CUI": "C0226723",
+    "Canonical name": "Structure of right ovarian vein"
+  },
+  {
+    "CUI": "C0238463",
+    "Canonical name": "Papillary thyroid carcinoma"
+  },
+  {
+    "CUI": "C0032300",
+    "Canonical name": "Lobar Pneumonia"
+  },
+  {
+    "CUI": "C0034065",
+    "Canonical name": "Pulmonary Embolism"
+  },
+  {
+    "CUI": "C0446567",
+    "Canonical name": "Medial aspect of knee"
+  },
+  {
+    "CUI": "C0225752",
+    "Canonical name": "Structure of lobe of lung"
+  },
+  {
+    "CUI": "C0011429",
+    "Canonical name": "Dentin"
+  },
+  {
+    "CUI": "C0856747",
+    "Canonical name": "Aneurysm, Ascending Aorta"
+  },
+  {
+    "CUI": "C0017086",
+    "Canonical name": "Gangrene"
+  },
+  {
+    "CUI": "C0225358",
+    "Canonical name": "Bladder Detrusor Muscle"
+  },
+  {
+    "CUI": "C0750929",
+    "Canonical name": "Arnold-Chiari Malformation, Type I"
+  },
+  {
+    "CUI": "C0037004",
+    "Canonical name": "Shoulder"
+  },
+  {
+    "CUI": "C4476767",
+    "Canonical name": "Diffuse alveolar hemorrhage"
+  },
+  {
+    "CUI": "C0588205",
+    "Canonical name": "Bone structure of proximal radius"
+  },
+  {
+    "CUI": "C0016068",
+    "Canonical name": "Fibula"
+  },
+  {
+    "CUI": "C1285517",
+    "Canonical name": "Orbital fat structure"
+  },
+  {
+    "CUI": "C0410480",
+    "Canonical name": "Avascular Necrosis of Femur Head"
+  },
+  {
+    "CUI": "C0224301",
+    "Canonical name": "Structure of erector spinae muscle"
+  },
+  {
+    "CUI": "C0227898",
+    "Canonical name": "Both ovaries"
+  },
+  {
+    "CUI": "C0029396",
+    "Canonical name": "Heterotopic Ossification"
+  },
+  {
+    "CUI": "C0004030",
+    "Canonical name": "Aspergillosis"
+  },
+  {
+    "CUI": "C0226362",
+    "Canonical name": "Structure of right common iliac artery"
+  },
+  {
+    "CUI": "C0226694",
+    "Canonical name": "Left superior vena cava"
+  },
+  {
+    "CUI": "C0332853",
+    "Canonical name": "Anastomosis"
+  },
+  {
+    "CUI": "C0227235",
+    "Canonical name": "Structure of gastric lumen"
+  },
+  {
+    "CUI": "C0227223",
+    "Canonical name": "Greater curvature of stomach"
+  },
+  {
+    "CUI": "C0393984",
+    "Canonical name": "Herniation under falx cerebri"
+  },
+  {
+    "CUI": "C0238207",
+    "Canonical name": "Ectopic kidney"
+  },
+  {
+    "CUI": "C0025525",
+    "Canonical name": "Metacarpophalangeal joint structure"
+  },
+  {
+    "CUI": "C0222721",
+    "Canonical name": "Structure of hypoglossal canal"
+  },
+  {
+    "CUI": "C0149721",
+    "Canonical name": "Left Ventricular Hypertrophy"
+  },
+  {
+    "CUI": "C0282082",
+    "Canonical name": "Gluteal Region"
+  },
+  {
+    "CUI": "C0162857",
+    "Canonical name": "Structure of radial artery"
+  },
+  {
+    "CUI": "C0333641",
+    "Canonical name": "Atrophic"
+  },
+  {
+    "CUI": "C0270612",
+    "Canonical name": "Leukoencephalopathy"
+  },
+  {
+    "CUI": "C0442037",
+    "Canonical name": "Popliteal"
+  },
+  {
+    "CUI": "C0227471",
+    "Canonical name": "Structure of left submaxillary gland"
+  },
+  {
+    "CUI": "C1305624",
+    "Canonical name": "Entire descending aorta"
+  },
+  {
+    "CUI": "C0222601",
+    "Canonical name": "Left breast"
+  },
+  {
+    "CUI": "C0923926",
+    "Canonical name": "Structure of right optic nerve"
+  },
+  {
+    "CUI": "C0016059",
+    "Canonical name": "Fibrosis"
+  },
+  {
+    "CUI": "C0006655",
+    "Canonical name": "Bone structure of calcaneum"
+  },
+  {
+    "CUI": "C0412620",
+    "Canonical name": "CT of abdomen"
+  },
+  {
+    "CUI": "C0152279",
+    "Canonical name": "Lateral ventricle structure"
+  },
+  {
+    "CUI": "C0027551",
+    "Canonical name": "Needle device"
+  },
+  {
+    "CUI": "C0344724",
+    "Canonical name": "Ostium secundum atrial septal defect"
+  },
+  {
+    "CUI": "C0023317",
+    "Canonical name": "Lens, Crystalline"
+  },
+  {
+    "CUI": "C0524471",
+    "Canonical name": "Structure of left hip"
+  },
+  {
+    "CUI": "C0205106",
+    "Canonical name": "Transverse - anatomical location"
+  },
+  {
+    "CUI": "C0340030",
+    "Canonical name": "Pleural plaque"
+  },
+  {
+    "CUI": "C0333372",
+    "Canonical name": "Abscess cavity"
+  },
+  {
+    "CUI": "C0229685",
+    "Canonical name": "Structure of hilum of spleen"
+  },
+  {
+    "CUI": "C0595695",
+    "Canonical name": "Periarticular Route of Administration"
+  },
+  {
+    "CUI": "C0334135",
+    "Canonical name": "Sclerotic (qualifier value)"
+  },
+  {
+    "CUI": "C0030580",
+    "Canonical name": "Parotid Gland"
+  },
+  {
+    "CUI": "C0226543",
+    "Canonical name": "Structure of external jugular vein"
+  },
+  {
+    "CUI": "C0235946",
+    "Canonical name": "Cerebral atrophy"
+  },
+  {
+    "CUI": "C0002940",
+    "Canonical name": "Aneurysm"
+  },
+  {
+    "CUI": "C0015560",
+    "Canonical name": "Fallopian Tubes"
+  },
+  {
+    "CUI": "C0016555",
+    "Canonical name": "Forelimb"
+  },
+  {
+    "CUI": "C0086120",
+    "Canonical name": "Dentate nucleus"
+  },
+  {
+    "CUI": "C0229559",
+    "Canonical name": "Structure of right adrenal gland"
+  },
+  {
+    "CUI": "C0028881",
+    "Canonical name": "Structure of odontoid process of axis"
+  },
+  {
+    "CUI": "C0038527",
+    "Canonical name": "Subarachnoid Space"
+  },
+  {
+    "CUI": "C0027830",
+    "Canonical name": "neurofibroma"
+  },
+  {
+    "CUI": "C0012736",
+    "Canonical name": "Dissecting aortic aneurysm"
+  },
+  {
+    "CUI": "C0224512",
+    "Canonical name": "Syndesmosis structure"
+  },
+  {
+    "CUI": "C0447514",
+    "Canonical name": "Part of duodenum"
+  },
+  {
+    "CUI": "C0175662",
+    "Canonical name": "Ventriculoperitoneal catheter"
+  },
+  {
+    "CUI": "C1720771",
+    "Canonical name": "Testicular Hydrocele"
+  },
+  {
+    "CUI": "C0441127",
+    "Canonical name": "Balloon dilatation catheter"
+  },
+  {
+    "CUI": "C0346308",
+    "Canonical name": "Pituitary macroadenoma"
+  },
+  {
+    "CUI": "C0585442",
+    "Canonical name": "Osteosarcoma of bone"
+  },
+  {
+    "CUI": "C0015462",
+    "Canonical name": "Facial nerve structure"
+  },
+  {
+    "CUI": "C0087086",
+    "Canonical name": "Thrombus"
+  },
+  {
+    "CUI": "C0011649",
+    "Canonical name": "Dermoid Cyst"
+  },
+  {
+    "CUI": "C0222605",
+    "Canonical name": "Both breasts"
+  },
+  {
+    "CUI": "C0588207",
+    "Canonical name": "Bone structure of distal radius"
+  },
+  {
+    "CUI": "C0228161",
+    "Canonical name": "Left lateral ventricle structure"
+  },
+  {
+    "CUI": "C0039147",
+    "Canonical name": "Syrinx formation"
+  },
+  {
+    "CUI": "C0006094",
+    "Canonical name": "Structure of brachiocephalic artery"
+  },
+  {
+    "CUI": "C0002708",
+    "Canonical name": "Amygdaloid structure"
+  },
+  {
+    "CUI": "C0226742",
+    "Canonical name": "Structure of superior mesenteric vein"
+  },
+  {
+    "CUI": "C0152013",
+    "Canonical name": "Adenocarcinoma of lung (disorder)"
+  },
+  {
+    "CUI": "C0025066",
+    "Canonical name": "Mediastinum"
+  },
+  {
+    "CUI": "C0230149",
+    "Canonical name": "Middle mediastinum"
+  },
+  {
+    "CUI": "C0018817",
+    "Canonical name": "Atrial Septal Defects"
+  },
+  {
+    "CUI": "C0032009",
+    "Canonical name": "Pituitary Gland, Posterior"
+  },
+  {
+    "CUI": "C0007124",
+    "Canonical name": "Noninfiltrating Intraductal Carcinoma"
+  },
+  {
+    "CUI": "C0221209",
+    "Canonical name": "Pelvic kidney"
+  },
+  {
+    "CUI": "C0448353",
+    "Canonical name": "Paraspinal Muscles"
+  },
+  {
+    "CUI": "C0263628",
+    "Canonical name": "Tumoral calcinosis"
+  },
+  {
+    "CUI": "C0022359",
+    "Canonical name": "Jaw"
+  },
+  {
+    "CUI": "C0042930",
+    "Canonical name": "Vocal cord structure"
+  },
+  {
+    "CUI": "C0235782",
+    "Canonical name": "Gallbladder Carcinoma"
+  },
+  {
+    "CUI": "C0226366",
+    "Canonical name": "Structure of left internal iliac artery"
+  },
+  {
+    "CUI": "C0224521",
+    "Canonical name": "Facet joint structure"
+  },
+  {
+    "CUI": "C0026691",
+    "Canonical name": "Mucocutaneous Lymph Node Syndrome"
+  },
+  {
+    "CUI": "C3887615",
+    "Canonical name": "Lumbar spine structure"
+  },
+  {
+    "CUI": "C0033572",
+    "Canonical name": "Prostate"
+  },
+  {
+    "CUI": "C0225897",
+    "Canonical name": "Left ventricular structure"
+  },
+  {
+    "CUI": "C0225870",
+    "Canonical name": "Ventricular septum"
+  },
+  {
+    "CUI": "C0230361",
+    "Canonical name": "Structure of left forearm"
+  },
+  {
+    "CUI": "C1261082",
+    "Canonical name": "Left coronary artery structure"
+  },
+  {
+    "CUI": "C0226764",
+    "Canonical name": "Structure of internal iliac vein"
+  },
+  {
+    "CUI": "C0459917",
+    "Canonical name": "Intercostal artery"
+  },
+  {
+    "CUI": "C0043265",
+    "Canonical name": "Radiocarpal joint structure"
+  },
+  {
+    "CUI": "C0020629",
+    "Canonical name": "hypopharynx"
+  },
+  {
+    "CUI": "C0227470",
+    "Canonical name": "Structure of right submaxillary gland"
+  },
+  {
+    "CUI": "C0080039",
+    "Canonical name": "Posterior Cruciate Ligament"
+  },
+  {
+    "CUI": "C1562547",
+    "Canonical name": "Chest, abdomen, and pelvis"
+  },
+  {
+    "CUI": "C0179740",
+    "Canonical name": "Peripherally inserted central catheter (physical object)"
+  },
+  {
+    "CUI": "C0226550",
+    "Canonical name": "Internal jugular vein structure"
+  },
+  {
+    "CUI": "C0003501",
+    "Canonical name": "Aortic valve structure"
+  },
+  {
+    "CUI": "C0023759",
+    "Canonical name": "Lip structure"
+  },
+  {
+    "CUI": "C1305387",
+    "Canonical name": "Entire internal carotid artery"
+  },
+  {
+    "CUI": "C0008350",
+    "Canonical name": "Cholelithiasis"
+  },
+  {
+    "CUI": "C0489887",
+    "Canonical name": "Structure of right subclavian vein"
+  },
+  {
+    "CUI": "C0262617",
+    "Canonical name": "Right inguinal hernia"
+  },
+  {
+    "CUI": "C0224174",
+    "Canonical name": "Structure of scalenus medius muscle"
+  },
+  {
+    "CUI": "C0222769",
+    "Canonical name": "Jugular notch of sternum"
+  },
+  {
+    "CUI": "C1261080",
+    "Canonical name": "Structure of posterior cusp of aortic valve"
+  },
+  {
+    "CUI": "C0225453",
+    "Canonical name": "Left maxillary sinus structure"
+  },
+  {
+    "CUI": "C0024485",
+    "Canonical name": "Magnetic Resonance Imaging"
+  },
+  {
+    "CUI": "C0007131",
+    "Canonical name": "Non-Small Cell Lung Carcinoma"
+  },
+  {
+    "CUI": "C0574960",
+    "Canonical name": "Sacroiliitis"
+  },
+  {
+    "CUI": "C0264361",
+    "Canonical name": "Traction bronchiectasis"
+  },
+  {
+    "CUI": "C0223710",
+    "Canonical name": "Structure of olecranon"
+  },
+  {
+    "CUI": "C0017638",
+    "Canonical name": "Glioma"
+  },
+  {
+    "CUI": "C0020564",
+    "Canonical name": "Hypertrophy"
+  },
+  {
+    "CUI": "C3887532",
+    "Canonical name": "Ulceration"
+  },
+  {
+    "CUI": "C0546817",
+    "Canonical name": "Fluid overload"
+  },
+  {
+    "CUI": "C0016663",
+    "Canonical name": "Pathological fracture"
+  },
+  {
+    "CUI": "C0003461",
+    "Canonical name": "Anus"
+  },
+  {
+    "CUI": "C0225844",
+    "Canonical name": "Right atrial structure"
+  },
+  {
+    "CUI": "C1956346",
+    "Canonical name": "Coronary Artery Disease"
+  },
+  {
+    "CUI": "C1999039",
+    "Canonical name": "Anterior-Posterior"
+  },
+  {
+    "CUI": "C0179747",
+    "Canonical name": "Dialysis catheter"
+  },
+  {
+    "CUI": "C0007569",
+    "Canonical name": "Celiac Artery"
+  },
+  {
+    "CUI": "C0009195",
+    "Canonical name": "Cochlear structure"
+  },
+  {
+    "CUI": "C0001209",
+    "Canonical name": "Acromion"
+  },
+  {
+    "CUI": "C0227386",
+    "Canonical name": "Transverse colon"
+  },
+  {
+    "CUI": "C0230353",
+    "Canonical name": "Right elbow region structure"
+  },
+  {
+    "CUI": "C0021900",
+    "Canonical name": "Intrauterine Devices"
+  },
+  {
+    "CUI": "C0017067",
+    "Canonical name": "Ganglia"
+  },
+  {
+    "CUI": "C0734759",
+    "Canonical name": "Upper pole of left kidney"
+  },
+  {
+    "CUI": "C0020417",
+    "Canonical name": "Hyoid bone structure"
+  },
+  {
+    "CUI": "C0225883",
+    "Canonical name": "Right ventricular structure"
+  },
+  {
+    "CUI": "C0311245",
+    "Canonical name": "Congenital cystic kidney disease"
+  },
+  {
+    "CUI": "C1265741",
+    "Canonical name": "Multiple calculi"
+  },
+  {
+    "CUI": "C0015815",
+    "Canonical name": "Structure of neck of femur"
+  },
+  {
+    "CUI": "C0230415",
+    "Canonical name": "Right lower extremity"
+  },
+  {
+    "CUI": "C1282299",
+    "Canonical name": "Femoral epiphysis"
+  },
+  {
+    "CUI": "C0226896",
+    "Canonical name": "Oral cavity"
+  },
+  {
+    "CUI": "C0446498",
+    "Canonical name": "Left iliac fossa"
+  },
+  {
+    "CUI": "C0225608",
+    "Canonical name": "Right main bronchus structure"
+  },
+  {
+    "CUI": "C0412650",
+    "Canonical name": "Computed tomography of cervical spine"
+  },
+  {
+    "CUI": "C0016504",
+    "Canonical name": "Foot"
+  },
+  {
+    "CUI": "C0032639",
+    "Canonical name": "Pontine structure"
+  },
+  {
+    "CUI": "C0009437",
+    "Canonical name": "Common bile duct structure"
+  },
+  {
+    "CUI": "C0277785",
+    "Canonical name": "Functional disorder"
+  },
+  {
+    "CUI": "C0226408",
+    "Canonical name": "Structure of lumbar artery"
+  },
+  {
+    "CUI": "C0225777",
+    "Canonical name": "Parietal pleura"
+  },
+  {
+    "CUI": "C0149630",
+    "Canonical name": "Bicuspid aortic valve"
+  },
+  {
+    "CUI": "C0036609",
+    "Canonical name": "Structure of pituitary fossa"
+  },
+  {
+    "CUI": "C0231099",
+    "Canonical name": "Structure of palatine duct"
+  },
+  {
+    "CUI": "C1277187",
+    "Canonical name": "Left ventricular systolic dysfunction"
+  },
+  {
+    "CUI": "C0333435",
+    "Canonical name": "Cystic degeneration"
+  },
+  {
+    "CUI": "C0028936",
+    "Canonical name": "Structure of olfactory bulb"
+  },
+  {
+    "CUI": "C0948008",
+    "Canonical name": "Ischemic stroke"
+  },
+  {
+    "CUI": "C0230189",
+    "Canonical name": "Hypogastric region"
+  },
+  {
+    "CUI": "C0019123",
+    "Canonical name": "Hemothorax"
+  },
+  {
+    "CUI": "C0202660",
+    "Canonical name": "CT coronal"
+  },
+  {
+    "CUI": "C0023216",
+    "Canonical name": "Lower Extremity"
+  },
+  {
+    "CUI": "C0226027",
+    "Canonical name": "Structure of aortic bifurcation"
+  },
+  {
+    "CUI": "C0439826",
+    "Canonical name": "Olfactory"
+  },
+  {
+    "CUI": "C0006121",
+    "Canonical name": "Brain Stem"
+  },
+  {
+    "CUI": "C0428811",
+    "Canonical name": "Mitral valve annular calcification"
+  },
+  {
+    "CUI": "C0026269",
+    "Canonical name": "Mitral Valve Stenosis"
+  },
+  {
+    "CUI": "C0226109",
+    "Canonical name": "Structure of facial artery"
+  },
+  {
+    "CUI": "C0013274",
+    "Canonical name": "Patent ductus arteriosus"
+  },
+  {
+    "CUI": "C1282952",
+    "Canonical name": "Enthesitis"
+  },
+  {
+    "CUI": "C0011813",
+    "Canonical name": "Dextrocardia"
+  },
+  {
+    "CUI": "C0017189",
+    "Canonical name": "Gastrointestinal tract structure"
+  },
+  {
+    "CUI": "C0018283",
+    "Canonical name": "Epiphysial cartilage"
+  },
+  {
+    "CUI": "C0223088",
+    "Canonical name": "Structure of intervertebral space"
+  },
+  {
+    "CUI": "C0029939",
+    "Canonical name": "Ovary"
+  },
+  {
+    "CUI": "C0225789",
+    "Canonical name": "Mediastinal pleura"
+  },
+  {
+    "CUI": "C0442106",
+    "Canonical name": "Intervertebral"
+  },
+  {
+    "CUI": "C0007776",
+    "Canonical name": "Cerebral cortex"
+  },
+  {
+    "CUI": "C0032225",
+    "Canonical name": "Pleura"
+  },
+  {
+    "CUI": "C0018790",
+    "Canonical name": "Cardiac Arrest"
+  },
+  {
+    "CUI": "C0226245",
+    "Canonical name": "Structure of anterior inferior cerebellar artery"
+  },
+  {
+    "CUI": "C0225899",
+    "Canonical name": "Myocardium of left ventricle"
+  },
+  {
+    "CUI": "C0042459",
+    "Canonical name": "Superior vena cava structure"
+  },
+  {
+    "CUI": "C0004457",
+    "Canonical name": "Axis vertebra"
+  },
+  {
+    "CUI": "C0032649",
+    "Canonical name": "Structure of popliteal artery"
+  },
+  {
+    "CUI": "C0179802",
+    "Canonical name": "Urinary catheter"
+  },
+  {
+    "CUI": "C0011304",
+    "Canonical name": "Demyelination"
+  },
+  {
+    "CUI": "C0225808",
+    "Canonical name": "Right side of heart"
+  },
+  {
+    "CUI": "C0226130",
+    "Canonical name": "Structure of superficial temporal artery"
+  },
+  {
+    "CUI": "C0226363",
+    "Canonical name": "Structure of left common iliac artery"
+  },
+  {
+    "CUI": "C0230365",
+    "Canonical name": "Structure of right wrist"
+  },
+  {
+    "CUI": "C0001511",
+    "Canonical name": "Tissue Adhesions"
+  },
+  {
+    "CUI": "C0226740",
+    "Canonical name": "Structure of paraumbilical vein"
+  },
+  {
+    "CUI": "C0020880",
+    "Canonical name": "Ileocecal Valve"
+  },
+  {
+    "CUI": "C0227667",
+    "Canonical name": "Structure of right renal pelvis"
+  },
+  {
+    "CUI": "C0333222",
+    "Canonical name": "Septic embolus"
+  },
+  {
+    "CUI": "C0011980",
+    "Canonical name": "Respiratory Diaphragm"
+  },
+  {
+    "CUI": "C0227672",
+    "Canonical name": "Renal sinus"
+  },
+  {
+    "CUI": "C0228187",
+    "Canonical name": "Structure of fissure of Sylvius"
+  },
+  {
+    "CUI": "C0230393",
+    "Canonical name": "Middle finger structure"
+  },
+  {
+    "CUI": "C0221376",
+    "Canonical name": "Hydrosalpinx (disease)"
+  },
+  {
+    "CUI": "C0226017",
+    "Canonical name": "Structure of left sinus of Valsalva"
+  },
+  {
+    "CUI": "C0447373",
+    "Canonical name": "Distal tooth root"
+  },
+  {
+    "CUI": "C0446436",
+    "Canonical name": "L4 level"
+  },
+  {
+    "CUI": "C0085816",
+    "Canonical name": "Structure of anterior tibial artery"
+  },
+  {
+    "CUI": "C0039099",
+    "Canonical name": "Synovial Membrane"
+  },
+  {
+    "CUI": "C0001162",
+    "Canonical name": "Acoustic Nerve"
+  },
+  {
+    "CUI": "C0230132",
+    "Canonical name": "Anterior chest wall structure"
+  },
+  {
+    "CUI": "C0238408",
+    "Canonical name": "Hematoma of rectus sheath"
+  },
+  {
+    "CUI": "C0521102",
+    "Canonical name": "Interferes with"
+  },
+  {
+    "CUI": "C0226230",
+    "Canonical name": "Structure of right vertebral artery"
+  },
+  {
+    "CUI": "C1280324",
+    "Canonical name": "Entire hepatic duct"
+  },
+  {
+    "CUI": "C0588211",
+    "Canonical name": "Bone structure of distal humerus"
+  },
+  {
+    "CUI": "C0005423",
+    "Canonical name": "Biliary tract structure"
+  },
+  {
+    "CUI": "C0473124",
+    "Canonical name": "Perinephric hematoma"
+  },
+  {
+    "CUI": "C0224620",
+    "Canonical name": "Carpometacarpal joint structure"
+  },
+  {
+    "CUI": "C0585574",
+    "Canonical name": "Pectoralis major muscle structure"
+  },
+  {
+    "CUI": "C0025037",
+    "Canonical name": "Meckel Diverticulum"
+  },
+  {
+    "CUI": "C1370824",
+    "Canonical name": "Interstitial emphysema"
+  },
+  {
+    "CUI": "C0206692",
+    "Canonical name": "Carcinoma, Lobular"
+  },
+  {
+    "CUI": "C0228576",
+    "Canonical name": "Dorsal funiculus"
+  },
+  {
+    "CUI": "C1185738",
+    "Canonical name": "Column (anatomic)"
+  },
+  {
+    "CUI": "C0027859",
+    "Canonical name": "Acoustic Neuroma"
+  },
+  {
+    "CUI": "C0151936",
+    "Canonical name": "Disorder of tendon"
+  },
+  {
+    "CUI": "C0230416",
+    "Canonical name": "Left lower extremity"
+  },
+  {
+    "CUI": "C0227680",
+    "Canonical name": "Structure of ureteropelvic junction"
+  },
+  {
+    "CUI": "C0446434",
+    "Canonical name": "L3 level"
+  },
+  {
+    "CUI": "C0228186",
+    "Canonical name": "Structure of longitudinal cerebral fissure"
+  },
+  {
+    "CUI": "C0229802",
+    "Canonical name": "Structure of retroperitoneal lymph node"
+  },
+  {
+    "CUI": "C0149978",
+    "Canonical name": "Adenocarcinoma of rectum"
+  },
+  {
+    "CUI": "C0225469",
+    "Canonical name": "Right ethmoid sinus structure"
+  },
+  {
+    "CUI": "C0926861",
+    "Canonical name": "Masticator space"
+  },
+  {
+    "CUI": "C0457109",
+    "Canonical name": "Cardiac border"
+  },
+  {
+    "CUI": "C1184923",
+    "Canonical name": "Lordosis deformity of lumbar spine"
+  },
+  {
+    "CUI": "C0004144",
+    "Canonical name": "Atelectasis"
+  },
+  {
+    "CUI": "C0230127",
+    "Canonical name": "Right thorax structure"
+  },
+  {
+    "CUI": "C0446428",
+    "Canonical name": "T10 level"
+  },
+  {
+    "CUI": "C0225926",
+    "Canonical name": "Structure of anulus fibrosus of tricuspid orifice"
+  },
+  {
+    "CUI": "C0001074",
+    "Canonical name": "Structure of achilles tendon"
+  },
+  {
+    "CUI": "C0227614",
+    "Canonical name": "Left kidney"
+  },
+  {
+    "CUI": "C0015302",
+    "Canonical name": "External exotoses"
+  },
+  {
+    "CUI": "C0229118",
+    "Canonical name": "Structure of both eyes"
+  },
+  {
+    "CUI": "C0227637",
+    "Canonical name": "Structure of perirenal fascia"
+  },
+  {
+    "CUI": "C0225703",
+    "Canonical name": "Structure of apex of lung"
+  },
+  {
+    "CUI": "C0002978",
+    "Canonical name": "angiogram"
+  },
+  {
+    "CUI": "C1510420",
+    "Canonical name": "Cavitation"
+  },
+  {
+    "CUI": "C0226298",
+    "Canonical name": "Structure of left gastric artery"
+  },
+  {
+    "CUI": "C0007769",
+    "Canonical name": "Cerebral aqueduct"
+  },
+  {
+    "CUI": "C0034193",
+    "Canonical name": "Pyloric antrum"
+  },
+  {
+    "CUI": "C0006090",
+    "Canonical name": "Brachial plexus structure"
+  },
+  {
+    "CUI": "C0162485",
+    "Canonical name": "Zygomatic Arch"
+  },
+  {
+    "CUI": "C0446497",
+    "Canonical name": "Right iliac fossa"
+  },
+  {
+    "CUI": "C0265677",
+    "Canonical name": "Congenital hemivertebra"
+  },
+  {
+    "CUI": "C0549186",
+    "Canonical name": "Obstructed"
+  },
+  {
+    "CUI": "C0031153",
+    "Canonical name": "Peritoneum"
+  },
+  {
+    "CUI": "C0443301",
+    "Canonical name": "Sequestration"
+  },
+  {
+    "CUI": "C0229316",
+    "Canonical name": "Concha of ear structure"
+  },
+  {
+    "CUI": "C3887590",
+    "Canonical name": "Stricture of ureter"
+  },
+  {
+    "CUI": "C0013604",
+    "Canonical name": "Edema"
+  },
+  {
+    "CUI": "C0014860",
+    "Canonical name": "Esophageal Perforation"
+  },
+  {
+    "CUI": "C1442171",
+    "Canonical name": "Chest and abdomen"
+  },
+  {
+    "CUI": "C1800706",
+    "Canonical name": "Idiopathic Pulmonary Fibrosis"
+  },
+  {
+    "CUI": "C0740422",
+    "Canonical name": "Fundus"
+  },
+  {
+    "CUI": "C0007279",
+    "Canonical name": "Carotid Body Paraganglioma"
+  },
+  {
+    "CUI": "C0043539",
+    "Canonical name": "Zygomatic bone"
+  },
+  {
+    "CUI": "C0226157",
+    "Canonical name": "Structure of left internal carotid artery"
+  },
+  {
+    "CUI": "C0272407",
+    "Canonical name": "Splenic cyst"
+  },
+  {
+    "CUI": "C0227130",
+    "Canonical name": "Tooth Socket"
+  },
+  {
+    "CUI": "C0508000",
+    "Canonical name": "Structure of right renal vein"
+  },
+  {
+    "CUI": "C0032326",
+    "Canonical name": "Pneumothorax"
+  },
+  {
+    "CUI": "C0006114",
+    "Canonical name": "Cerebral Edema"
+  },
+  {
+    "CUI": "C0446986",
+    "Canonical name": "Entire left sinus of Valsalva"
+  },
+  {
+    "CUI": "C0728985",
+    "Canonical name": "Cervical spine"
+  },
+  {
+    "CUI": "C0036429",
+    "Canonical name": "Sclerosis"
+  },
+  {
+    "CUI": "C0006255",
+    "Canonical name": "Bronchi"
+  },
+  {
+    "CUI": "C0014175",
+    "Canonical name": "Endometriosis"
+  },
+  {
+    "CUI": "C0333548",
+    "Canonical name": "Acute infarct"
+  },
+  {
+    "CUI": "C0192389",
+    "Canonical name": "Dilation of esophagus due to disease"
+  },
+  {
+    "CUI": "C3714759",
+    "Canonical name": "Stifle bone"
+  },
+  {
+    "CUI": "C0447411",
+    "Canonical name": "Alveolar ridge"
+  },
+  {
+    "CUI": "C0543478",
+    "Canonical name": "Residual Tumor"
+  },
+  {
+    "CUI": "C0227391",
+    "Canonical name": "Sigmoid colon"
+  },
+  {
+    "CUI": "C1299991",
+    "Canonical name": "Measurement method"
+  },
+  {
+    "CUI": "C0152295",
+    "Canonical name": "Cerebral white matter structure"
+  },
+  {
+    "CUI": "C4281598",
+    "Canonical name": "Structure of right knee region"
+  },
+  {
+    "CUI": "C0223628",
+    "Canonical name": "Structure of spine of scapula"
+  },
+  {
+    "CUI": "C5203670",
+    "Canonical name": "COVID19 (disease)"
+  },
+  {
+    "CUI": "C0024094",
+    "Canonical name": "Lumbosacral Region"
+  },
+  {
+    "CUI": "C0520743",
+    "Canonical name": "Mediastinal lymphadenopathy"
+  },
+  {
+    "CUI": "C0158570",
+    "Canonical name": "Vascular anomaly"
+  },
+  {
+    "CUI": "C0225809",
+    "Canonical name": "Left side of heart"
+  },
+  {
+    "CUI": "C2711227",
+    "Canonical name": "Steatohepatitis"
+  },
+  {
+    "CUI": "C0225205",
+    "Canonical name": "Aponeurosis structure"
+  },
+  {
+    "CUI": "C0230240",
+    "Canonical name": "Falciform ligament"
+  },
+  {
+    "CUI": "C0266039",
+    "Canonical name": "Taurodontism"
+  },
+  {
+    "CUI": "C0228207",
+    "Canonical name": "RIght parietal lobe structure"
+  },
+  {
+    "CUI": "C0006205",
+    "Canonical name": "Broad Ligament"
+  },
+  {
+    "CUI": "C0039484",
+    "Canonical name": "Temporal bone structure"
+  },
+  {
+    "CUI": "C0230062",
+    "Canonical name": "Structure of medial wall of orbit"
+  },
+  {
+    "CUI": "C0010271",
+    "Canonical name": "Cranial Sinuses"
+  },
+  {
+    "CUI": "C0022656",
+    "Canonical name": "Kidney Cortex Necrosis"
+  },
+  {
+    "CUI": "C0205129",
+    "Canonical name": "Sagittal"
+  },
+  {
+    "CUI": "C0001430",
+    "Canonical name": "Adenoma"
+  },
+  {
+    "CUI": "C1504464",
+    "Canonical name": "Endoleak"
+  },
+  {
+    "CUI": "C0226032",
+    "Canonical name": "Anterior descending branch of left coronary artery"
+  },
+  {
+    "CUI": "C0227794",
+    "Canonical name": "Fornix of vagina"
+  },
+  {
+    "CUI": "C1305372",
+    "Canonical name": "Hilar lymph node"
+  },
+  {
+    "CUI": "C0151705",
+    "Canonical name": "Retroperitoneal Hemorrhage"
+  },
+  {
+    "CUI": "C0042149",
+    "Canonical name": "Uterus"
+  },
+  {
+    "CUI": "C0333980",
+    "Canonical name": "Focal Nodular Hyperplasia"
+  },
+  {
+    "CUI": "C0149507",
+    "Canonical name": "Orbital Cellulitis"
+  },
+  {
+    "CUI": "C0015027",
+    "Canonical name": "Ethmoid bone structure"
+  },
+  {
+    "CUI": "C0230139",
+    "Canonical name": "Thoracic cavity structure"
+  },
+  {
+    "CUI": "C1996865",
+    "Canonical name": "Postero-Anterior"
+  },
+  {
+    "CUI": "C0007275",
+    "Canonical name": "External carotid artery structure"
+  },
+  {
+    "CUI": "C0222681",
+    "Canonical name": "Structure of epicondyle"
+  },
+  {
+    "CUI": "C4281590",
+    "Canonical name": "Structure of middle lobe of right lung"
+  },
+  {
+    "CUI": "C0441478",
+    "Canonical name": "Surgical advancement - action"
+  },
+  {
+    "CUI": "C0521377",
+    "Canonical name": "Rectum and sigmoid colon"
+  },
+  {
+    "CUI": "C0559499",
+    "Canonical name": "Biceps brachii muscle structure"
+  },
+  {
+    "CUI": "C1306460",
+    "Canonical name": "Primary malignant neoplasm of lung"
+  },
+  {
+    "CUI": "C0022378",
+    "Canonical name": "Jejunum"
+  },
+  {
+    "CUI": "C0524414",
+    "Canonical name": "Structure of condyle"
+  },
+  {
+    "CUI": "C0039487",
+    "Canonical name": "Structure of temporalis muscle"
+  },
+  {
+    "CUI": "C0023890",
+    "Canonical name": "Liver Cirrhosis"
+  },
+  {
+    "CUI": "C0555850",
+    "Canonical name": "Indwelling urethral catheter"
+  },
+  {
+    "CUI": "C0007765",
+    "Canonical name": "Cerebellum"
+  },
+  {
+    "CUI": "C0227937",
+    "Canonical name": "Corpus cavernosum structure"
+  },
+  {
+    "CUI": "C0018994",
+    "Canonical name": "Biliary Tract Hemorrhage"
+  },
+  {
+    "CUI": "C0023685",
+    "Canonical name": "Ligaments"
+  },
+  {
+    "CUI": "C0458421",
+    "Canonical name": "Wall of bladder"
+  },
+  {
+    "CUI": "C0446469",
+    "Canonical name": "Surface region of upper chest"
+  },
+  {
+    "CUI": "C0524423",
+    "Canonical name": "Both cardiac ventricles"
+  },
+  {
+    "CUI": "C0027651",
+    "Canonical name": "Neoplasms"
+  },
+  {
+    "CUI": "C0392014",
+    "Canonical name": "Trachea displaced"
+  },
+  {
+    "CUI": "C0018536",
+    "Canonical name": "Hallux Valgus"
+  },
+  {
+    "CUI": "C0225892",
+    "Canonical name": "Structure of outflow tract of right ventricle"
+  },
+  {
+    "CUI": "C0227608",
+    "Canonical name": "Structure of hilum of kidney"
+  },
+  {
+    "CUI": "C0008479",
+    "Canonical name": "Chondrosarcoma"
+  },
+  {
+    "CUI": "C0205321",
+    "Canonical name": "Penetration"
+  },
+  {
+    "CUI": "C0584884",
+    "Canonical name": "Subscapularis muscle structure"
+  },
+  {
+    "CUI": "C0007793",
+    "Canonical name": "Cerebral Peduncle"
+  },
+  {
+    "CUI": "C0035298",
+    "Canonical name": "Retina"
+  },
+  {
+    "CUI": "C0018827",
+    "Canonical name": "Heart Ventricle"
+  },
+  {
+    "CUI": "C0343230",
+    "Canonical name": "ganglion of knee"
+  },
+  {
+    "CUI": "C0224519",
+    "Canonical name": "Synchondrosis structure"
+  },
+  {
+    "CUI": "C0011646",
+    "Canonical name": "Dermis"
+  },
+  {
+    "CUI": "C0332144",
+    "Canonical name": "Final diagnosis (discharge)"
+  },
+  {
+    "CUI": "C0225707",
+    "Canonical name": "Structure of apex of right lung"
+  },
+  {
+    "CUI": "C0015392",
+    "Canonical name": "Eye"
+  },
+  {
+    "CUI": "C0738590",
+    "Canonical name": "Right hypochondriac region structure"
+  },
+  {
+    "CUI": "C0225342",
+    "Canonical name": "Adventitia"
+  },
+  {
+    "CUI": "C0224828",
+    "Canonical name": "Structure of suprapatellar bursa"
+  },
+  {
+    "CUI": "C1305611",
+    "Canonical name": "Entire body of fourth lumbar vertebra"
+  },
+  {
+    "CUI": "C0227844",
+    "Canonical name": "Uterine cavity"
+  },
+  {
+    "CUI": "C0584646",
+    "Canonical name": "Myotendinous Junction"
+  },
+  {
+    "CUI": "C0332554",
+    "Canonical name": "Shadow"
+  },
+  {
+    "CUI": "C0333043",
+    "Canonical name": "Anterior displacement"
+  },
+  {
+    "CUI": "C0230278",
+    "Canonical name": "Lesser Pelvis"
+  },
+  {
+    "CUI": "C0226399",
+    "Canonical name": "Structure of right external iliac artery"
+  },
+  {
+    "CUI": "C0230461",
+    "Canonical name": "Structure of left foot"
+  },
+  {
+    "CUI": "C0003492",
+    "Canonical name": "Aortic coarctation"
+  },
+  {
+    "CUI": "C0224361",
+    "Canonical name": "Structure of trapezius muscle"
+  },
+  {
+    "CUI": "C0020888",
+    "Canonical name": "Iliac Vein"
+  },
+  {
+    "CUI": "C0029078",
+    "Canonical name": "Structure of ophthalmic artery"
+  },
+  {
+    "CUI": "C0228160",
+    "Canonical name": "RIght lateral ventricle structure"
+  },
+  {
+    "CUI": "C0026267",
+    "Canonical name": "Mitral Valve Prolapse Syndrome"
+  },
+  {
+    "CUI": "C1305912",
+    "Canonical name": "Entire abdominal viscera"
+  },
+  {
+    "CUI": "C0006267",
+    "Canonical name": "Bronchiectasis"
+  },
+  {
+    "CUI": "C0029441",
+    "Canonical name": "Osteoid osteoma"
+  },
+  {
+    "CUI": "C0036270",
+    "Canonical name": "Scalp structure"
+  },
+  {
+    "CUI": "C0037944",
+    "Canonical name": "Spinal Stenosis"
+  },
+  {
+    "CUI": "C0041341",
+    "Canonical name": "Tuberous Sclerosis"
+  },
+  {
+    "CUI": "C0588055",
+    "Canonical name": "Mediastinal lymph node group"
+  },
+  {
+    "CUI": "C1827591",
+    "Canonical name": "Structure of half of thorax lateral to midsagittal plane"
+  },
+  {
+    "CUI": "C0025584",
+    "Canonical name": "Metatarsal bone structure"
+  },
+  {
+    "CUI": "C0578736",
+    "Canonical name": "Inguinal lymphadenopathy"
+  },
+  {
+    "CUI": "C0230445",
+    "Canonical name": "Structure of calf of leg"
+  },
+  {
+    "CUI": "C0225730",
+    "Canonical name": "Left lung"
+  },
+  {
+    "CUI": "C0034896",
+    "Canonical name": "Rectum"
+  },
+  {
+    "CUI": "C0015028",
+    "Canonical name": "Ethmoid sinus structure"
+  },
+  {
+    "CUI": "C1305729",
+    "Canonical name": "Entire skeletal muscle of gluteal region"
+  },
+  {
+    "CUI": "C1704247",
+    "Canonical name": "Peritoneal Cavity"
+  },
+  {
+    "CUI": "C0340647",
+    "Canonical name": "Distal aortic dissection"
+  },
+  {
+    "CUI": "C0018916",
+    "Canonical name": "Hemangioma"
+  },
+  {
+    "CUI": "C1269890",
+    "Canonical name": "Entire right atrium"
+  },
+  {
+    "CUI": "C0460048",
+    "Canonical name": "Large bowel obstruction"
+  },
+  {
+    "CUI": "C0587044",
+    "Canonical name": "Left ventricular thrombus"
+  },
+  {
+    "CUI": "C0223724",
+    "Canonical name": "Scaphoid bone"
+  },
+  {
+    "CUI": "C0428851",
+    "Canonical name": "Dilatation of pulmonary artery, unspecified"
+  },
+  {
+    "CUI": "C0007137",
+    "Canonical name": "Squamous cell carcinoma"
+  },
+  {
+    "CUI": "C0447550",
+    "Canonical name": "Intrahepatic duct"
+  },
+  {
+    "CUI": "C0229090",
+    "Canonical name": "Left eye structure"
+  },
+  {
+    "CUI": "C0040960",
+    "Canonical name": "Tricuspid valve structure"
+  },
+  {
+    "CUI": "C0042345",
+    "Canonical name": "Varicosity"
+  },
+  {
+    "CUI": "C0039685",
+    "Canonical name": "Tetralogy of Fallot"
+  },
+  {
+    "CUI": "C0223896",
+    "Canonical name": "Structure of tibial tuberosity"
+  },
+  {
+    "CUI": "C0227980",
+    "Canonical name": "Structure of left seminal vesicle"
+  },
+  {
+    "CUI": "C0333204",
+    "Canonical name": "Non-occlusive thrombus"
+  },
+  {
+    "CUI": "C0227874",
+    "Canonical name": "Structure of left ovary"
+  },
+  {
+    "CUI": "C0158779",
+    "Canonical name": "Cervical rib"
+  },
+  {
+    "CUI": "C0005682",
+    "Canonical name": "Urinary Bladder"
+  },
+  {
+    "CUI": "C0036394",
+    "Canonical name": "Structure of sciatic nerve"
+  },
+  {
+    "CUI": "C0040405",
+    "Canonical name": "X-Ray Computed Tomography"
+  },
+  {
+    "CUI": "C0013609",
+    "Canonical name": "Localized Edema"
+  },
+  {
+    "CUI": "C0020542",
+    "Canonical name": "Pulmonary Hypertension"
+  },
+  {
+    "CUI": "C0225344",
+    "Canonical name": "Tunica submucosa"
+  },
+  {
+    "CUI": "C0444567",
+    "Canonical name": "Ostium"
+  },
+  {
+    "CUI": "C4545644",
+    "Canonical name": "Structure of lymph node of right axilla"
+  },
+  {
+    "CUI": "C0021640",
+    "Canonical name": "Insula of Reil"
+  },
+  {
+    "CUI": "C0230448",
+    "Canonical name": "Structure of left ankle"
+  },
+  {
+    "CUI": "C0004170",
+    "Canonical name": "Cervical Atlas"
+  },
+  {
+    "CUI": "C0226311",
+    "Canonical name": "Structure of gastroduodenal artery"
+  },
+  {
+    "CUI": "C0226865",
+    "Canonical name": "Structure of sigmoid sinus"
+  },
+  {
+    "CUI": "C3696979",
+    "Canonical name": "Enthesophyte"
+  },
+  {
+    "CUI": "C0038532",
+    "Canonical name": "Structure of subclavian vein"
+  },
+  {
+    "CUI": "C0152424",
+    "Canonical name": "Common ventricle"
+  },
+  {
+    "CUI": "C3665332",
+    "Canonical name": "Primary hypertrophic cardiomyopathy"
+  },
+  {
+    "CUI": "C0266387",
+    "Canonical name": "Bicornuate uterus"
+  },
+  {
+    "CUI": "C0582821",
+    "Canonical name": "Lateral rectus muscle structure"
+  },
+  {
+    "CUI": "C0029180",
+    "Canonical name": "Ocular orbit"
+  },
+  {
+    "CUI": "C2334731",
+    "Canonical name": "Pogonion"
+  },
+  {
+    "CUI": "C0037996",
+    "Canonical name": "Structure of splenic artery"
+  },
+  {
+    "CUI": "C0224319",
+    "Canonical name": "Structure of multifidus muscle"
+  },
+  {
+    "CUI": "C0520453",
+    "Canonical name": "Cannula device"
+  },
+  {
+    "CUI": "C0226364",
+    "Canonical name": "Structure of internal iliac artery"
+  },
+  {
+    "CUI": "C0024221",
+    "Canonical name": "Lymphangioma"
+  },
+  {
+    "CUI": "C0265205",
+    "Canonical name": "Robinow Syndrome"
+  },
+  {
+    "CUI": "C0333033",
+    "Canonical name": "Fecalith"
+  },
+  {
+    "CUI": "C2924613",
+    "Canonical name": "Cephalometric point B"
+  },
+  {
+    "CUI": "C0018552",
+    "Canonical name": "Hamartoma"
+  },
+  {
+    "CUI": "C0041618",
+    "Canonical name": "Ultrasonography"
+  },
+  {
+    "CUI": "C0226213",
+    "Canonical name": "Structure of right middle cerebral artery"
+  },
+  {
+    "CUI": "C0225759",
+    "Canonical name": "Lung field"
+  },
+  {
+    "CUI": "C0039103",
+    "Canonical name": "Synovitis"
+  },
+  {
+    "CUI": "C1305766",
+    "Canonical name": "Entire outflow tract of left ventricle"
+  },
+  {
+    "CUI": "C0007770",
+    "Canonical name": "Structure of cerebral artery"
+  },
+  {
+    "CUI": "C0225756",
+    "Canonical name": "Structure of upper lobe of lung"
+  },
+  {
+    "CUI": "C0738591",
+    "Canonical name": "Left hypochondriac region structure"
+  },
+  {
+    "CUI": "C0019155",
+    "Canonical name": "Structure of hepatic vein"
+  },
+  {
+    "CUI": "C2712342",
+    "Canonical name": "Bladder stone (substance)"
+  },
+  {
+    "CUI": "C0460009",
+    "Canonical name": "Back structure, including back of neck"
+  },
+  {
+    "CUI": "C0225787",
+    "Canonical name": "Structure of left pleural cavity"
+  },
+  {
+    "CUI": "C1265786",
+    "Canonical name": "Unilocular cyst"
+  },
+  {
+    "CUI": "C0036471",
+    "Canonical name": "Scrotum"
+  },
+  {
+    "CUI": "C0222662",
+    "Canonical name": "Medullary cavity of bone"
+  },
+  {
+    "CUI": "C0226801",
+    "Canonical name": "Structure of basilic vein"
+  },
+  {
+    "CUI": "C0038590",
+    "Canonical name": "Substantia nigra structure"
+  },
+  {
+    "CUI": "C0446569",
+    "Canonical name": "Knee joint line"
+  },
+  {
+    "CUI": "C0340776",
+    "Canonical name": "Aneurysm of vein"
+  },
+  {
+    "CUI": "C0447556",
+    "Canonical name": "Neck of pancreas"
+  },
+  {
+    "CUI": "C0226400",
+    "Canonical name": "Structure of left external iliac artery"
+  },
+  {
+    "CUI": "C0440746",
+    "Canonical name": "brain tissue surgical material"
+  },
+  {
+    "CUI": "C0041951",
+    "Canonical name": "Ureter"
+  },
+  {
+    "CUI": "C0016052",
+    "Canonical name": "Fibromuscular Dysplasia"
+  },
+  {
+    "CUI": "C0020885",
+    "Canonical name": "ileum"
+  },
+  {
+    "CUI": "C0005974",
+    "Canonical name": "Bone Resorption"
+  },
+  {
+    "CUI": "C1533572",
+    "Canonical name": "Forepaw"
+  },
+  {
+    "CUI": "C0027530",
+    "Canonical name": "Neck"
+  },
+  {
+    "CUI": "C0016733",
+    "Canonical name": "frontal lobe"
+  },
+  {
+    "CUI": "C0020507",
+    "Canonical name": "Hyperplasia"
+  },
+  {
+    "CUI": "C0585008",
+    "Canonical name": "Cholangiectasis"
+  },
+  {
+    "CUI": "C2960749",
+    "Canonical name": "Intratumor route"
+  },
+  {
+    "CUI": "C0262950",
+    "Canonical name": "Skeletal bone"
+  },
+  {
+    "CUI": "C0230064",
+    "Canonical name": "Periorbital region"
+  },
+  {
+    "CUI": "C0206248",
+    "Canonical name": "Pelvic Diaphragm"
+  },
+  {
+    "CUI": "C1368999",
+    "Canonical name": "Late effect of medical intervention"
+  },
+  {
+    "CUI": "C0459701",
+    "Canonical name": "First metatarsal structure"
+  },
+  {
+    "CUI": "C0001516",
+    "Canonical name": "Adhesives"
+  },
+  {
+    "CUI": "C0225758",
+    "Canonical name": "Structure of lower lobe of lung"
+  },
+  {
+    "CUI": "C0447557",
+    "Canonical name": "Main pancreatic duct"
+  },
+  {
+    "CUI": "C0019080",
+    "Canonical name": "Hemorrhage"
+  },
+  {
+    "CUI": "C0226503",
+    "Canonical name": "Structure of venous network"
+  },
+  {
+    "CUI": "C0038525",
+    "Canonical name": "Subarachnoid Hemorrhage"
+  },
+  {
+    "CUI": "C1508753",
+    "Canonical name": "Urinary system"
+  },
+  {
+    "CUI": "C0038925",
+    "Canonical name": "Surgical Flaps"
+  },
+  {
+    "CUI": "C0230371",
+    "Canonical name": "Structure of left hand"
+  },
+  {
+    "CUI": "C0206620",
+    "Canonical name": "Lymphangioma, Cystic"
+  },
+  {
+    "CUI": "C0241790",
+    "Canonical name": "Congenital pulmonary arteriovenous malformation"
+  },
+  {
+    "CUI": "C0227952",
+    "Canonical name": "Foreskin of penis"
+  },
+  {
+    "CUI": "C0577870",
+    "Canonical name": "Aortic valve vegetations"
+  },
+  {
+    "CUI": "C0223863",
+    "Canonical name": "Structure of fabella"
+  },
+  {
+    "CUI": "C1305613",
+    "Canonical name": "Entire body of fifth lumbar vertebra"
+  },
+  {
+    "CUI": "C0034052",
+    "Canonical name": "Pulmonary artery structure"
+  },
+  {
+    "CUI": "C0230259",
+    "Canonical name": "Greater omentum"
+  },
+  {
+    "CUI": "C0230065",
+    "Canonical name": "Structure of retroorbital region"
+  },
+  {
+    "CUI": "C0342649",
+    "Canonical name": "Vascular calcification"
+  },
+  {
+    "CUI": "C0225452",
+    "Canonical name": "Right maxillary sinus structure"
+  },
+  {
+    "CUI": "C4551683",
+    "Canonical name": "Adrenal Gland Pheochromocytoma"
+  },
+  {
+    "CUI": "C0340648",
+    "Canonical name": "dissection of coronary artery"
+  },
+  {
+    "CUI": "C0225470",
+    "Canonical name": "Left ethmoid sinus structure"
+  },
+  {
+    "CUI": "C0019322",
+    "Canonical name": "Umbilical hernia"
+  },
+  {
+    "CUI": "C0009438",
+    "Canonical name": "Common Bile Duct Calculi"
+  },
+  {
+    "CUI": "C0029453",
+    "Canonical name": "Osteopenia"
+  },
+  {
+    "CUI": "C0003507",
+    "Canonical name": "Aortic Valve Stenosis"
+  },
+  {
+    "CUI": "C0149555",
+    "Canonical name": "Third ventricle structure"
+  },
+  {
+    "CUI": "C0226004",
+    "Canonical name": "Arterial system"
+  },
+  {
+    "CUI": "C0221353",
+    "Canonical name": "Horseshoe Kidney"
+  },
+  {
+    "CUI": "C0162869",
+    "Canonical name": "Aneurysm, Ruptured"
+  },
+  {
+    "CUI": "C0027686",
+    "Canonical name": "Pathologic Neovascularization"
+  },
+  {
+    "CUI": "C0443294",
+    "Canonical name": "Ruptured behavior"
+  },
+  {
+    "CUI": "C2349948",
+    "Canonical name": "Lingual - Oral site descriptor"
+  },
+  {
+    "CUI": "C0024959",
+    "Canonical name": "Maxillary Sinusitis"
+  },
+  {
+    "CUI": "C1267406",
+    "Canonical name": "Venous system"
+  },
+  {
+    "CUI": "C0226262",
+    "Canonical name": "Structure of left subclavian artery"
+  },
+  {
+    "CUI": "C0700148",
+    "Canonical name": "Congestion"
+  },
+  {
+    "CUI": "C0230318",
+    "Canonical name": "Right inguinal region"
+  },
+  {
+    "CUI": "C0223687",
+    "Canonical name": "Structure of lesser tuberosity of humerus"
+  },
+  {
+    "CUI": "C0227582",
+    "Canonical name": "Body of pancreas"
+  },
+  {
+    "CUI": "C0270687",
+    "Canonical name": "Pseudomeningocele"
+  },
+  {
+    "CUI": "C0016520",
+    "Canonical name": "Structure of interventricular foramen"
+  },
+  {
+    "CUI": "C0332234",
+    "Canonical name": "Leaking"
+  },
+  {
+    "CUI": "C0226156",
+    "Canonical name": "Structure of right internal carotid artery"
+  },
+  {
+    "CUI": "C1290884",
+    "Canonical name": "Inflammatory disorder"
+  },
+  {
+    "CUI": "C0226214",
+    "Canonical name": "Structure of left middle cerebral artery"
+  },
+  {
+    "CUI": "C0025990",
+    "Canonical name": "Micrognathism"
+  },
+  {
+    "CUI": "C0205097",
+    "Canonical name": "Caudal"
+  },
+  {
+    "CUI": "C4721411",
+    "Canonical name": "Osteolysis"
+  },
+  {
+    "CUI": "C5441965",
+    "Canonical name": "Ascitic Fluid"
+  },
+  {
+    "CUI": "C0029126",
+    "Canonical name": "Optic Chiasms"
+  },
+  {
+    "CUI": "C0003489",
+    "Canonical name": "Aortic arch structure"
+  },
+  {
+    "CUI": "C0008733",
+    "Canonical name": "Chylothorax"
+  },
+  {
+    "CUI": "C1261192",
+    "Canonical name": "Ankle region"
+  },
+  {
+    "CUI": "C0223665",
+    "Canonical name": "Structure of iliopubic eminence"
+  },
+  {
+    "CUI": "C0447375",
+    "Canonical name": "Mesial tooth root"
+  },
+  {
+    "CUI": "C0038019",
+    "Canonical name": "Spondylosis"
+  },
+  {
+    "CUI": "C0229664",
+    "Canonical name": "peripheral blood"
+  },
+  {
+    "CUI": "C0010482",
+    "Canonical name": "Cuspid"
+  },
+  {
+    "CUI": "C0003516",
+    "Canonical name": "Aortopulmonary Septal Defect"
+  },
+  {
+    "CUI": "C0020498",
+    "Canonical name": "Hyperostosis, Diffuse Idiopathic Skeletal"
+  },
+  {
+    "CUI": "C0206667",
+    "Canonical name": "Adrenal Cortical Adenoma"
+  },
+  {
+    "CUI": "C0036098",
+    "Canonical name": "Salivary Glands"
+  },
+  {
+    "CUI": "C1535976",
+    "Canonical name": "Epiploic appendagitis"
+  },
+  {
+    "CUI": "C0223894",
+    "Canonical name": "Structure of intercondylar spine of tibia"
+  },
+  {
+    "CUI": "C0037303",
+    "Canonical name": "Bone structure of cranium"
+  },
+  {
+    "CUI": "C0507850",
+    "Canonical name": "Wall of artery"
+  },
+  {
+    "CUI": "C0000962",
+    "Canonical name": "Bone structure of acetabulum"
+  },
+  {
+    "CUI": "C0149575",
+    "Canonical name": "Structure of superior cerebellar artery"
+  },
+  {
+    "CUI": "C0085693",
+    "Canonical name": "Acute appendicitis NOS (disorder)"
+  },
+  {
+    "CUI": "C0223866",
+    "Canonical name": "Structure of lesser trochanter of femur"
+  },
+  {
+    "CUI": "C0037928",
+    "Canonical name": "Spinal Cord Diseases"
+  },
+  {
+    "CUI": "C0041952",
+    "Canonical name": "Ureterolithiasis"
+  },
+  {
+    "CUI": "C0038352",
+    "Canonical name": "Gastric Content"
+  },
+  {
+    "CUI": "C0028977",
+    "Canonical name": "Omentum"
+  },
+  {
+    "CUI": "C0029405",
+    "Canonical name": "Osteitis Fibrosa Cystica"
+  },
+  {
+    "CUI": "C1290344",
+    "Canonical name": "Nonspecific interstitial pneumonia"
+  },
+  {
+    "CUI": "C0588203",
+    "Canonical name": "Bone structure of distal ulna"
+  },
+  {
+    "CUI": "C0008812",
+    "Canonical name": "Circle of Willis"
+  },
+  {
+    "CUI": "C0265699",
+    "Canonical name": "Congenital hernia of foramen of Morgagni"
+  },
+  {
+    "CUI": "C0149561",
+    "Canonical name": "Structure of anterior cerebral artery"
+  },
+  {
+    "CUI": "C0009368",
+    "Canonical name": "Colon structure (body structure)"
+  },
+  {
+    "CUI": "C0227666",
+    "Canonical name": "Renal pelvis"
+  },
+  {
+    "CUI": "C0151517",
+    "Canonical name": "Complete atrioventricular block"
+  },
+  {
+    "CUI": "C0227498",
+    "Canonical name": "Structure of porta hepatis"
+  },
+  {
+    "CUI": "C0019284",
+    "Canonical name": "Diaphragmatic Hernia"
+  },
+  {
+    "CUI": "C1269026",
+    "Canonical name": "Entire pulmonary artery"
+  },
+  {
+    "CUI": "C0441621",
+    "Canonical name": "Sampling - Surgical action"
+  },
+  {
+    "CUI": "C0014180",
+    "Canonical name": "Endometrium"
+  },
+  {
+    "CUI": "C0032005",
+    "Canonical name": "Pituitary Gland"
+  },
+  {
+    "CUI": "C0007799",
+    "Canonical name": "Cerebral Ventricles"
+  },
+  {
+    "CUI": "C0230374",
+    "Canonical name": "Thenar eminence"
+  },
+  {
+    "CUI": "C0001168",
+    "Canonical name": "Complete obstruction"
+  },
+  {
+    "CUI": "C1261075",
+    "Canonical name": "Structure of right lower lobe of lung"
+  },
+  {
+    "CUI": "C0447612",
+    "Canonical name": "Vaginal wall"
+  },
+  {
+    "CUI": "C0699790",
+    "Canonical name": "Colon Carcinoma"
+  },
+  {
+    "CUI": "C0264558",
+    "Canonical name": "Tension Pneumothorax"
+  },
+  {
+    "CUI": "C1744560",
+    "Canonical name": "Bulbar urethra"
+  },
+  {
+    "CUI": "C0162861",
+    "Canonical name": "Superior mesenteric artery structure"
+  },
+  {
+    "CUI": "C0446438",
+    "Canonical name": "Level of the first sacral vertebra"
+  },
+  {
+    "CUI": "C0226711",
+    "Canonical name": "Structure of left ovarian vein"
+  },
+  {
+    "CUI": "C0575270",
+    "Canonical name": "Scoliosis of thoracic spine"
+  },
+  {
+    "CUI": "C0229789",
+    "Canonical name": "Para-aortic node"
+  },
+  {
+    "CUI": "C0223895",
+    "Canonical name": "Medial malleolus"
+  },
+  {
+    "CUI": "C0224417",
+    "Canonical name": "Structure of iliopsoas muscle"
+  },
+  {
+    "CUI": "C2713497",
+    "Canonical name": "Saccular Aneurysm"
+  },
+  {
+    "CUI": "C1285116",
+    "Canonical name": "Right hip joint structure"
+  },
+  {
+    "CUI": "C0224380",
+    "Canonical name": "Structure of quadratus lumborum muscle"
+  },
+  {
+    "CUI": "C0009319",
+    "Canonical name": "Colitis"
+  },
+  {
+    "CUI": "C0230118",
+    "Canonical name": "Structure of presacral region"
+  },
+  {
+    "CUI": "C0746552",
+    "Canonical name": "Mesenteric lymphadenopathy"
+  },
+  {
+    "CUI": "C0019294",
+    "Canonical name": "Hernia, Inguinal"
+  },
+  {
+    "CUI": "C0027059",
+    "Canonical name": "Myocarditis"
+  },
+  {
+    "CUI": "C0016976",
+    "Canonical name": "Gallbladder"
+  },
+  {
+    "CUI": "C0238045",
+    "Canonical name": "Carotid-Cavernous Sinus Fistula"
+  },
+  {
+    "CUI": "C0024687",
+    "Canonical name": "Mandible"
+  },
+  {
+    "CUI": "C0149781",
+    "Canonical name": "Spontaneous pneumothorax"
+  },
+  {
+    "CUI": "C0223626",
+    "Canonical name": "Structure of coracoid process of scapula"
+  },
+  {
+    "CUI": "C0021853",
+    "Canonical name": "Intestines"
+  },
+  {
+    "CUI": "C0224848",
+    "Canonical name": "Structure of flexor tendon"
+  },
+  {
+    "CUI": "C0267834",
+    "Canonical name": "Liver cyst"
+  },
+  {
+    "CUI": "C0447009",
+    "Canonical name": "Entire leaflet of mitral valve"
+  },
+  {
+    "CUI": "C0226300",
+    "Canonical name": "Structure of common hepatic artery"
+  },
+  {
+    "CUI": "C1185651",
+    "Canonical name": "Gonion"
+  },
+  {
+    "CUI": "C0457354",
+    "Canonical name": "Gonadal vein"
+  },
+  {
+    "CUI": "C0228175",
+    "Canonical name": "Right cerebral hemisphere"
+  },
+  {
+    "CUI": "C0152319",
+    "Canonical name": "Corpus callosum splenium"
+  },
+  {
+    "CUI": "C0446470",
+    "Canonical name": "Surface region of lower chest"
+  },
+  {
+    "CUI": "C0400997",
+    "Canonical name": "Leakage of bile"
+  },
+  {
+    "CUI": "C0043262",
+    "Canonical name": "Wrist"
+  },
+  {
+    "CUI": "C0447273",
+    "Canonical name": "Entire maxillary right central incisor tooth"
+  },
+  {
+    "CUI": "C0229427",
+    "Canonical name": "Pneumatic mastoid cell"
+  },
+  {
+    "CUI": "C0227150",
+    "Canonical name": "Dorsal pharyngeal wall structure"
+  },
+  {
+    "CUI": "C0935625",
+    "Canonical name": "Fat pad"
+  },
+  {
+    "CUI": "C0226682",
+    "Canonical name": "Structure of superior left pulmonary vein"
+  },
+  {
+    "CUI": "C0442887",
+    "Canonical name": "Septal hypertrophy"
+  },
+  {
+    "CUI": "C0178282",
+    "Canonical name": "Hernia of abdominal cavity"
+  },
+  {
+    "CUI": "C0227170",
+    "Canonical name": "Structure of piriform recess"
+  },
+  {
+    "CUI": "C0877248",
+    "Canonical name": "Adverse event"
+  },
+  {
+    "CUI": "C0333055",
+    "Canonical name": "Retroversion"
+  },
+  {
+    "CUI": "C1561643",
+    "Canonical name": "Chronic Kidney Diseases"
+  },
+  {
+    "CUI": "C0333559",
+    "Canonical name": "Infarction, Lacunar"
+  },
+  {
+    "CUI": "C0042133",
+    "Canonical name": "Uterine Fibroids"
+  },
+  {
+    "CUI": "C0588193",
+    "Canonical name": "Bone structure of shaft of femur"
+  },
+  {
+    "CUI": "C0226016",
+    "Canonical name": "Structure of right sinus of Valsalva"
+  },
+  {
+    "CUI": "C0332835",
+    "Canonical name": "Transplanted tissue"
+  },
+  {
+    "CUI": "C0445122",
+    "Canonical name": "Entire posterior sinus of Valsalva"
+  },
+  {
+    "CUI": "C0001339",
+    "Canonical name": "Pancreatitis, Acute"
+  },
+  {
+    "CUI": "C0459414",
+    "Canonical name": "Central cord canal structure"
+  },
+  {
+    "CUI": "C1305775",
+    "Canonical name": "Entire portal vein"
+  },
+  {
+    "CUI": "C0022646",
+    "Canonical name": "Kidney"
+  },
+  {
+    "CUI": "C0227361",
+    "Canonical name": "Structure of colonic haustra"
+  },
+  {
+    "CUI": "C0265893",
+    "Canonical name": "Congenital aneurysm of sinus of Valsalva"
+  },
+  {
+    "CUI": "C0027709",
+    "Canonical name": "Nephrocalcinosis"
+  },
+  {
+    "CUI": "C0229815",
+    "Canonical name": "External iliac lymph node group"
+  },
+  {
+    "CUI": "C0000833",
+    "Canonical name": "Abscess"
+  },
+  {
+    "CUI": "C0227145",
+    "Canonical name": "Peripharyngeal area structure"
+  },
+  {
+    "CUI": "C0152347",
+    "Canonical name": "Pulvinar structure"
+  },
+  {
+    "CUI": "C0227557",
+    "Canonical name": "Structure of right hepatic duct"
+  },
+  {
+    "CUI": "C3887499",
+    "Canonical name": "Renal cyst"
+  },
+  {
+    "CUI": "C0266631",
+    "Canonical name": "Accessory spleen"
+  },
+  {
+    "CUI": "C0021845",
+    "Canonical name": "Intestinal Perforation"
+  },
+  {
+    "CUI": "C0021815",
+    "Canonical name": "Intervertebral disc structure"
+  },
+  {
+    "CUI": "C1261074",
+    "Canonical name": "Structure of right upper lobe of lung"
+  },
+  {
+    "CUI": "C0230010",
+    "Canonical name": "Structure of temporal fossa"
+  },
+  {
+    "CUI": "C0030299",
+    "Canonical name": "Pancreatic Pseudocyst"
+  },
+  {
+    "CUI": "C0230060",
+    "Canonical name": "Structure of inferior wall of orbit"
+  },
+  {
+    "CUI": "C0392464",
+    "Canonical name": "Ventricular aneurysm"
+  },
+  {
+    "CUI": "C0031110",
+    "Canonical name": "Periosteum"
+  },
+  {
+    "CUI": "C0524702",
+    "Canonical name": "Pulmonary Thromboembolisms"
+  },
+  {
+    "CUI": "C0344720",
+    "Canonical name": "Left atrial dilatation"
+  },
+  {
+    "CUI": "C0739480",
+    "Canonical name": "Structure of right common iliac vein"
+  },
+  {
+    "CUI": "C0034086",
+    "Canonical name": "Pulmonary valve structure"
+  },
+  {
+    "CUI": "C0031266",
+    "Canonical name": "Structure of petrous part of temporal bone"
+  },
+  {
+    "CUI": "C0005778",
+    "Canonical name": "Blood coagulation"
+  },
+  {
+    "CUI": "C0230426",
+    "Canonical name": "Structure of left thigh"
+  },
+  {
+    "CUI": "C0011334",
+    "Canonical name": "Dental caries"
+  },
+  {
+    "CUI": "C0595451",
+    "Canonical name": "Intrapleural Route of Drug Administration"
+  },
+  {
+    "CUI": "C0228312",
+    "Canonical name": "Structure of corona radiata of internal capsule"
+  },
+  {
+    "CUI": "C1261046",
+    "Canonical name": "Glenoid structure"
+  },
+  {
+    "CUI": "C0205518",
+    "Canonical name": "Transrectal approach"
+  },
+  {
+    "CUI": "C0223711",
+    "Canonical name": "Structure of coronoid process of ulna"
+  },
+  {
+    "CUI": "C0228218",
+    "Canonical name": "Right occipital lobe structure"
+  },
+  {
+    "CUI": "C0023524",
+    "Canonical name": "Leukoencephalopathy, Progressive Multifocal"
+  },
+  {
+    "CUI": "C0151811",
+    "Canonical name": "Subcutaneous nodule"
+  },
+  {
+    "CUI": "C0036628",
+    "Canonical name": "Seminal Vesicles"
+  },
+  {
+    "CUI": "C0018534",
+    "Canonical name": "Hallux structure"
+  },
+  {
+    "CUI": "C0021852",
+    "Canonical name": "Intestines, Small"
+  },
+  {
+    "CUI": "C0030219",
+    "Canonical name": "Palate, Soft"
+  },
+  {
+    "CUI": "C2733397",
+    "Canonical name": "Cor bovinum (disorder)"
+  },
+  {
+    "CUI": "C0013444",
+    "Canonical name": "External auditory canal structure"
+  },
+  {
+    "CUI": "C0003087",
+    "Canonical name": "Ankle joint structure"
+  },
+  {
+    "CUI": "C0223656",
+    "Canonical name": "Ischial tuberosity structure"
+  },
+  {
+    "CUI": "C0224169",
+    "Canonical name": "Longus colli muscle structure"
+  },
+  {
+    "CUI": "C0750852",
+    "Canonical name": "Physiological sludge"
+  },
+  {
+    "CUI": "C0344709",
+    "Canonical name": "Right atrial dilatation"
+  },
+  {
+    "CUI": "C0581620",
+    "Canonical name": "Thoracic spinal cord structure"
+  },
+  {
+    "CUI": "C0006257",
+    "Canonical name": "Structure of bronchial artery"
+  },
+  {
+    "CUI": "C0026683",
+    "Canonical name": "Mucocele"
+  },
+  {
+    "CUI": "C0006104",
+    "Canonical name": "Brain"
+  },
+  {
+    "CUI": "C0037998",
+    "Canonical name": "Splenic Infarction"
+  },
+  {
+    "CUI": "C0230460",
+    "Canonical name": "Structure of right foot"
+  },
+  {
+    "CUI": "C0226708",
+    "Canonical name": "Structure of left hepatic vein"
+  },
+  {
+    "CUI": "C0332482",
+    "Canonical name": "Abnormal shape"
+  },
+  {
+    "CUI": "C0036624",
+    "Canonical name": "Semilunar Bone"
+  },
+  {
+    "CUI": "C1284911",
+    "Canonical name": "Entire left thorax"
+  },
+  {
+    "CUI": "C0026769",
+    "Canonical name": "Multiple Sclerosis"
+  },
+  {
+    "CUI": "C0025462",
+    "Canonical name": "Midbrain structure"
+  },
+  {
+    "CUI": "C0242691",
+    "Canonical name": "Gastrocnemius muscle structure"
+  },
+  {
+    "CUI": "C0272412",
+    "Canonical name": "Splenic abscess"
+  },
+  {
+    "CUI": "C0017681",
+    "Canonical name": "glottis"
+  },
+  {
+    "CUI": "C0243026",
+    "Canonical name": "Sepsis"
+  },
+  {
+    "CUI": "C0268804",
+    "Canonical name": "Hydroureteronephrosis"
+  },
+  {
+    "CUI": "C1959589",
+    "Canonical name": "Angioma, Cavernous"
+  },
+  {
+    "CUI": "C0226676",
+    "Canonical name": "Structure of inferior right pulmonary vein"
+  },
+  {
+    "CUI": "C0013292",
+    "Canonical name": "Duodenal Obstruction"
+  },
+  {
+    "CUI": "C0458098",
+    "Canonical name": "Midclavicular line"
+  },
+  {
+    "CUI": "C0030518",
+    "Canonical name": "Parathyroid gland"
+  },
+  {
+    "CUI": "C0003956",
+    "Canonical name": "Ascending aorta structure"
+  },
+  {
+    "CUI": "C0036033",
+    "Canonical name": "Sacral Region"
+  },
+  {
+    "CUI": "C0333014",
+    "Canonical name": "Staghorn Calculi"
+  },
+  {
+    "CUI": "C2919452",
+    "Canonical name": "Venous stent"
+  },
+  {
+    "CUI": "C0175754",
+    "Canonical name": "Agenesis of corpus callosum"
+  },
+  {
+    "CUI": "C0015809",
+    "Canonical name": "Femoral vein"
+  },
+  {
+    "CUI": "C0038529",
+    "Canonical name": "Subchondral Cysts"
+  },
+  {
+    "CUI": "C1504506",
+    "Canonical name": "Patella alta"
+  },
+  {
+    "CUI": "C0022655",
+    "Canonical name": "Structure of cortex of kidney"
+  },
+  {
+    "CUI": "C0281361",
+    "Canonical name": "Adenocarcinoma of pancreas"
+  },
+  {
+    "CUI": "C0162858",
+    "Canonical name": "Structure of ulnar artery"
+  },
+  {
+    "CUI": "C0042449",
+    "Canonical name": "Veins"
+  },
+  {
+    "CUI": "C0225317",
+    "Canonical name": "soft tissue"
+  },
+  {
+    "CUI": "C3854330",
+    "Canonical name": "Gastric band (physical object)"
+  },
+  {
+    "CUI": "C0227683",
+    "Canonical name": "Structure of left ureter"
+  },
+  {
+    "CUI": "C0267941",
+    "Canonical name": "Pancreatitis Necrotizing"
+  },
+  {
+    "CUI": "C0230366",
+    "Canonical name": "Structure of left wrist"
+  },
+  {
+    "CUI": "C0002949",
+    "Canonical name": "Arterial Dissection"
+  },
+  {
+    "CUI": "C0230370",
+    "Canonical name": "Structure of right hand"
+  },
+  {
+    "CUI": "C0226092",
+    "Canonical name": "Structure of left external carotid artery"
+  },
+  {
+    "CUI": "C0223155",
+    "Canonical name": "Body of fifth cervical vertebra"
+  },
+  {
+    "CUI": "C0010090",
+    "Canonical name": "Corpus Callosum"
+  },
+  {
+    "CUI": "C0686907",
+    "Canonical name": "Consequence of"
+  },
+  {
+    "CUI": "C0734011",
+    "Canonical name": "Rectum wall structure"
+  },
+  {
+    "CUI": "C0223522",
+    "Canonical name": "Third lumbar vertebra"
+  },
+  {
+    "CUI": "C0376381",
+    "Canonical name": "Cuboid Bone"
+  },
+  {
+    "CUI": "C0442034",
+    "Canonical name": "peritoneal"
+  },
+  {
+    "CUI": "C0506546",
+    "Canonical name": "Esophageal wall structure"
+  },
+  {
+    "CUI": "C0008779",
+    "Canonical name": "Ciliary Body"
+  },
+  {
+    "CUI": "C0042580",
+    "Canonical name": "Vesico-Ureteral Reflux"
+  },
+  {
+    "CUI": "C0333145",
+    "Canonical name": "Hemorrhagic cyst"
+  },
+  {
+    "CUI": "C0243032",
+    "Canonical name": "Magnetic Resonance Angiography"
+  },
+  {
+    "CUI": "C0224429",
+    "Canonical name": "Structure of piriformis muscle"
+  },
+  {
+    "CUI": "C0038536",
+    "Canonical name": "Subcutaneous Emphysema"
+  },
+  {
+    "CUI": "C0748428",
+    "Canonical name": "Thrombus of right atrium"
+  },
+  {
+    "CUI": "C0008340",
+    "Canonical name": "Choledochal Cyst"
+  },
+  {
+    "CUI": "C0027442",
+    "Canonical name": "Nasopharynx"
+  },
+  {
+    "CUI": "C0035359",
+    "Canonical name": "Retroperitoneal Space"
+  },
+  {
+    "CUI": "C0446416",
+    "Canonical name": "C6 level"
+  },
+  {
+    "CUI": "C0348015",
+    "Canonical name": "Posterior segment"
+  },
+  {
+    "CUI": "C1522460",
+    "Canonical name": "Thoracic aorta"
+  },
+  {
+    "CUI": "C0220650",
+    "Canonical name": "Metastatic malignant neoplasm to brain"
+  },
+  {
+    "CUI": "C0226248",
+    "Canonical name": "Structure of left posterior cerebral artery"
+  },
+  {
+    "CUI": "C1739395",
+    "Canonical name": "Takotsubo Cardiomyopathy"
+  },
+  {
+    "CUI": "C0007458",
+    "Canonical name": "Cauda Equina"
+  },
+  {
+    "CUI": "C0442031",
+    "Canonical name": "Pericardial body location"
+  },
+  {
+    "CUI": "C0230137",
+    "Canonical name": "Structure of thoracic inlet"
+  },
+  {
+    "CUI": "C0224153",
+    "Canonical name": "Structure of sternocleidomastoid muscle"
+  },
+  {
+    "CUI": "C1322794",
+    "Canonical name": "Aortic stent"
+  },
+  {
+    "CUI": "C1305603",
+    "Canonical name": "Entire body of twelfth thoracic vertebra"
+  },
+  {
+    "CUI": "C0221224",
+    "Canonical name": "Invagination"
+  },
+  {
+    "CUI": "C3714551",
+    "Canonical name": "Stomach structure"
+  },
+  {
+    "CUI": "C0042036",
+    "Canonical name": "Urine"
+  },
+  {
+    "CUI": "C0225860",
+    "Canonical name": "Left atrial structure"
+  },
+  {
+    "CUI": "C0031099",
+    "Canonical name": "Periodontitis"
+  },
+  {
+    "CUI": "C0339821",
+    "Canonical name": "Concha bullosa"
+  },
+  {
+    "CUI": "C0151241",
+    "Canonical name": "Atrial myxoma"
+  },
+  {
+    "CUI": "C0016732",
+    "Canonical name": "Frontal bone structure"
+  },
+  {
+    "CUI": "C0175325",
+    "Canonical name": "Structure of infundibular stem of neurohypophysis"
+  },
+  {
+    "CUI": "C0031066",
+    "Canonical name": "Anogenital region"
+  },
+  {
+    "CUI": "C0020889",
+    "Canonical name": "Bone structure of ilium"
+  },
+  {
+    "CUI": "C0524468",
+    "Canonical name": "Structure of right shoulder region"
+  },
+  {
+    "CUI": "C0018120",
+    "Canonical name": "Ovarian Follicle"
+  },
+  {
+    "CUI": "C0393983",
+    "Canonical name": "Hernia of cerebellar tonsil into foramen magnum"
+  },
+  {
+    "CUI": "C0037199",
+    "Canonical name": "Sinusitis"
+  },
+  {
+    "CUI": "C0227388",
+    "Canonical name": "Left colon"
+  },
+  {
+    "CUI": "C0206332",
+    "Canonical name": "Structure of patellar ligament"
+  },
+  {
+    "CUI": "C0930339",
+    "Canonical name": "Mandibular notch"
+  },
+  {
+    "CUI": "C0010672",
+    "Canonical name": "Cystic duct structure"
+  },
+  {
+    "CUI": "C0027121",
+    "Canonical name": "Myositis"
+  },
+  {
+    "CUI": "C0225594",
+    "Canonical name": "Structure of carina"
+  },
+  {
+    "CUI": "C0227389",
+    "Canonical name": "Descending colon"
+  },
+  {
+    "CUI": "C1306645",
+    "Canonical name": "Plain x-ray"
+  },
+  {
+    "CUI": "C1258666",
+    "Canonical name": "Myxoid cyst"
+  },
+  {
+    "CUI": "C1947917",
+    "Canonical name": "Occluded"
+  },
+  {
+    "CUI": "C0577799",
+    "Canonical name": "Tricuspid valve vegetations"
+  },
+  {
+    "CUI": "C0226231",
+    "Canonical name": "Structure of left vertebral artery"
+  },
+  {
+    "CUI": "C0035561",
+    "Canonical name": "Bone structure of rib"
+  },
+  {
+    "CUI": "C0582820",
+    "Canonical name": "Medial rectus muscle structure"
+  },
+  {
+    "CUI": "C0225591",
+    "Canonical name": "Structure of tracheal lumen"
+  },
+  {
+    "CUI": "C0227481",
+    "Canonical name": "Right lobe of liver"
+  },
+  {
+    "CUI": "C0231459",
+    "Canonical name": "Internal rotation"
+  },
+  {
+    "CUI": "C0182400",
+    "Canonical name": "Probes"
+  },
+  {
+    "CUI": "C0576464",
+    "Canonical name": "Entire distal phalanx (body structure)"
+  },
+  {
+    "CUI": "C3163918",
+    "Canonical name": "Tumor thrombus"
+  },
+  {
+    "CUI": "C0152392",
+    "Canonical name": "Structure of middle cerebellar peduncle"
+  },
+  {
+    "CUI": "C0226047",
+    "Canonical name": "Posterior interventricular branch of right coronary artery"
+  },
+  {
+    "CUI": "C0227628",
+    "Canonical name": "Renal parenchyma"
+  },
+  {
+    "CUI": "C0224517",
+    "Canonical name": "Dento-alveolar joint"
+  },
+  {
+    "CUI": "C0026976",
+    "Canonical name": "Myelitis, Transverse"
+  },
+  {
+    "CUI": "C0228176",
+    "Canonical name": "Left cerebral hemisphere"
+  },
+  {
+    "CUI": "C0015668",
+    "Canonical name": "Fat necrosis"
+  },
+  {
+    "CUI": "C0226037",
+    "Canonical name": "Structure of circumflex branch of left coronary artery"
+  },
+  {
+    "CUI": "C0205039",
+    "Canonical name": "Bronchial"
+  },
+  {
+    "CUI": "C0006285",
+    "Canonical name": "Bronchopneumonia"
+  },
+  {
+    "CUI": "C0559769",
+    "Canonical name": "Pelvic cavity structure"
+  },
+  {
+    "CUI": "C0333062",
+    "Canonical name": "Hernia sac"
+  },
+  {
+    "CUI": "C0025058",
+    "Canonical name": "Structure of median nerve"
+  },
+  {
+    "CUI": "C0226706",
+    "Canonical name": "Structure of right hepatic vein"
+  },
+  {
+    "CUI": "C0039277",
+    "Canonical name": "Talus"
+  },
+  {
+    "CUI": "C0024110",
+    "Canonical name": "Lung Abscess"
+  },
+  {
+    "CUI": "C0015450",
+    "Canonical name": "Face"
+  },
+  {
+    "CUI": "C1305609",
+    "Canonical name": "Entire body of second lumbar vertebra"
+  },
+  {
+    "CUI": "C0027061",
+    "Canonical name": "Myocardium"
+  },
+  {
+    "CUI": "C0447541",
+    "Canonical name": "Lobe of liver"
+  },
+  {
+    "CUI": "C0446606",
+    "Canonical name": "Subphrenic space"
+  },
+  {
+    "CUI": "C0013769",
+    "Canonical name": "Elbow"
+  },
+  {
+    "CUI": "C3669124",
+    "Canonical name": "Structure of omental adipose tissue (body structure)"
+  },
+  {
+    "CUI": "C0240412",
+    "Canonical name": "Muscle hematoma"
+  },
+  {
+    "CUI": "C0001304",
+    "Canonical name": "Acute abscess"
+  },
+  {
+    "CUI": "C0559987",
+    "Canonical name": "Entire tendon of subscapularis muscle"
+  },
+  {
+    "CUI": "C0224347",
+    "Canonical name": "Pectoralis minor muscle structure"
+  },
+  {
+    "CUI": "C0152341",
+    "Canonical name": "Internal capsule of brain"
+  },
+  {
+    "CUI": "C0475278",
+    "Canonical name": "Large tumor"
+  },
+  {
+    "CUI": "C0226117",
+    "Canonical name": "Structure of occipital artery"
+  },
+  {
+    "CUI": "C0021445",
+    "Canonical name": "Inguinal canal structure"
+  },
+  {
+    "CUI": "C0225220",
+    "Canonical name": "Structure of carotid sheath"
+  },
+  {
+    "CUI": "C0227590",
+    "Canonical name": "Tail of pancreas"
+  },
+  {
+    "CUI": "C0447054",
+    "Canonical name": "Structure of left internal thoracic artery"
+  },
+  {
+    "CUI": "C0020295",
+    "Canonical name": "Hydronephrosis"
+  },
+  {
+    "CUI": "C0023798",
+    "Canonical name": "Lipoma"
+  },
+  {
+    "CUI": "C0031547",
+    "Canonical name": "Phlebolithiasis"
+  },
+  {
+    "CUI": "C0034014",
+    "Canonical name": "Bone structure of pubis"
+  },
+  {
+    "CUI": "C0222660",
+    "Canonical name": "Cancellous Bone"
+  },
+  {
+    "CUI": "C0266298",
+    "Canonical name": "Accessory kidney"
+  },
+  {
+    "CUI": "C0149576",
+    "Canonical name": "Structure of posterior cerebral artery"
+  },
+  {
+    "CUI": "C0222679",
+    "Canonical name": "Structure of articular surface of bone"
+  },
+  {
+    "CUI": "C0223865",
+    "Canonical name": "Structure of greater trochanter of femur"
+  },
+  {
+    "CUI": "C0026649",
+    "Canonical name": "Movement"
+  },
+  {
+    "CUI": "C0222711",
+    "Canonical name": "Internal acoustic meatus of temporal bone"
+  },
+  {
+    "CUI": "C0040067",
+    "Canonical name": "Thumb structure"
+  },
+  {
+    "CUI": "C0026369",
+    "Canonical name": "Structure of wisdom tooth"
+  },
+  {
+    "CUI": "C0584869",
+    "Canonical name": "Supraspinatus muscle structure"
+  },
+  {
+    "CUI": "C0224941",
+    "Canonical name": "Structure of quadriceps tendon"
+  },
+  {
+    "CUI": "C0036410",
+    "Canonical name": "Sclera"
+  },
+  {
+    "CUI": "C0222746",
+    "Canonical name": "Structure of body of mandible"
+  },
+  {
+    "CUI": "C0038530",
+    "Canonical name": "Structure of subclavian artery"
+  },
+  {
+    "CUI": "C0039866",
+    "Canonical name": "Thigh structure"
+  },
+  {
+    "CUI": "C0470187",
+    "Canonical name": "Availability of"
+  },
+  {
+    "CUI": "C0228194",
+    "Canonical name": "Left frontal lobe structure"
+  },
+  {
+    "CUI": "C0740690",
+    "Canonical name": "Multiple abscesses"
+  },
+  {
+    "CUI": "C0039485",
+    "Canonical name": "Temporal Lobe"
+  },
+  {
+    "CUI": "C0009324",
+    "Canonical name": "Ulcerative Colitis"
+  },
+  {
+    "CUI": "C0391889",
+    "Canonical name": "Synostosis"
+  },
+  {
+    "CUI": "C0226042",
+    "Canonical name": "Entire right coronary artery"
+  },
+  {
+    "CUI": "C0332558",
+    "Canonical name": "Calcified nodule"
+  },
+  {
+    "CUI": "C0226455",
+    "Canonical name": "Structure of profunda femoris artery"
+  },
+  {
+    "CUI": "C1527390",
+    "Canonical name": "Neoplasms, Intracranial"
+  },
+  {
+    "CUI": "C0038541",
+    "Canonical name": "Subdural space"
+  },
+  {
+    "CUI": "C0264956",
+    "Canonical name": "Atheroma"
+  },
+  {
+    "CUI": "C0230354",
+    "Canonical name": "Left elbow region structure"
+  },
+  {
+    "CUI": "C0026264",
+    "Canonical name": "Mitral Valve"
+  },
+  {
+    "CUI": "C0264358",
+    "Canonical name": "Cylindrical Bronchiectasis"
+  },
+  {
+    "CUI": "C0227668",
+    "Canonical name": "Structure of left renal pelvis"
+  },
+  {
+    "CUI": "C0267716",
+    "Canonical name": "Incisional hernia"
+  },
+  {
+    "CUI": "C0016519",
+    "Canonical name": "Structure of foramen magnum"
+  },
+  {
+    "CUI": "C0559502",
+    "Canonical name": "Triceps brachii muscle structure"
+  },
+  {
+    "CUI": "C0023903",
+    "Canonical name": "Liver neoplasms"
+  },
+  {
+    "CUI": "C1305188",
+    "Canonical name": "Right colon"
+  },
+  {
+    "CUI": "C0919267",
+    "Canonical name": "ovarian neoplasm"
+  },
+  {
+    "CUI": "C0205387",
+    "Canonical name": "Clumped"
+  },
+  {
+    "CUI": "C0006288",
+    "Canonical name": "Bronchopulmonary Sequestration"
+  },
+  {
+    "CUI": "C0004153",
+    "Canonical name": "Atherosclerosis"
+  },
+  {
+    "CUI": "C0037885",
+    "Canonical name": "Sphenoidal sinus"
+  },
+  {
+    "CUI": "C0039987",
+    "Canonical name": "Bone structure of thoracic vertebra"
+  },
+  {
+    "CUI": "C0223739",
+    "Canonical name": "Structure of triangular bone"
+  },
+  {
+    "CUI": "C0024204",
+    "Canonical name": "lymph nodes"
+  },
+  {
+    "CUI": "C0035615",
+    "Canonical name": "Right aortic arch (disorder)"
+  },
+  {
+    "CUI": "C0206695",
+    "Canonical name": "Carcinoma, Neuroendocrine"
+  },
+  {
+    "CUI": "C0222671",
+    "Canonical name": "Metaphysis"
+  },
+  {
+    "CUI": "C0582819",
+    "Canonical name": "Inferior rectus muscle structure"
+  },
+  {
+    "CUI": "C0448363",
+    "Canonical name": "Entire multifidus muscle"
+  },
+  {
+    "CUI": "C0016169",
+    "Canonical name": "pathologic fistula"
+  },
+  {
+    "CUI": "C0035092",
+    "Canonical name": "Structure of renal vein"
+  },
+  {
+    "CUI": "C0227842",
+    "Canonical name": "Structure of internal os"
+  },
+  {
+    "CUI": "C0004781",
+    "Canonical name": "Basal Ganglia"
+  },
+  {
+    "CUI": "C0149559",
+    "Canonical name": "Structure of posterior communicating artery"
+  },
+  {
+    "CUI": "C0230171",
+    "Canonical name": "Flank (surface region)"
+  },
+  {
+    "CUI": "C0005558",
+    "Canonical name": "Biopsy"
+  },
+  {
+    "CUI": "C0152386",
+    "Canonical name": "Cerebellar tonsil"
+  },
+  {
+    "CUI": "C0032285",
+    "Canonical name": "Pneumonia"
+  },
+  {
+    "CUI": "C0333547",
+    "Canonical name": "Multiple infarcts"
+  },
+  {
+    "CUI": "C0032000",
+    "Canonical name": "Pituitary Adenoma"
+  },
+  {
+    "CUI": "C0032319",
+    "Canonical name": "Pneumopericardium"
+  },
+  {
+    "CUI": "C0021818",
+    "Canonical name": "Intervertebral Disk Displacement"
+  },
+  {
+    "CUI": "C0007177",
+    "Canonical name": "Cardiac Tamponade"
+  },
+  {
+    "CUI": "C0460005",
+    "Canonical name": "Trunk structure"
+  },
+  {
+    "CUI": "C0223085",
+    "Canonical name": "Structure of intervertebral foramen"
+  },
+  {
+    "CUI": "C0222670",
+    "Canonical name": "Apophysis"
+  },
+  {
+    "CUI": "C0442184",
+    "Canonical name": "Subcostal"
+  },
+  {
+    "CUI": "C0006736",
+    "Canonical name": "Calculi"
+  },
+  {
+    "CUI": "C0340161",
+    "Canonical name": "Hematomediastinum"
+  },
+  {
+    "CUI": "C0225560",
+    "Canonical name": "Aryepiglottic fold structure"
+  },
+  {
+    "CUI": "C0458450",
+    "Canonical name": "Prostatic Urethra"
+  },
+  {
+    "CUI": "C0033377",
+    "Canonical name": "Ptosis"
+  },
+  {
+    "CUI": "C0005683",
+    "Canonical name": "Urinary Bladder Calculi (disorder)"
+  },
+  {
+    "CUI": "C0040452",
+    "Canonical name": "Tooth root structure"
+  },
+  {
+    "CUI": "C0008325",
+    "Canonical name": "Cholecystitis"
+  },
+  {
+    "CUI": "C0226669",
+    "Canonical name": "Structure of right pulmonary vein"
+  },
+  {
+    "CUI": "C0230150",
+    "Canonical name": "Posterior mediastinum"
+  },
+  {
+    "CUI": "C0224425",
+    "Canonical name": "Structure of gluteus medius muscle"
+  },
+  {
+    "CUI": "C0175649",
+    "Canonical name": "Prosthesis"
+  },
+  {
+    "CUI": "C0333229",
+    "Canonical name": "Accumulation of fluid"
+  },
+  {
+    "CUI": "C0230151",
+    "Canonical name": "Costophrenic angle"
+  },
+  {
+    "CUI": "C0206207",
+    "Canonical name": "Joint Capsule"
+  },
+  {
+    "CUI": "C0226737",
+    "Canonical name": "Structure of left gastric vein"
+  },
+  {
+    "CUI": "C0015733",
+    "Canonical name": "Feces"
+  },
+  {
+    "CUI": "C0276651",
+    "Canonical name": "Aspergilloma"
+  },
+  {
+    "CUI": "C0024091",
+    "Canonical name": "Bone structure of lumbar vertebra"
+  },
+  {
+    "CUI": "C4281589",
+    "Canonical name": "Entire internal oblique"
+  },
+  {
+    "CUI": "C0020541",
+    "Canonical name": "Portal Hypertension"
+  },
+  {
+    "CUI": "C0238246",
+    "Canonical name": "Hemangioma of liver"
+  },
+  {
+    "CUI": "C1541923",
+    "Canonical name": "Infective endocarditis"
+  },
+  {
+    "CUI": "C0155919",
+    "Canonical name": "Acute pulmonary edema"
+  },
+  {
+    "CUI": "C0521622",
+    "Canonical name": "Bilateral hydronephrosis"
+  },
+  {
+    "CUI": "C0432593",
+    "Canonical name": "Varus angulation"
+  },
+  {
+    "CUI": "C0041327",
+    "Canonical name": "Tuberculosis, Pulmonary"
+  },
+  {
+    "CUI": "C0206365",
+    "Canonical name": "Structure of collateral ligament"
+  },
+  {
+    "CUI": "C1261473",
+    "Canonical name": "Sarcoma"
+  },
+  {
+    "CUI": "C0034518",
+    "Canonical name": "Structure of radial nerve"
+  },
+  {
+    "CUI": "C0086835",
+    "Canonical name": "Structure of posterior tibial artery"
+  },
+  {
+    "CUI": "C0024947",
+    "Canonical name": "Maxilla"
+  },
+  {
+    "CUI": "C0006663",
+    "Canonical name": "Calcinosis"
+  },
+  {
+    "CUI": "C0521367",
+    "Canonical name": "Oropharyngeal"
+  },
+  {
+    "CUI": "C0242073",
+    "Canonical name": "Pulmonary congestion"
+  },
+  {
+    "CUI": "C0030326",
+    "Canonical name": "Panniculitis"
+  },
+  {
+    "CUI": "C0225971",
+    "Canonical name": "Pericardial fat"
+  },
+  {
+    "CUI": "C0230330",
+    "Canonical name": "Left upper extremity"
+  },
+  {
+    "CUI": "C0027051",
+    "Canonical name": "Myocardial Infarction"
+  },
+  {
+    "CUI": "C0225754",
+    "Canonical name": "Bilateral lungs"
+  },
+  {
+    "CUI": "C0007115",
+    "Canonical name": "Malignant neoplasm of thyroid"
+  },
+  {
+    "CUI": "C0003484",
+    "Canonical name": "Abdominal aorta structure"
+  },
+  {
+    "CUI": "C0183512",
+    "Canonical name": "Biliary Stent Devices"
+  },
+  {
+    "CUI": "C0008841",
+    "Canonical name": "Structure of cisterna magna"
+  },
+  {
+    "CUI": "C2733597",
+    "Canonical name": "Right superior vena cava"
+  },
+  {
+    "CUI": "C0876973",
+    "Canonical name": "Infectious Lung Disorder"
+  },
+  {
+    "CUI": "C0243065",
+    "Canonical name": "Aplasia, NOS"
+  },
+  {
+    "CUI": "C0349604",
+    "Canonical name": "Intracranial Meningioma"
+  },
+  {
+    "CUI": "C0014859",
+    "Canonical name": "Esophageal Neoplasms"
+  },
+  {
+    "CUI": "C0227327",
+    "Canonical name": "Distal part of ileum"
+  },
+  {
+    "CUI": "C0155626",
+    "Canonical name": "Acute myocardial infarction"
+  },
+  {
+    "CUI": "C0226086",
+    "Canonical name": "Right common carotid artery structure"
+  },
+  {
+    "CUI": "C0017129",
+    "Canonical name": "gastric fundus"
+  },
+  {
+    "CUI": "C0230346",
+    "Canonical name": "Right upper arm structure"
+  },
+  {
+    "CUI": "C0222600",
+    "Canonical name": "Right breast"
+  },
+  {
+    "CUI": "C0264733",
+    "Canonical name": "Ventricular dilatation (disorder)"
+  },
+  {
+    "CUI": "C0021156",
+    "Canonical name": "Incisor"
+  },
+  {
+    "CUI": "C1276274",
+    "Canonical name": "Structure of soft tissues of neck"
+  },
+  {
+    "CUI": "C0014876",
+    "Canonical name": "Esophagus"
+  },
+  {
+    "CUI": "C0229354",
+    "Canonical name": "Left middle ear structure"
+  },
+  {
+    "CUI": "C0007272",
+    "Canonical name": "Carotid Arteries"
+  },
+  {
+    "CUI": "C0228121",
+    "Canonical name": "Tentorium cerebelli"
+  },
+  {
+    "CUI": "C0028429",
+    "Canonical name": "Nose"
+  },
+  {
+    "CUI": "C0222652",
+    "Canonical name": "Cortex of bone"
+  },
+  {
+    "CUI": "C0027088",
+    "Canonical name": "myometrium"
+  },
+  {
+    "CUI": "C0000726",
+    "Canonical name": "Abdomen"
+  },
+  {
+    "CUI": "C0332459",
+    "Canonical name": "Compressed structure"
+  },
+  {
+    "CUI": "C0224856",
+    "Canonical name": "Tendon sheath"
+  },
+  {
+    "CUI": "C0446516",
+    "Canonical name": "Upper arm"
+  },
+  {
+    "CUI": "C0179790",
+    "Canonical name": "Pulmonary artery flotation catheter"
+  },
+  {
+    "CUI": "C0729619",
+    "Canonical name": "Computed tomography imaging - action"
+  },
+  {
+    "CUI": "C0332965",
+    "Canonical name": "Congenital arteriovenous fistula"
+  },
+  {
+    "CUI": "C0549423",
+    "Canonical name": "Obstructive Hydrocephalus"
+  },
+  {
+    "CUI": "C0005971",
+    "Canonical name": "Bone plates"
+  },
+  {
+    "CUI": "C0040578",
+    "Canonical name": "Trachea"
+  },
+  {
+    "CUI": "C0228465",
+    "Canonical name": "Cerebellar hemisphere structure"
+  },
+  {
+    "CUI": "C0230039",
+    "Canonical name": "Structure of pterygopalatine fossa"
+  },
+  {
+    "CUI": "C0021934",
+    "Canonical name": "Intussusceptum"
+  },
+  {
+    "CUI": "C0024957",
+    "Canonical name": "Maxillary Sinus"
+  },
+  {
+    "CUI": "C0206187",
+    "Canonical name": "Bile Ducts, Extrahepatic"
+  },
+  {
+    "CUI": "C0158266",
+    "Canonical name": "Intervertebral Disc Degeneration"
+  },
+  {
+    "CUI": "C1321546",
+    "Canonical name": "Anaplastic large B-cell lymphoma"
+  },
+  {
+    "CUI": "C0003943",
+    "Canonical name": "Arytenoid Cartilage"
+  },
+  {
+    "CUI": "C0004811",
+    "Canonical name": "Structure of basilar artery"
+  },
+  {
+    "CUI": "C0230347",
+    "Canonical name": "Left upper arm structure"
+  },
+  {
+    "CUI": "C1178870",
+    "Canonical name": "Structure of right buttock"
+  },
+  {
+    "CUI": "C0002895",
+    "Canonical name": "Anemia, Sickle Cell"
+  },
+  {
+    "CUI": "C0431952",
+    "Canonical name": "Congenital acetabular dysplasia"
+  },
+  {
+    "CUI": "C0442800",
+    "Canonical name": "Enlarged"
+  },
+  {
+    "CUI": "C0162864",
+    "Canonical name": "Tunica Intima"
+  },
+  {
+    "CUI": "C0000846",
+    "Canonical name": "Agenesis"
+  },
+  {
+    "CUI": "C0031050",
+    "Canonical name": "Pericardial sac structure"
+  },
+  {
+    "CUI": "C0223696",
+    "Canonical name": "Structure of head of radius"
+  },
+  {
+    "CUI": "C0227665",
+    "Canonical name": "Both kidneys"
+  },
+  {
+    "CUI": "C1261076",
+    "Canonical name": "Structure of left upper lobe of lung"
+  },
+  {
+    "CUI": "C0446413",
+    "Canonical name": "C3 level"
+  },
+  {
+    "CUI": "C0030851",
+    "Canonical name": "penis"
+  },
+  {
+    "CUI": "C0456934",
+    "Canonical name": "Entire right auricular appendage"
+  },
+  {
+    "CUI": "C0026684",
+    "Canonical name": "Mucocele of appendix"
+  },
+  {
+    "CUI": "C0225740",
+    "Canonical name": "Lingula of left lung"
+  },
+  {
+    "CUI": "C0333159",
+    "Canonical name": "Emphysematous"
+  },
+  {
+    "CUI": "C0086510",
+    "Canonical name": "Kirschner Wires"
+  },
+  {
+    "CUI": "C1962945",
+    "Canonical name": "Radiographic imaging procedure"
+  },
+  {
+    "CUI": "C0446435",
+    "Canonical name": "L5 level"
+  },
+  {
+    "CUI": "C0932510",
+    "Canonical name": "Structure of distal interphalangeal joint"
+  },
+  {
+    "CUI": "C0024248",
+    "Canonical name": "Lymphocele"
+  },
+  {
+    "CUI": "C0223084",
+    "Canonical name": "Body of vertebra"
+  },
+  {
+    "CUI": "C0448227",
+    "Canonical name": "Lateral malleolus"
+  },
+  {
+    "CUI": "C0040961",
+    "Canonical name": "Tricuspid Valve Insufficiency"
+  },
+  {
+    "CUI": "C0226365",
+    "Canonical name": "Structure of right internal iliac artery"
+  },
+  {
+    "CUI": "C0344482",
+    "Canonical name": "Hypoplasia of corpus callosum"
+  },
+  {
+    "CUI": "C1299205",
+    "Canonical name": "Vitreous body part"
+  },
+  {
+    "CUI": "C0205207",
+    "Canonical name": "Cystic"
+  },
+  {
+    "CUI": "C0228174",
+    "Canonical name": "Cerebral hemisphere structure (body structure)"
+  },
+  {
+    "CUI": "C3163626",
+    "Canonical name": "Descending thoracic aorta"
+  },
+  {
+    "CUI": "C0002448",
+    "Canonical name": "Ameloblastoma"
+  },
+  {
+    "CUI": "C0085268",
+    "Canonical name": "Bone remodeling"
+  },
+  {
+    "CUI": "C0027086",
+    "Canonical name": "Myoma"
+  },
+  {
+    "CUI": "C1282208",
+    "Canonical name": "Preseptal cellulitis"
+  },
+  {
+    "CUI": "C1265880",
+    "Canonical name": "Focal calcium deposition"
+  },
+  {
+    "CUI": "C0227423",
+    "Canonical name": "Transition zone of anal mucous membrane"
+  },
+  {
+    "CUI": "C0028259",
+    "Canonical name": "Nodule"
+  },
+  {
+    "CUI": "C0870032",
+    "Canonical name": "Skin AND subcutaneous tissue structure"
+  },
+  {
+    "CUI": "C0264515",
+    "Canonical name": "Pneumonia, Necrotizing"
+  },
+  {
+    "CUI": "C0034063",
+    "Canonical name": "Pulmonary Edema"
+  },
+  {
+    "CUI": "C0032961",
+    "Canonical name": "Pregnancy"
+  },
+  {
+    "CUI": "C0439664",
+    "Canonical name": "Necrotizing"
+  },
+  {
+    "CUI": "C0341512",
+    "Canonical name": "Retroperitoneal hematoma"
+  },
+  {
+    "CUI": "C0010316",
+    "Canonical name": "Structure of cribriform plate"
+  },
+  {
+    "CUI": "C0226731",
+    "Canonical name": "Left branch of portal vein"
+  },
+  {
+    "CUI": "C0152282",
+    "Canonical name": "Lateral ventricle, occipital horn"
+  },
+  {
+    "CUI": "C0014008",
+    "Canonical name": "Empty Sella Syndrome"
+  },
+  {
+    "CUI": "C0226383",
+    "Canonical name": "Structure of internal pudendal artery"
+  },
+  {
+    "CUI": "C0742078",
+    "Canonical name": "Mass lesion of brain"
+  },
+  {
+    "CUI": "C0034099",
+    "Canonical name": "Pulp Chamber"
+  },
+  {
+    "CUI": "C1510412",
+    "Canonical name": "Pseudoaneurysm"
+  },
+  {
+    "CUI": "C0175722",
+    "Canonical name": "Clip"
+  },
+  {
+    "CUI": "C1522230",
+    "Canonical name": "Ophthalmic Route of Drug Administration"
+  },
+  {
+    "CUI": "C1704302",
+    "Canonical name": "permanent premolar tooth"
+  },
+  {
+    "CUI": "C4302819",
+    "Canonical name": "Cystic nodule"
+  },
+  {
+    "CUI": "C0519097",
+    "Canonical name": "Left ventricular aneurysm"
+  },
+  {
+    "CUI": "C3266688",
+    "Canonical name": "Cephalometric menton point"
+  },
+  {
+    "CUI": "C0007285",
+    "Canonical name": "Bone structure of carpus"
+  },
+  {
+    "CUI": "C1456859",
+    "Canonical name": "Thoracic region (surface region of back)"
+  },
+  {
+    "CUI": "C0446501",
+    "Canonical name": "Paravertebral region"
+  },
+  {
+    "CUI": "C0447122",
+    "Canonical name": "Structure of vein of trunk"
+  },
+  {
+    "CUI": "C0151699",
+    "Canonical name": "Intracranial Hemorrhage"
+  },
+  {
+    "CUI": "C0018965",
+    "Canonical name": "Hematuria"
+  },
+  {
+    "CUI": "C0578575",
+    "Canonical name": "Dissection of proximal aorta"
+  },
+  {
+    "CUI": "C0264372",
+    "Canonical name": "Bronchiolectasis"
+  },
+  {
+    "CUI": "C2924612",
+    "Canonical name": "Cephalometric point A"
+  },
+  {
+    "CUI": "C0949022",
+    "Canonical name": "Malignant Rectal Neoplasm"
+  },
+  {
+    "CUI": "C0013516",
+    "Canonical name": "Echocardiography"
+  },
+  {
+    "CUI": "C0439667",
+    "Canonical name": "Granulomatous"
+  },
+  {
+    "CUI": "C0344911",
+    "Canonical name": "Left cardiac ventricular dilatation"
+  },
+  {
+    "CUI": "C1455736",
+    "Canonical name": "Acoustic radiations structure"
+  },
+  {
+    "CUI": "C0549113",
+    "Canonical name": "Aortic Root"
+  },
+  {
+    "CUI": "C0006105",
+    "Canonical name": "Brain Abscess"
+  },
+  {
+    "CUI": "C0026724",
+    "Canonical name": "Mucous Membrane"
+  },
+  {
+    "CUI": "C0230337",
+    "Canonical name": "Structure of right axillary region"
+  },
+  {
+    "CUI": "C0934420",
+    "Canonical name": "Cephalometric nasion point"
+  },
+  {
+    "CUI": "C0221430",
+    "Canonical name": "Acquired deformity"
+  },
+  {
+    "CUI": "C0036277",
+    "Canonical name": "Bone structure of scapula"
+  },
+  {
+    "CUI": "C0302350",
+    "Canonical name": "Therapeutic"
+  },
+  {
+    "CUI": "C0524469",
+    "Canonical name": "Structure of left shoulder region"
+  },
+  {
+    "CUI": "C0521619",
+    "Canonical name": "Obstruction of pelviureteric junction"
+  },
+  {
+    "CUI": "C1261079",
+    "Canonical name": "Structure of left cusp of aortic valve"
+  },
+  {
+    "CUI": "C0348072",
+    "Canonical name": "Lateral meniscus structure"
+  },
+  {
+    "CUI": "C0037925",
+    "Canonical name": "Spinal Cord"
+  },
+  {
+    "CUI": "C0022427",
+    "Canonical name": "Structure of jugular vein"
+  },
+  {
+    "CUI": "C0021368",
+    "Canonical name": "Inflammation"
+  },
+  {
+    "CUI": "C0226054",
+    "Canonical name": "Right pulmonary artery"
+  },
+  {
+    "CUI": "C0007785",
+    "Canonical name": "Cerebral Infarction"
+  },
+  {
+    "CUI": "C0005401",
+    "Canonical name": "Intrahepatic bile duct"
+  },
+  {
+    "CUI": "C4551531",
+    "Canonical name": "Serratus ventralis muscle"
+  },
+  {
+    "CUI": "C0015811",
+    "Canonical name": "Femur"
+  },
+  {
+    "CUI": "C0229560",
+    "Canonical name": "Structure of left adrenal gland"
+  },
+  {
+    "CUI": "C0019569",
+    "Canonical name": "Hirschsprung Disease"
+  },
+  {
+    "CUI": "C0230185",
+    "Canonical name": "Epigastrium"
+  },
+  {
+    "CUI": "C0015801",
+    "Canonical name": "Structure of femoral artery"
+  },
+  {
+    "CUI": "C0036091",
+    "Canonical name": "Sialolithiasis"
+  },
+  {
+    "CUI": "C0584640",
+    "Canonical name": "Tibial plateau structure"
+  },
+  {
+    "CUI": "C0025064",
+    "Canonical name": "Mediastinitis"
+  },
+  {
+    "CUI": "C0040421",
+    "Canonical name": "Palatine Tonsil"
+  },
+  {
+    "CUI": "C0017636",
+    "Canonical name": "Glioblastoma"
+  },
+  {
+    "CUI": "C0228157",
+    "Canonical name": "Periventricular white matter"
+  },
+  {
+    "CUI": "C0341676",
+    "Canonical name": "Pyelectasia"
+  },
+  {
+    "CUI": "C0032310",
+    "Canonical name": "Pneumonia, Viral"
+  },
+  {
+    "CUI": "C0230148",
+    "Canonical name": "Anterior mediastinum"
+  },
+  {
+    "CUI": "C0225950",
+    "Canonical name": "Structure of anterior leaflet of mitral valve"
+  },
+  {
+    "CUI": "C0205950",
+    "Canonical name": "Calvaria"
+  },
+  {
+    "CUI": "C0031774",
+    "Canonical name": "Structure of phrenic nerve"
+  },
+  {
+    "CUI": "C0006141",
+    "Canonical name": "Breast"
+  },
+  {
+    "CUI": "C3714787",
+    "Canonical name": "Central Nervous System"
+  },
+  {
+    "CUI": "C0227489",
+    "Canonical name": "Caudate lobe of liver"
+  },
+  {
+    "CUI": "C0005615",
+    "Canonical name": "Birth"
+  },
+  {
+    "CUI": "C0819757",
+    "Canonical name": "Structure of parenchyma of lung"
+  },
+  {
+    "CUI": "C0736268",
+    "Canonical name": "Liver parenchyma"
+  },
+  {
+    "CUI": "C0443258",
+    "Canonical name": "Microvascular"
+  },
+  {
+    "CUI": "C0149601",
+    "Canonical name": "Structure of conus medullaris"
+  },
+  {
+    "CUI": "C0037579",
+    "Canonical name": "Soft Tissue Neoplasms"
+  },
+  {
+    "CUI": "C0149871",
+    "Canonical name": "Deep Vein Thrombosis"
+  },
+  {
+    "CUI": "C0015813",
+    "Canonical name": "Head of femur"
+  },
+  {
+    "CUI": "C0333200",
+    "Canonical name": "Intramural hematoma"
+  },
+  {
+    "CUI": "C0476089",
+    "Canonical name": "Endometrial Carcinoma"
+  },
+  {
+    "CUI": "C0032584",
+    "Canonical name": "polyps"
+  },
+  {
+    "CUI": "C0040426",
+    "Canonical name": "Tooth structure"
+  },
+  {
+    "CUI": "C0549109",
+    "Canonical name": "Plantar fascia structure"
+  },
+  {
+    "CUI": "C0508001",
+    "Canonical name": "Structure of left renal vein"
+  },
+  {
+    "CUI": "C0149573",
+    "Canonical name": "Structure of posterior inferior cerebellar artery"
+  },
+  {
+    "CUI": "C0006444",
+    "Canonical name": "Bursitis"
+  },
+  {
+    "CUI": "C0348073",
+    "Canonical name": "Medial meniscus structure"
+  },
+  {
+    "CUI": "C0817096",
+    "Canonical name": "Chest"
+  },
+  {
+    "CUI": "C0739481",
+    "Canonical name": "Structure of left common iliac vein"
+  },
+  {
+    "CUI": "C0040588",
+    "Canonical name": "Tracheoesophageal Fistula"
+  },
+  {
+    "CUI": "C0227300",
+    "Canonical name": "Duodenal ampulla"
+  },
+  {
+    "CUI": "C0226758",
+    "Canonical name": "Structure of common iliac vein"
+  },
+  {
+    "CUI": "C0225732",
+    "Canonical name": "Structure of base of left lung"
+  },
+  {
+    "CUI": "C0003483",
+    "Canonical name": "Aorta"
+  },
+  {
+    "CUI": "C0039538",
+    "Canonical name": "Teratoma"
+  },
+  {
+    "CUI": "C0162871",
+    "Canonical name": "Aortic Aneurysm, Abdominal"
+  },
+  {
+    "CUI": "C0237962",
+    "Canonical name": "Retroperitoneal abscess"
+  },
+  {
+    "CUI": "C0332886",
+    "Canonical name": "Coarctation"
+  },
+  {
+    "CUI": "C0228919",
+    "Canonical name": "Structure of saphenous nerve"
+  },
+  {
+    "CUI": "C0039979",
+    "Canonical name": "Thoracic Duct"
+  },
+  {
+    "CUI": "C0224418",
+    "Canonical name": "Structure of iliacus muscle"
+  },
+  {
+    "CUI": "C0024005",
+    "Canonical name": "Acquired lordosis deformity of spine due to poor posture"
+  },
+  {
+    "CUI": "C0155773",
+    "Canonical name": "Portal Vein Thrombosis"
+  },
+  {
+    "CUI": "C0226859",
+    "Canonical name": "Superior sagittal sinus"
+  },
+  {
+    "CUI": "C0226862",
+    "Canonical name": "Structure of straight sinus"
+  },
+  {
+    "CUI": "C0584894",
+    "Canonical name": "Rectus femoris muscle structure"
+  },
+  {
+    "CUI": "C0522644",
+    "Canonical name": "Embolization coil"
+  },
+  {
+    "CUI": "C0227617",
+    "Canonical name": "Structure of fatty capsule of kidney"
+  },
+  {
+    "CUI": "C0149854",
+    "Canonical name": "Cerebellar hemorrhage"
+  },
+  {
+    "CUI": "C0080310",
+    "Canonical name": "Left Ventricular Function"
+  },
+  {
+    "CUI": "C0588198",
+    "Canonical name": "Bone structure of proximal tibia"
+  },
+  {
+    "CUI": "C0235833",
+    "Canonical name": "Congenital diaphragmatic hernia"
+  },
+  {
+    "CUI": "C0021935",
+    "Canonical name": "Intussuscipiens"
+  },
+  {
+    "CUI": "C0039508",
+    "Canonical name": "Tendon structure"
+  },
+  {
+    "CUI": "C0227998",
+    "Canonical name": "Structure of left testis"
+  },
+  {
+    "CUI": "C0457138",
+    "Canonical name": "Liver segment"
+  },
+  {
+    "CUI": "C0700185",
+    "Canonical name": "Decalcification"
+  },
+  {
+    "CUI": "C0225949",
+    "Canonical name": "Leaflet of mitral valve"
+  },
+  {
+    "CUI": "C0242216",
+    "Canonical name": "Biliary calculi"
+  },
+  {
+    "CUI": "C0021724",
+    "Canonical name": "Structure of intercostal muscle"
+  },
+  {
+    "CUI": "C0392508",
+    "Canonical name": "Spigelian hernia"
+  },
+  {
+    "CUI": "C0149566",
+    "Canonical name": "Structure of middle cerebral artery"
+  },
+  {
+    "CUI": "C0265885",
+    "Canonical name": "Kommerell's diverticulum"
+  },
+  {
+    "CUI": "C0017651",
+    "Canonical name": "Globus Pallidus"
+  },
+  {
+    "CUI": "C0029456",
+    "Canonical name": "Osteoporosis"
+  },
+  {
+    "CUI": "C0227456",
+    "Canonical name": "Structure of right parotid gland"
+  },
+  {
+    "CUI": "C0553730",
+    "Canonical name": "Calcium pyrophosphate deposition disease"
+  },
+  {
+    "CUI": "C0230377",
+    "Canonical name": "Both hands"
+  },
+  {
+    "CUI": "C0024688",
+    "Canonical name": "Mandibular Condyle"
+  },
+  {
+    "CUI": "C0225947",
+    "Canonical name": "Structure of anulus fibrosus of mitral orifice"
+  },
+  {
+    "CUI": "C1321506",
+    "Canonical name": "Entire anterior descending branch of left coronary artery"
+  },
+  {
+    "CUI": "C0042559",
+    "Canonical name": "Structure of vertebral artery"
+  },
+  {
+    "CUI": "C0546019",
+    "Canonical name": "Left basal ganglia"
+  },
+  {
+    "CUI": "C0225331",
+    "Canonical name": "Fibrous tissue"
+  },
+  {
+    "CUI": "C0032131",
+    "Canonical name": "Plasmacytoma"
+  },
+  {
+    "CUI": "C0222682",
+    "Canonical name": "Phalanx Unspecified"
+  },
+  {
+    "CUI": "C2937240",
+    "Canonical name": "Upper abdomen structure"
+  },
+  {
+    "CUI": "C0458582",
+    "Canonical name": "Upper lip structure"
+  },
+  {
+    "CUI": "C0223683",
+    "Canonical name": "Structure of head of humerus"
+  },
+  {
+    "CUI": "C0205417",
+    "Canonical name": "Lobular"
+  },
+  {
+    "CUI": "C0017531",
+    "Canonical name": "Angiolymphoid hyperplasia"
+  },
+  {
+    "CUI": "C0449434",
+    "Canonical name": "Femoral component"
+  },
+  {
+    "CUI": "C0223736",
+    "Canonical name": "Bone structure of trapezium"
+  },
+  {
+    "CUI": "C0225957",
+    "Canonical name": "Structure of anulus fibrosus of aorta"
+  },
+  {
+    "CUI": "C0576462",
+    "Canonical name": "Entire proximal phalanx (body structure)"
+  },
+  {
+    "CUI": "C1578559",
+    "Canonical name": "Buccal mucosa"
+  },
+  {
+    "CUI": "C0013922",
+    "Canonical name": "Embolism"
+  },
+  {
+    "CUI": "C0029927",
+    "Canonical name": "Ovarian Cysts"
+  },
+  {
+    "CUI": "C0015385",
+    "Canonical name": "Limb structure"
+  },
+  {
+    "CUI": "C0080178",
+    "Canonical name": "Spina Bifida"
+  },
+  {
+    "CUI": "C0228673",
+    "Canonical name": "Optic nerve sheath"
+  },
+  {
+    "CUI": "C0036036",
+    "Canonical name": "Sacroiliac joint structure"
+  },
+  {
+    "CUI": "C0228193",
+    "Canonical name": "Right frontal lobe structure"
+  },
+  {
+    "CUI": "C0006660",
+    "Canonical name": "Physiologic calcification"
+  },
+  {
+    "CUI": "C0238198",
+    "Canonical name": "Gastrointestinal Stromal Tumors"
+  },
+  {
+    "CUI": "C0222722",
+    "Canonical name": "Structure of posterior condyle of occipital bone"
+  },
+  {
+    "CUI": "C0224444",
+    "Canonical name": "Structure of vastus lateralis muscle"
+  },
+  {
+    "CUI": "C0012621",
+    "Canonical name": "Body Fluid Discharge"
+  },
+  {
+    "CUI": "C0007303",
+    "Canonical name": "Structure of articular cartilage"
+  },
+  {
+    "CUI": "C0226671",
+    "Canonical name": "Structure of superior right pulmonary vein"
+  },
+  {
+    "CUI": "C0021308",
+    "Canonical name": "Infarction"
+  },
+  {
+    "CUI": "C0475224",
+    "Canonical name": "Ischemic"
+  },
+  {
+    "CUI": "C0442856",
+    "Canonical name": "Hypoperfusion"
+  },
+  {
+    "CUI": "C0226727",
+    "Canonical name": "Portal Venous System"
+  },
+  {
+    "CUI": "C0559523",
+    "Canonical name": "Genital tuberculosis"
+  },
+  {
+    "CUI": "C1527303",
+    "Canonical name": "Chronic Airflow Obstruction"
+  },
+  {
+    "CUI": "C0015300",
+    "Canonical name": "Exophthalmos"
+  },
+  {
+    "CUI": "C0577871",
+    "Canonical name": "Mitral valve vegetations"
+  },
+  {
+    "CUI": "C0566602",
+    "Canonical name": "Primary sclerosing cholangitis"
+  },
+  {
+    "CUI": "C0004526",
+    "Canonical name": "Structure of azygous vein"
+  },
+  {
+    "CUI": "C0700374",
+    "Canonical name": "Palate"
+  },
+  {
+    "CUI": "C0029130",
+    "Canonical name": "Optic Nerve"
+  },
+  {
+    "CUI": "C0224362",
+    "Canonical name": "Structure of latissimus dorsi muscle"
+  },
+  {
+    "CUI": "C0021494",
+    "Canonical name": "Intravenous Injections"
+  },
+  {
+    "CUI": "C0224086",
+    "Canonical name": "Belly of skeletal muscle"
+  },
+  {
+    "CUI": "C0576463",
+    "Canonical name": "Entire middle phalanx (body structure)"
+  },
+  {
+    "CUI": "C0003964",
+    "Canonical name": "Peritoneal Fluid (body substance)"
+  },
+  {
+    "CUI": "C0030296",
+    "Canonical name": "pancreatic juice"
+  },
+  {
+    "CUI": "C0202657",
+    "Canonical name": "CT follow-up"
+  },
+  {
+    "CUI": "C0226401",
+    "Canonical name": "Structure of inferior epigastric artery"
+  },
+  {
+    "CUI": "C0022651",
+    "Canonical name": "Structure of calyx"
+  },
+  {
+    "CUI": "C0034074",
+    "Canonical name": "Pulmonary Infarction"
+  },
+  {
+    "CUI": "C0227411",
+    "Canonical name": "Anal canal"
+  },
+  {
+    "CUI": "C0336700",
+    "Canonical name": "Bullet fragment"
+  },
+  {
+    "CUI": "C0006087",
+    "Canonical name": "Structure of brachial artery"
+  },
+  {
+    "CUI": "C0003838",
+    "Canonical name": "Arterial Occlusive Diseases"
+  },
+  {
+    "CUI": "C0227511",
+    "Canonical name": "Structure of gallbladder fossa of liver"
+  },
+  {
+    "CUI": "C0229753",
+    "Canonical name": "Structure of subcarinal lymph node"
+  },
+  {
+    "CUI": "C0149973",
+    "Canonical name": "Intrauterine pregnancy"
+  },
+  {
+    "CUI": "C0448197",
+    "Canonical name": "Structure of lateral condyle of femur"
+  },
+  {
+    "CUI": "C0007286",
+    "Canonical name": "Carpal Tunnel Syndrome"
+  },
+  {
+    "CUI": "C0270712",
+    "Canonical name": "Late cortical cerebellar atrophy"
+  },
+  {
+    "CUI": "C0019066",
+    "Canonical name": "Nontraumatic hemoperitoneum"
+  },
+  {
+    "CUI": "C0392482",
+    "Canonical name": "Common atrium"
+  },
+  {
+    "CUI": "C0230193",
+    "Canonical name": "Anterior abdominal wall"
+  },
+  {
+    "CUI": "C4545645",
+    "Canonical name": "Structure of lymph node of left axilla"
+  },
+  {
+    "CUI": "C0344893",
+    "Canonical name": "Right cardiac ventricular dilatation"
+  },
+  {
+    "CUI": "C0240340",
+    "Canonical name": "Microdontia (disorder)"
+  },
+  {
+    "CUI": "C0227638",
+    "Canonical name": "Structure of perirenal fat"
+  },
+  {
+    "CUI": "C0152335",
+    "Canonical name": "Structure of anterior commissure"
+  },
+  {
+    "CUI": "C0225951",
+    "Canonical name": "Structure of posterior leaflet of mitral valve"
+  },
+  {
+    "CUI": "C0559260",
+    "Canonical name": "Congenital scoliosis"
+  },
+  {
+    "CUI": "C0012813",
+    "Canonical name": "Diverticulitis"
+  },
+  {
+    "CUI": "C0448194",
+    "Canonical name": "Entire distal femur"
+  },
+  {
+    "CUI": "C0010674",
+    "Canonical name": "Cystic Fibrosis"
+  },
+  {
+    "CUI": "C1368898",
+    "Canonical name": "Adult Teratoma"
+  },
+  {
+    "CUI": "C0152281",
+    "Canonical name": "Structure of anterior horn of lateral ventricle"
+  },
+  {
+    "CUI": "C0228232",
+    "Canonical name": "Right temporal lobe structure"
+  },
+  {
+    "CUI": "C0224520",
+    "Canonical name": "Symphysis structure"
+  },
+  {
+    "CUI": "C0497156",
+    "Canonical name": "Lymphadenopathy"
+  },
+  {
+    "CUI": "C0205076",
+    "Canonical name": "Chest wall structure"
+  },
+  {
+    "CUI": "C0180499",
+    "Canonical name": "Drain device"
+  },
+  {
+    "CUI": "C1956089",
+    "Canonical name": "Osteophyte"
+  },
+  {
+    "CUI": "C0238132",
+    "Canonical name": "Bronchopleural Fistula"
+  },
+  {
+    "CUI": "C0580781",
+    "Canonical name": "Structure of apex of left ventricle"
+  },
+  {
+    "CUI": "C0205287",
+    "Canonical name": "Membranous"
+  },
+  {
+    "CUI": "C0032320",
+    "Canonical name": "Pneumoperitoneum"
+  },
+  {
+    "CUI": "C0206734",
+    "Canonical name": "Hemangioblastoma"
+  },
+  {
+    "CUI": "C0333276",
+    "Canonical name": "Acute hemorrhage"
+  },
+  {
+    "CUI": "C0588054",
+    "Canonical name": "Cervical lymph node group"
+  },
+  {
+    "CUI": "C2711204",
+    "Canonical name": "Structure of maxillary incisor tooth"
+  },
+  {
+    "CUI": "C0270629",
+    "Canonical name": "Epidural Abscess"
+  },
+  {
+    "CUI": "C0206062",
+    "Canonical name": "Lung Diseases, Interstitial"
+  },
+  {
+    "CUI": "C0410013",
+    "Canonical name": "Soft tissue lesion"
+  },
+  {
+    "CUI": "C0025299",
+    "Canonical name": "Meningocele"
+  },
+  {
+    "CUI": "C0041960",
+    "Canonical name": "Ureterocele"
+  },
+  {
+    "CUI": "C0030560",
+    "Canonical name": "Parietal Lobe"
+  },
+  {
+    "CUI": "C0025062",
+    "Canonical name": "Mediastinal Emphysema"
+  },
+  {
+    "CUI": "C0085590",
+    "Canonical name": "catheter device"
+  },
+  {
+    "CUI": "C0039729",
+    "Canonical name": "Thalamic structure"
+  },
+  {
+    "CUI": "C0205042",
+    "Canonical name": "Coronary artery"
+  },
+  {
+    "CUI": "C0750610",
+    "Canonical name": "Structure of gastric vein"
+  },
+  {
+    "CUI": "C0015641",
+    "Canonical name": "Fascia"
+  },
+  {
+    "CUI": "C0038293",
+    "Canonical name": "Sternum"
+  },
+  {
+    "CUI": "C0022664",
+    "Canonical name": "Structure of medulla of kidney"
+  },
+  {
+    "CUI": "C0439859",
+    "Canonical name": "Autologous (qualifier value)"
+  },
+  {
+    "CUI": "C0034229",
+    "Canonical name": "Pyramidal Tracts"
+  },
+  {
+    "CUI": "C0505385",
+    "Canonical name": "Level of the fourth thoracic vertebra"
+  },
+  {
+    "CUI": "C0028109",
+    "Canonical name": "Nipples"
+  },
+  {
+    "CUI": "C0005695",
+    "Canonical name": "Bladder Neoplasm"
+  },
+  {
+    "CUI": "C2882221",
+    "Canonical name": "Acute pulmonary embolism"
+  },
+  {
+    "CUI": "C0446417",
+    "Canonical name": "C7 level"
+  },
+  {
+    "CUI": "C0225776",
+    "Canonical name": "Visceral pleura"
+  },
+  {
+    "CUI": "C0162872",
+    "Canonical name": "Aortic Aneurysm, Thoracic"
+  },
+  {
+    "CUI": "C0678222",
+    "Canonical name": "Breast Carcinoma"
+  },
+  {
+    "CUI": "C1692886",
+    "Canonical name": "Arthritis, Bacterial"
+  },
+  {
+    "CUI": "C3266841",
+    "Canonical name": "Deciduous tooth"
+  },
+  {
+    "CUI": "C0439686",
+    "Canonical name": "Cirrhotic"
+  },
+  {
+    "CUI": "C0152344",
+    "Canonical name": "Internal capsule posterior limb structure"
+  },
+  {
+    "CUI": "C0019564",
+    "Canonical name": "Hippocampus (Brain)"
+  },
+  {
+    "CUI": "C0230097",
+    "Canonical name": "Structure of waist (surface region)"
+  },
+  {
+    "CUI": "C0014118",
+    "Canonical name": "Endocarditis"
+  },
+  {
+    "CUI": "C0030786",
+    "Canonical name": "Hip Bone"
+  },
+  {
+    "CUI": "C0001527",
+    "Canonical name": "Adipose tissue"
+  },
+  {
+    "CUI": "C0457113",
+    "Canonical name": "Entire left auricular appendage"
+  },
+  {
+    "CUI": "C0205297",
+    "Canonical name": "Nodular (qualifier value)"
+  },
+  {
+    "CUI": "C0024202",
+    "Canonical name": "Lymph"
+  },
+  {
+    "CUI": "C0222724",
+    "Canonical name": "Clivus"
+  },
+  {
+    "CUI": "C0007461",
+    "Canonical name": "Caudate nucleus structure"
+  },
+  {
+    "CUI": "C0222762",
+    "Canonical name": "Rib Cage"
+  },
+  {
+    "CUI": "C1331262",
+    "Canonical name": "Muscle, Striated"
+  },
+  {
+    "CUI": "C1134719",
+    "Canonical name": "Invasive Ductal Breast Carcinoma"
+  },
+  {
+    "CUI": "C0019065",
+    "Canonical name": "Hemoperitoneum"
+  },
+  {
+    "CUI": "C0030163",
+    "Canonical name": "Artificial cardiac pacemaker"
+  },
+  {
+    "CUI": "C0020887",
+    "Canonical name": "Structure of iliac artery"
+  },
+  {
+    "CUI": "C0030558",
+    "Canonical name": "Parietal bone structure"
+  },
+  {
+    "CUI": "C0038016",
+    "Canonical name": "Spondylolisthesis"
+  },
+  {
+    "CUI": "C0001208",
+    "Canonical name": "Acromioclavicular joint structure"
+  },
+  {
+    "CUI": "C0241982",
+    "Canonical name": "Bulla of lung"
+  },
+  {
+    "CUI": "C0036186",
+    "Canonical name": "Saphenous Vein"
+  },
+  {
+    "CUI": "C0227186",
+    "Canonical name": "Cervical part of esophagus"
+  },
+  {
+    "CUI": "C0149520",
+    "Canonical name": "Acute Cholecystitis"
+  },
+  {
+    "CUI": "C0085808",
+    "Canonical name": "Aneurysm, Mycotic"
+  },
+  {
+    "CUI": "C3887513",
+    "Canonical name": "Avascular necrosis"
+  },
+  {
+    "CUI": "C0235974",
+    "Canonical name": "Pancreatic carcinoma"
+  },
+  {
+    "CUI": "C0230329",
+    "Canonical name": "Right upper extremity"
+  },
+  {
+    "CUI": "C0447106",
+    "Canonical name": "Superficial femoral artery"
+  },
+  {
+    "CUI": "C5244027",
+    "Canonical name": "Pneumonia caused by SARS-CoV-2"
+  },
+  {
+    "CUI": "C0225353",
+    "Canonical name": "Glandular"
+  },
+  {
+    "CUI": "C0030785",
+    "Canonical name": "Pelvic abscess"
+  },
+  {
+    "CUI": "C0034169",
+    "Canonical name": "Structure of putamen"
+  },
+  {
+    "CUI": "C0024876",
+    "Canonical name": "Masseter muscle structure"
+  },
+  {
+    "CUI": "C0021851",
+    "Canonical name": "Large Intestine"
+  },
+  {
+    "CUI": "C0333046",
+    "Canonical name": "Lateral displacement"
+  },
+  {
+    "CUI": "C0022665",
+    "Canonical name": "Kidney Neoplasm"
+  },
+  {
+    "CUI": "C0206702",
+    "Canonical name": "Klatskin Tumor"
+  },
+  {
+    "CUI": "C0152283",
+    "Canonical name": "Lateral ventricle, temporal horn"
+  },
+  {
+    "CUI": "C0340464",
+    "Canonical name": "Premature Cardiac Complex"
+  },
+  {
+    "CUI": "C0040300",
+    "Canonical name": "Body tissue"
+  },
+  {
+    "CUI": "C0028785",
+    "Canonical name": "Occipital lobe"
+  },
+  {
+    "CUI": "C1305610",
+    "Canonical name": "Entire body of third lumbar vertebra"
+  },
+  {
+    "CUI": "C0333034",
+    "Canonical name": "Opaque foreign body"
+  },
+  {
+    "CUI": "C4274828",
+    "Canonical name": "Anterior nasal spine"
+  },
+  {
+    "CUI": "C0699791",
+    "Canonical name": "Stomach Carcinoma"
+  },
+  {
+    "CUI": "C0745283",
+    "Canonical name": "INFECTIOUS PROCESS"
+  },
+  {
+    "CUI": "C0224440",
+    "Canonical name": "Structure of quadriceps femoris muscle"
+  },
+  {
+    "CUI": "C0003864",
+    "Canonical name": "Arthritis"
+  },
+  {
+    "CUI": "C0582256",
+    "Canonical name": "Entire right main branch of portal vein"
+  },
+  {
+    "CUI": "C0582800",
+    "Canonical name": "Condyle of femur"
+  },
+  {
+    "CUI": "C0037926",
+    "Canonical name": "Compression of spinal cord"
+  },
+  {
+    "CUI": "C0225782",
+    "Canonical name": "Structure of right pleural cavity"
+  },
+  {
+    "CUI": "C0877172",
+    "Canonical name": "Hematoma, Epidural, Spinal"
+  },
+  {
+    "CUI": "C0227194",
+    "Canonical name": "Structure of esophageal lumen"
+  },
+  {
+    "CUI": "C0923928",
+    "Canonical name": "Structure of left optic nerve"
+  },
+  {
+    "CUI": "C0030352",
+    "Canonical name": "Structure of papillary muscle"
+  },
+  {
+    "CUI": "C0230425",
+    "Canonical name": "Structure of right thigh"
+  },
+  {
+    "CUI": "C0038593",
+    "Canonical name": "Subtalar joint structure"
+  },
+  {
+    "CUI": "C0333044",
+    "Canonical name": "Posterior displacement"
+  },
+  {
+    "CUI": "C0007764",
+    "Canonical name": "Structure of cerebellopontine angle"
+  },
+  {
+    "CUI": "C0007193",
+    "Canonical name": "Cardiomyopathy, Dilated"
+  },
+  {
+    "CUI": "C0019064",
+    "Canonical name": "Hemopericardium"
+  },
+  {
+    "CUI": "C0155843",
+    "Canonical name": "Retropharyngeal Abscess"
+  },
+  {
+    "CUI": "C0230108",
+    "Canonical name": "Infraclavicular region structure"
+  },
+  {
+    "CUI": "C0042460",
+    "Canonical name": "Vena cava structure"
+  },
+  {
+    "CUI": "C0222756",
+    "Canonical name": "Structure of mandibular canal"
+  },
+  {
+    "CUI": "C0014537",
+    "Canonical name": "Structure of epidural space"
+  },
+  {
+    "CUI": "C0227047",
+    "Canonical name": "Maxillary left first premolar"
+  },
+  {
+    "CUI": "C0267156",
+    "Canonical name": "Emphysematous gastritis"
+  },
+  {
+    "CUI": "C0024090",
+    "Canonical name": "Lumbar Region"
+  },
+  {
+    "CUI": "C0152391",
+    "Canonical name": "Structure of superior cerebellar peduncle"
+  },
+  {
+    "CUI": "C0917804",
+    "Canonical name": "Arteriovenous Malformations, Cerebral"
+  },
+  {
+    "CUI": "C0156273",
+    "Canonical name": "Bladder Diverticulum"
+  },
+  {
+    "CUI": "C0202823",
+    "Canonical name": "Chest CT"
+  },
+  {
+    "CUI": "C0027422",
+    "Canonical name": "Nasal bone structure"
+  },
+  {
+    "CUI": "C4281599",
+    "Canonical name": "Structure of left knee region"
+  },
+  {
+    "CUI": "C0460026",
+    "Canonical name": "Lower jaw region"
+  },
+  {
+    "CUI": "C0038969",
+    "Canonical name": "Surgical sutures"
+  },
+  {
+    "CUI": "C1699633",
+    "Canonical name": "PET/CT scan"
+  },
+  {
+    "CUI": "C0262587",
+    "Canonical name": "Parathyroid Adenoma"
+  },
+  {
+    "CUI": "C0027437",
+    "Canonical name": "Nasolacrimal duct structure"
+  },
+  {
+    "CUI": "C1269894",
+    "Canonical name": "Entire left atrium"
+  },
+  {
+    "CUI": "C0227147",
+    "Canonical name": "Structure of retropharyngeal area"
+  },
+  {
+    "CUI": "C0040456",
+    "Canonical name": "Impacted tooth"
+  },
+  {
+    "CUI": "C0041638",
+    "Canonical name": "Umbilicus (Anatomy)"
+  },
+  {
+    "CUI": "C0205312",
+    "Canonical name": "Papillary"
+  },
+  {
+    "CUI": "C1145670",
+    "Canonical name": "Respiratory Failure"
+  },
+  {
+    "CUI": "C0449900",
+    "Canonical name": "Contrast used"
+  },
+  {
+    "CUI": "C0026367",
+    "Canonical name": "Molar tooth"
+  },
+  {
+    "CUI": "C4317009",
+    "Canonical name": "Diverticular Diseases"
+  },
+  {
+    "CUI": "C0037884",
+    "Canonical name": "Sphenoid bone structure"
+  },
+  {
+    "CUI": "C0003504",
+    "Canonical name": "Aortic Valve Insufficiency"
+  },
+  {
+    "CUI": "C0015808",
+    "Canonical name": "Structure of femoral nerve"
+  },
+  {
+    "CUI": "C0205239",
+    "Canonical name": "Dissecting"
+  },
+  {
+    "CUI": "C0010633",
+    "Canonical name": "Cystadenoma"
+  },
+  {
+    "CUI": "C0226276",
+    "Canonical name": "Structure of internal thoracic artery"
+  },
+  {
+    "CUI": "C0001625",
+    "Canonical name": "Adrenal Glands"
+  },
+  {
+    "CUI": "C0029440",
+    "Canonical name": "Osteoma"
+  },
+  {
+    "CUI": "C0228219",
+    "Canonical name": "Left occipital lobe structure"
+  },
+  {
+    "CUI": "C1283694",
+    "Canonical name": "Intestinal wall structure"
+  },
+  {
+    "CUI": "C0686619",
+    "Canonical name": "Lymph Node Metastasis"
+  },
+  {
+    "CUI": "C0149556",
+    "Canonical name": "Fourth ventricle structure"
+  },
+  {
+    "CUI": "C0496827",
+    "Canonical name": "Malignant neoplasm of dome of bladder"
+  },
+  {
+    "CUI": "C0024623",
+    "Canonical name": "Malignant neoplasm of stomach"
+  },
+  {
+    "CUI": "C0030297",
+    "Canonical name": "Pancreatic Neoplasm"
+  },
+  {
+    "CUI": "C0007301",
+    "Canonical name": "Cartilage"
+  },
+  {
+    "CUI": "C0027149",
+    "Canonical name": "Myxoma"
+  },
+  {
+    "CUI": "C0007570",
+    "Canonical name": "Celiac Disease"
+  },
+  {
+    "CUI": "C0003962",
+    "Canonical name": "Ascites"
+  },
+  {
+    "CUI": "C0225973",
+    "Canonical name": "Pericardial fluid (substance)"
+  },
+  {
+    "CUI": "C0230338",
+    "Canonical name": "Structure of left axillary region"
+  },
+  {
+    "CUI": "C0014653",
+    "Canonical name": "Equilibrium"
+  },
+  {
+    "CUI": "C0003617",
+    "Canonical name": "Appendix"
+  },
+  {
+    "CUI": "C0023801",
+    "Canonical name": "Lipomatosis"
+  },
+  {
+    "CUI": "C1444214",
+    "Canonical name": "Impatent structure"
+  },
+  {
+    "CUI": "C0042458",
+    "Canonical name": "Inferior vena cava structure"
+  },
+  {
+    "CUI": "C1140999",
+    "Canonical name": "Contraction (finding)"
+  },
+  {
+    "CUI": "C0030797",
+    "Canonical name": "Pelvis"
+  },
+  {
+    "CUI": "C0003842",
+    "Canonical name": "Arteries"
+  },
+  {
+    "CUI": "C0410574",
+    "Canonical name": "Synovial Hypertrophy"
+  },
+  {
+    "CUI": "C1123023",
+    "Canonical name": "Skin"
+  },
+  {
+    "CUI": "C0472809",
+    "Canonical name": "Subcapsular hematoma of spleen"
+  },
+  {
+    "CUI": "C0011644",
+    "Canonical name": "Scleroderma"
+  },
+  {
+    "CUI": "C1261287",
+    "Canonical name": "Stenosis"
+  },
+  {
+    "CUI": "C0014742",
+    "Canonical name": "Erythema Multiforme"
+  },
+  {
+    "CUI": "C0584227",
+    "Canonical name": "Ethmoid sinus uncinate process"
+  },
+  {
+    "CUI": "C0238792",
+    "Canonical name": "Bone lesion"
+  },
+  {
+    "CUI": "C0439708",
+    "Canonical name": "Mucous Appearance"
+  },
+  {
+    "CUI": "C0346990",
+    "Canonical name": "Carcinomatosis of peritoneal cavity"
+  },
+  {
+    "CUI": "C0011666",
+    "Canonical name": "Descending aorta"
+  },
+  {
+    "CUI": "C0223908",
+    "Canonical name": "Head of fibula structure"
+  },
+  {
+    "CUI": "C0018801",
+    "Canonical name": "Heart failure"
+  },
+  {
+    "CUI": "C0002638",
+    "Canonical name": "Amniotic Fluid"
+  },
+  {
+    "CUI": "C0243066",
+    "Canonical name": "Atresia"
+  },
+  {
+    "CUI": "C0023078",
+    "Canonical name": "Larynx"
+  },
+  {
+    "CUI": "C0001428",
+    "Canonical name": "Adenoidal structure"
+  },
+  {
+    "CUI": "C1178871",
+    "Canonical name": "Structure of left buttock"
+  },
+  {
+    "CUI": "C0224447",
+    "Canonical name": "Structure of pectineus muscle"
+  },
+  {
+    "CUI": "C0041295",
+    "Canonical name": "Tuberculoma"
+  },
+  {
+    "CUI": "C1563055",
+    "Canonical name": "Interphalangeal joint structure"
+  },
+  {
+    "CUI": "C0001624",
+    "Canonical name": "Adrenal Gland Neoplasms"
+  },
+  {
+    "CUI": "C0224497",
+    "Canonical name": "Articular space"
+  },
+  {
+    "CUI": "C0230321",
+    "Canonical name": "Left iliac region"
+  },
+  {
+    "CUI": "C0699752",
+    "Canonical name": "Review of"
+  },
+  {
+    "CUI": "C0037993",
+    "Canonical name": "Spleen"
+  },
+  {
+    "CUI": "C0748390",
+    "Canonical name": "Retroperitoneal lymphadenopathy"
+  },
+  {
+    "CUI": "C0230284",
+    "Canonical name": "Pelvic wall"
+  },
+  {
+    "CUI": "C0024670",
+    "Canonical name": "Mammillary body structure"
+  },
+  {
+    "CUI": "C0037197",
+    "Canonical name": "Structure of sinus of Valsalva"
+  },
+  {
+    "CUI": "C1253936",
+    "Canonical name": "Hydrarthrosis"
+  },
+  {
+    "CUI": "C0183622",
+    "Canonical name": "Stool seat"
+  },
+  {
+    "CUI": "C0032652",
+    "Canonical name": "Structure of popliteal vein"
+  },
+  {
+    "CUI": "C0010031",
+    "Canonical name": "Cornea"
+  },
+  {
+    "CUI": "C0027432",
+    "Canonical name": "Nasal septum structure"
+  },
+  {
+    "CUI": "C0456269",
+    "Canonical name": "Para-aortic region"
+  },
+  {
+    "CUI": "C0542331",
+    "Canonical name": "Shunt Device"
+  },
+  {
+    "CUI": "C1280202",
+    "Canonical name": "Entire eye"
+  },
+  {
+    "CUI": "C0391978",
+    "Canonical name": "Bone Tissue"
+  },
+  {
+    "CUI": "C0521620",
+    "Canonical name": "Dilatation of ureter"
+  },
+  {
+    "CUI": "C1261045",
+    "Canonical name": "Sacral vertebra structure"
+  },
+  {
+    "CUI": "C0262627",
+    "Canonical name": "Seroma"
+  },
+  {
+    "CUI": "C1882062",
+    "Canonical name": "Neoplastic disease"
+  },
+  {
+    "CUI": "C0002382",
+    "Canonical name": "Alveolar Bone Loss"
+  },
+  {
+    "CUI": "C0042425",
+    "Canonical name": "Ampulla of Vater"
+  },
+  {
+    "CUI": "C0521515",
+    "Canonical name": "Calcific tendinitis"
+  },
+  {
+    "CUI": "C0032227",
+    "Canonical name": "Pleural effusion disorder"
+  },
+  {
+    "CUI": "C0459705",
+    "Canonical name": "Fifth metatarsal structure"
+  },
+  {
+    "CUI": "C0403379",
+    "Canonical name": "Emphysematous pyelonephritis"
+  },
+  {
+    "CUI": "C0333205",
+    "Canonical name": "Mural thrombus"
+  },
+  {
+    "CUI": "C0011923",
+    "Canonical name": "Diagnostic Imaging"
+  },
+  {
+    "CUI": "C0040053",
+    "Canonical name": "Thrombosis"
+  },
+  {
+    "CUI": "C0228208",
+    "Canonical name": "Left parietal lobe structure"
+  },
+  {
+    "CUI": "C0031039",
+    "Canonical name": "Pericardial effusion"
+  },
+  {
+    "CUI": "C0226901",
+    "Canonical name": "Hard Palate"
+  },
+  {
+    "CUI": "C0342419",
+    "Canonical name": "Pituitary mass"
+  },
+  {
+    "CUI": "C0225968",
+    "Canonical name": "Epicardium"
+  },
+  {
+    "CUI": "C0011900",
+    "Canonical name": "Diagnosis"
+  },
+  {
+    "CUI": "C0225377",
+    "Canonical name": "Structure of upper respiratory tract cavity"
+  },
+  {
+    "CUI": "C0020452",
+    "Canonical name": "Hyperemia"
+  },
+  {
+    "CUI": "C0225836",
+    "Canonical name": "Interatrial septum"
+  },
+  {
+    "CUI": "C1281569",
+    "Canonical name": "Entire colon"
+  },
+  {
+    "CUI": "C0225847",
+    "Canonical name": "Right coronary sulcus"
+  },
+  {
+    "CUI": "C0018802",
+    "Canonical name": "Congestive heart failure"
+  },
+  {
+    "CUI": "C0025047",
+    "Canonical name": "Meconium"
+  },
+  {
+    "CUI": "C0012359",
+    "Canonical name": "Pathological Dilatation"
+  },
+  {
+    "CUI": "C0228134",
+    "Canonical name": "Spinal epidural space"
+  },
+  {
+    "CUI": "C0446415",
+    "Canonical name": "C5 level"
+  },
+  {
+    "CUI": "C0042276",
+    "Canonical name": "Vagus nerve structure"
+  },
+  {
+    "CUI": "C0153690",
+    "Canonical name": "Secondary malignant neoplasm of bone"
+  },
+  {
+    "CUI": "C0521174",
+    "Canonical name": "Microcalcification"
+  },
+  {
+    "CUI": "C0446908",
+    "Canonical name": "Mastoid process"
+  },
+  {
+    "CUI": "C0030471",
+    "Canonical name": "Nasal sinus"
+  },
+  {
+    "CUI": "C0227682",
+    "Canonical name": "Structure of right ureter"
+  },
+  {
+    "CUI": "C0460004",
+    "Canonical name": "Head and neck structure"
+  },
+  {
+    "CUI": "C0447105",
+    "Canonical name": "Common Femoral Artery"
+  },
+  {
+    "CUI": "C0448196",
+    "Canonical name": "Structure of medial condyle of femur"
+  },
+  {
+    "CUI": "C0026718",
+    "Canonical name": "Mucormycosis"
+  },
+  {
+    "CUI": "C0079321",
+    "Canonical name": "External Fixation Devices"
+  },
+  {
+    "CUI": "C0333045",
+    "Canonical name": "Superior displacement"
+  },
+  {
+    "CUI": "C2939419",
+    "Canonical name": "Secondary Neoplasm"
+  },
+  {
+    "CUI": "C0226958",
+    "Canonical name": "Root of tongue"
+  },
+  {
+    "CUI": "C0225924",
+    "Canonical name": "Atrioventricular valve"
+  },
+  {
+    "CUI": "C0225810",
+    "Canonical name": "Structure of base of heart"
+  },
+  {
+    "CUI": "C0085515",
+    "Canonical name": "Rotator Cuff"
+  },
+  {
+    "CUI": "C0224422",
+    "Canonical name": "Internal obturator muscle structure"
+  },
+  {
+    "CUI": "C1306838",
+    "Canonical name": "Proliferative arthritis"
+  },
+  {
+    "CUI": "C4048328",
+    "Canonical name": "cervical cancer"
+  },
+  {
+    "CUI": "C0230136",
+    "Canonical name": "Structure of intercostal space"
+  },
+  {
+    "CUI": "C0024764",
+    "Canonical name": "Bone structure of manubrium"
+  },
+  {
+    "CUI": "C0162342",
+    "Canonical name": "Lentiform nucleus structure"
+  },
+  {
+    "CUI": "C0182494",
+    "Canonical name": "Mitral valve prosthesis"
+  },
+  {
+    "CUI": "C0223603",
+    "Canonical name": "Lumbosacral spine"
+  },
+  {
+    "CUI": "C0264112",
+    "Canonical name": "Wedging of vertebra"
+  },
+  {
+    "CUI": "C0223644",
+    "Canonical name": "Structure of anterior superior iliac spine"
+  },
+  {
+    "CUI": "C0022408",
+    "Canonical name": "Arthropathy"
+  },
+  {
+    "CUI": "C0448361",
+    "Canonical name": "Entire rotator muscle"
+  },
+  {
+    "CUI": "C0239137",
+    "Canonical name": "Coxa valga"
+  },
+  {
+    "CUI": "C0225972",
+    "Canonical name": "Pericardial cavity"
+  },
+  {
+    "CUI": "C0222712",
+    "Canonical name": "Jugular foramen"
+  },
+  {
+    "CUI": "C2239273",
+    "Canonical name": "Supraglottis (body part)"
+  },
+  {
+    "CUI": "C0152321",
+    "Canonical name": "Structure of genu of corpus callosum"
+  },
+  {
+    "CUI": "C0227579",
+    "Canonical name": "Head of pancreas"
+  },
+  {
+    "CUI": "C0230360",
+    "Canonical name": "Structure of right forearm"
+  },
+  {
+    "CUI": "C0006271",
+    "Canonical name": "Bronchiolitis"
+  },
+  {
+    "CUI": "C0029408",
+    "Canonical name": "Degenerative polyarthritis"
+  },
+  {
+    "CUI": "C0333311",
+    "Canonical name": "Sequestrum"
+  },
+  {
+    "CUI": "C0025148",
+    "Canonical name": "Medulla Oblongata"
+  },
+  {
+    "CUI": "C0018246",
+    "Canonical name": "Inguinal region"
+  },
+  {
+    "CUI": "C0030283",
+    "Canonical name": "Pancreatic Cyst"
+  },
+  {
+    "CUI": "C0230141",
+    "Canonical name": "Structure of left thoracic cavity"
+  },
+  {
+    "CUI": "C0332241",
+    "Canonical name": "Equivocal"
+  },
+  {
+    "CUI": "C0263772",
+    "Canonical name": "Coxae malum senilis"
+  },
+  {
+    "CUI": "C0031939",
+    "Canonical name": "Pineal gland"
+  },
+  {
+    "CUI": "C0230443",
+    "Canonical name": "Structure of left lower leg"
+  },
+  {
+    "CUI": "C0016536",
+    "Canonical name": "Forearm"
+  },
+  {
+    "CUI": "C4303641",
+    "Canonical name": "Structure of right carotid artery"
+  },
+  {
+    "CUI": "C0206650",
+    "Canonical name": "Fibroadenoma"
+  },
+  {
+    "CUI": "C0333288",
+    "Canonical name": "Dissecting hemorrhage"
+  },
+  {
+    "CUI": "C0008524",
+    "Canonical name": "Structure of choroid plexus"
+  },
+  {
+    "CUI": "C0228233",
+    "Canonical name": "Left temporal lobe structure"
+  },
+  {
+    "CUI": "C0162770",
+    "Canonical name": "Right Ventricular Hypertrophy"
+  },
+  {
+    "CUI": "C2937358",
+    "Canonical name": "Cerebral Hemorrhage"
+  },
+  {
+    "CUI": "C0456973",
+    "Canonical name": "Hilar lymphadenopathy"
+  },
+  {
+    "CUI": "C0040132",
+    "Canonical name": "Thyroid Gland"
+  },
+  {
+    "CUI": "C0222819",
+    "Canonical name": "Bone structure of first rib"
+  },
+  {
+    "CUI": "C0301559",
+    "Canonical name": "Screw"
+  },
+  {
+    "CUI": "C0224868",
+    "Canonical name": "Tendon of supraspinatus muscle"
+  },
+  {
+    "CUI": "C0022650",
+    "Canonical name": "Kidney Calculi"
+  },
+  {
+    "CUI": "C0227613",
+    "Canonical name": "Right kidney"
+  },
+  {
+    "CUI": "C0022907",
+    "Canonical name": "Lacrimal gland structure"
+  },
+  {
+    "CUI": "C0456944",
+    "Canonical name": "Coronary sinus structure"
+  },
+  {
+    "CUI": "C0008913",
+    "Canonical name": "Bone structure of clavicle"
+  },
+  {
+    "CUI": "C0032994",
+    "Canonical name": "Pregnancy, Tubal"
+  },
+  {
+    "CUI": "C0521108",
+    "Canonical name": "Recovering from"
+  },
+  {
+    "CUI": "C0228120",
+    "Canonical name": "Structure of falx cerebri"
+  },
+  {
+    "CUI": "C0578735",
+    "Canonical name": "Axillary lymphadenopathy"
+  },
+  {
+    "CUI": "C0016427",
+    "Canonical name": "Follicular cyst"
+  },
+  {
+    "CUI": "C0181598",
+    "Canonical name": "Left ventricular assist device"
+  },
+  {
+    "CUI": "C0033785",
+    "Canonical name": "Pseudarthrosis"
+  },
+  {
+    "CUI": "C0225477",
+    "Canonical name": "Right sphenoid sinus structure"
+  },
+  {
+    "CUI": "C0032987",
+    "Canonical name": "Ectopic Pregnancy"
+  },
+  {
+    "CUI": "C0041321",
+    "Canonical name": "Tuberculosis, Miliary"
+  },
+  {
+    "CUI": "C0040137",
+    "Canonical name": "Thyroid Nodule"
+  },
+  {
+    "CUI": "C0446409",
+    "Canonical name": "Vertebral level"
+  },
+  {
+    "CUI": "C0005400",
+    "Canonical name": "Bile duct structure"
+  },
+  {
+    "CUI": "C1458136",
+    "Canonical name": "Renal stone substance"
+  },
+  {
+    "CUI": "C0085222",
+    "Canonical name": "Psoas Abscess"
+  },
+  {
+    "CUI": "C0836916",
+    "Canonical name": "Abdominal wall structure"
+  },
+  {
+    "CUI": "C0007874",
+    "Canonical name": "Cervix Uteri"
+  },
+  {
+    "CUI": "C0152240",
+    "Canonical name": "Uterus bilocularis"
+  },
+  {
+    "CUI": "C0227060",
+    "Canonical name": "Mandibular left first premolar tooth"
+  },
+  {
+    "CUI": "C0034196",
+    "Canonical name": "Pylorus"
+  },
+  {
+    "CUI": "C0005937",
+    "Canonical name": "Bone Cysts"
+  },
+  {
+    "CUI": "C0034186",
+    "Canonical name": "Pyelonephritis"
+  },
+  {
+    "CUI": "C0025474",
+    "Canonical name": "Mesentery"
+  },
+  {
+    "CUI": "C2004491",
+    "Canonical name": "Cicatrix"
+  },
+  {
+    "CUI": "C0225975",
+    "Canonical name": "Serous portion of pericardium"
+  },
+  {
+    "CUI": "C0226378",
+    "Canonical name": "Structure of uterine artery"
+  },
+  {
+    "CUI": "C0205271",
+    "Canonical name": "Irregular"
+  },
+  {
+    "CUI": "C0225990",
+    "Canonical name": "Large blood vessel structure"
+  },
+  {
+    "CUI": "C0223185",
+    "Canonical name": "Body of seventh cervical vertebra"
+  },
+  {
+    "CUI": "C0030747",
+    "Canonical name": "Pectoralis Muscles"
+  },
+  {
+    "CUI": "C0025589",
+    "Canonical name": "Metatarsophalangeal joint structure"
+  },
+  {
+    "CUI": "C0011350",
+    "Canonical name": "Dental Enamel"
+  },
+  {
+    "CUI": "C0032044",
+    "Canonical name": "Placenta Accreta"
+  },
+  {
+    "CUI": "C0224424",
+    "Canonical name": "Structure of gluteus maximus muscle"
+  },
+  {
+    "CUI": "C1305773",
+    "Canonical name": "Entire symphysis pubis"
+  },
+  {
+    "CUI": "C0225478",
+    "Canonical name": "Left sphenoid sinus structure"
+  },
+  {
+    "CUI": "C0030274",
+    "Canonical name": "Pancreas"
+  },
+  {
+    "CUI": "C0035237",
+    "Canonical name": "Respiratory System"
+  },
+  {
+    "CUI": "C0448311",
+    "Canonical name": "Extraocular rectus muscle"
+  },
+  {
+    "CUI": "C1284290",
+    "Canonical name": "Entire hilum of left lung"
+  },
+  {
+    "CUI": "C0028863",
+    "Canonical name": "Muscle of orbit"
+  },
+  {
+    "CUI": "C0225435",
+    "Canonical name": "Middle nasal turbinate structure"
+  },
+  {
+    "CUI": "C0229619",
+    "Canonical name": "Hemopoietic tissue"
+  },
+  {
+    "CUI": "C0729890",
+    "Canonical name": "Iliac vessel"
+  },
+  {
+    "CUI": "C0036525",
+    "Canonical name": "Metastatic to"
+  },
+  {
+    "CUI": "C0227188",
+    "Canonical name": "Thoracic esophagus"
+  },
+  {
+    "CUI": "C0162860",
+    "Canonical name": "Structure of inferior mesenteric artery"
+  },
+  {
+    "CUI": "C0994163",
+    "Canonical name": "Cholangiopancreatography, Magnetic Resonance"
+  },
+  {
+    "CUI": "C0024305",
+    "Canonical name": "Lymphoma, Non-Hodgkin"
+  },
+  {
+    "CUI": "C0226398",
+    "Canonical name": "Structure of external iliac artery"
+  },
+  {
+    "CUI": "C0448011",
+    "Canonical name": "Mental Foramen"
+  },
+  {
+    "CUI": "C0178802",
+    "Canonical name": "Pleural cavity"
+  },
+  {
+    "CUI": "C0019149",
+    "Canonical name": "Common Hepatic Duct"
+  },
+  {
+    "CUI": "C0009450",
+    "Canonical name": "Communicable Diseases"
+  },
+  {
+    "CUI": "C0228084",
+    "Canonical name": "Nerve root structure"
+  },
+  {
+    "CUI": "C0400979",
+    "Canonical name": "Obstruction of biliary tree"
+  },
+  {
+    "CUI": "C0223984",
+    "Canonical name": "Entire second metatarsal"
+  },
+  {
+    "CUI": "C0003151",
+    "Canonical name": "Anterior chamber of eye structure"
+  }
+]
